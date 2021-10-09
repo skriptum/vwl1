@@ -5,3 +5,5 @@
 *https://de.wikipedia.org/wiki/Volkswirtschaftslehre*
 
 zentraler Zugang und Speicher aller Notizen im [Markdown-Format](https://daringfireball.net/projects/markdown/) 
+
+![Marx](images/karl_marx30.jpg)
