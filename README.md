@@ -13,3 +13,5 @@
 zentraler Zugang und Speicher aller Notizen meines VWL-Studiums im [Markdown-Format](https://daringfireball.net/projects/markdown/) 
 
 Dateinamenformat: YYYY-MM-DD-Titel.md
+
+Markdown Additions used: [LATEX Notation](https://latex.org/forum/), [Mermaid Diagrams](https://mermaid-js.github.io/mermaid/#/)  
