@@ -27,7 +27,7 @@ graph
   end
 ```
 
-### Aufgaben
+### Aufgaben / Geschäftsfälle
 
 unternehmerische Aufgaben im Betrieb
 
