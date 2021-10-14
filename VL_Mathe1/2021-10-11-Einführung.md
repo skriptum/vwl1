@@ -113,23 +113,3 @@ jeder Vektor lässt sich durch Einheitsvektoren darstelle
 
 \-\> Einheitsv. $(e_1,...,e_n)$ sind Basis von $R^n$
 
-
-
-### Matrizen
-
-
-
-| **Beispiel** mit Lebensmitteln | Schoko | Erdnuss | Gummibärchen |
-| ------------------------------ | ------ | ------- | ------------ |
-| Fett                           | 36     | 31      | 0,5          |
-| Kohlenhydrate                  | 48     | 40      | 77           |
-| Eiweis                         | 6      | 14      | 7            |
-| Salz                           | 0,04   | 2,28    | 0,07         |
-
-`Frage: wie viel (fett, ..., salz) haben 400g Schoko, 200g Erdnüsse und 500g Gummis zusammen?`
-$$
-Portionen(100g):v = \left(\begin{array}{c} 4 \\ 2 \\ 5 \end{array}\right) ,
-fett= \left(\begin{array}{c} 36 \\ 31 \\ 0,5 \end{array}\right)
-\\
-\implies <v,fett> = 4*36 + 2`31  
-$$
