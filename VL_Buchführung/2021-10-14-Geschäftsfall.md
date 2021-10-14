@@ -37,5 +37,6 @@ jedem Fall (*bsp Lohnzahlung mit Banküberweisung*) liegt ein/mehrere **Belege**
 
 **Beleg**: dokumentiert Erfassung des Gf, wichtiger Nachweis für Kontrolle , zwingend!
 
-ohne aufzeichnungen = **CHAOS! ** (überblick über erfolg, betriebsgeschehen )
+ohne aufzeichnungen = **CHAOS! ** (überblick über erfolg, betriebsgeschehen ), also 
 
+> **Buchführung:** planmäßige, lückenlose Aufzeichnung aller Geschäftsfälle 
