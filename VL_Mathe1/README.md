@@ -22,7 +22,7 @@ Ort: Großer Hörsaal [WiWi]
 
 ### Klausur
 
-Multiple-Choice-Klausur 
+Multiple-Choice-Klausur ,  online
 
 ### Literatur
 
