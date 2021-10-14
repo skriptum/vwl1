@@ -39,4 +39,5 @@ jedem Fall (*bsp Lohnzahlung mit Banküberweisung*) liegt ein/mehrere **Belege**
 
 ohne aufzeichnungen = **CHAOS! ** (überblick über erfolg, betriebsgeschehen ), also 
 
-> **Buchführung:** planmäßige, lückenlose Aufzeichnung aller Geschäftsfälle 
+> **Buchführung:** planmäßige, lückenlose Aufzeichnung aller Geschäftsfälle (s.22)
+
