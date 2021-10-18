@@ -1,33 +1,10 @@
 # Wirtschaftsinformatik
 
+StudIP: https://studip.uni-halle.de/dispatch.php/course/overview?cid=df0f041ad274fc2c80bd4cb393912a92 
 
+Prof: [Prof. Dr. Taieb Mellouli](https://studip.uni-halle.de:443/dispatch.php/profile?cid=df0f041ad274fc2c80bd4cb393912a92&username=wif6w)
 
-### Bedeutung
-
-Informationen = Produktionsfaktor / Ressource
-
-Bewirtschaftung der Information = **Wirtschaftsinformatik**
-
-```mermaid
-graph TD
-Kunde --> Geschäftsmodell
-subgraph Unternehmen
-Geschäftsmodell --> Geschäftsprozesse --> anwendungssysteme --> Infrastruktur
-end
-
-```
-
-
-
-bestmöglicher Einsatz der Ressource Information (Hinblick Unternehmensziele) durch: 
-
-- **Enabler:** Geschäftsmodelle durch Information ( Online Handel, Soziale Medien)
-- **Align**: IT als Unterstützer geschäftlicher Impulse
-
->  WI: **Konzeption, Entwicklung, Einführung, Wartung, Nutzung** von Systemen in von computergestützte Informationsverarbeitung-Systemen in **Betrieben**
-
-Herausforderungen: Internet of Things, Web 2.0 
-
+Zeit: online, asynchron, hochgeladen als OpenCast
 
 
 ### Klausur
