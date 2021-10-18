@@ -97,7 +97,48 @@ Wirtschaftsinformatik <--> Information Systems (angelsächsisch):
 
 
 
-### Darstellung
+### Codierung + Darstellung
 
 zentrale Informationseinheiten: *Bit* (Binary Digit) und *Byte* (8 Bit)
+
+**Dualsystem** B=2: Ziffernmenge {0,1}
+
+| Stelle | 0    | 1    | 2    | 3    | 4    | 5    | 6    | 7    | n    |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Wert   | 2^0  | 2^1  | 2^2  | 2^3  | 2^4  | 2^5  | 2^6  | 2^7  | 2^n  |
+| Dezi.  | 1    | 2    | 4    | 8    | 16   | 32   | 64   | 128  |      |
+
+für bessere / verkürzte Schreibweise das Hexadezimalsystem: Ziffernmenge {0,1,2,...,9,A,B,...,F} für 16er Basis
+
+
+
+**Darstellungsarten:**
+
+[ASCII-Code](https://www.ascii-code.com/) als Text-Darstellung von Bytes
+
+- 7-Bit / 8-Bit mit Länderspezifiken
+- bspw. 01000001 (65) = A
+
+oder auch Verschlüsselungen etc...
+
+
+
+### Verarbeitung
+
+Verarbeitung von Daten / Informationen erfolgt mit Hilfe von *Programmen*
+
+> **Programm:** in einer *Programmiersprache* formulierter *Algorithmus* + die zu verarbeitenden Daten
+
+> **Algorithmus:** genau definierte Rechen-/Handlungs-/Verarbeitungsvorschrift zur Lösung eines Problems
+
+> **Programmiersprache:** Sprache mit genau definierter Syntax (Regeln) und Semantik (Bedeutung), 
+>
+> in der Algorithmen formuliert werden können, dass Computer sie ausführen können
+
+
+
+Programmiersprachen: 
+
+- nach *EVA*-Prinzip: Eingabe-Verarbeitung-Ausgabe
+- oft mit Schleifen (*for und while*)
 
