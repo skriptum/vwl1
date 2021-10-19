@@ -142,3 +142,48 @@ Programmiersprachen:
 - nach *EVA*-Prinzip: Eingabe-Verarbeitung-Ausgabe
 - oft mit Schleifen (*for und while*)
 
+
+
+### Datenorganisation
+
+> **Datenorganisation:** logische Strukturierung und physische Speicherung von Daten
+
+
+
+**Ziele:**
+
+- schneller Zugriff
+- leicht aktualisierbar
+- Auswertbar + verknüpfbar
+- Schutz
+- Effizienz (Vermeidung Redundanz)
+
+zentrales Element = *Datei*
+
+> **Datei:** Komplexer Datentyp = dauerhafte Speicherung von Daten auf Datenträger
+>
+> mit Metadaten versehen (bspw. Name, Uhrzeit, Attribute)
+
+
+
+Arten der Dateiorganisation
+
+- sequenzielle Organisation: systematisches Durchlaufen bis Finden
+- direkt addressierbare Organisation: Kenntnis der Adresse -> Zugriff
+
+
+
+### Datenbank
+
+> **Datenbanksystem**: besteht aus
+>
+> - Datenbank
+> - Datenbankmanagementsystem (DBMS)
+
+Besteht aus Dateien mit *logischer Abhängigkeit* 
+
+DBMS:
+
+- Verwaltung nach Regeln
+- Zugriffsmöglichkeit
+- Sicherheit
