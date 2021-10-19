@@ -1,27 +1,90 @@
 # Gesetzliche Grundlagen
 
-Buchführung = 
-
-- für Staat zur Steuerermittlung
-- Schutz der Gläubiger
+`wer ist buchführungspflichtig?`(BFP)[^1]
 
 
 
-`wer ist buchführungspflichtig?`
+### Handelsrecht
 
-nach §238 HGB: jeder Kaufmann / Kauffrau 
+Gesetzbuch für die Buchführung : *Handelsgesetzbuch* (HGB)
 
-> **Kaufmann/frau**: (S.26 LM) 
->
-> Ist-Kaufmensch (§1):  wer ein (Handels)-Gewerbe betreibt (kein Kleingewerbe)
->
-> Kann-Kaufmensch (§2): gewerbliches Unternehmen im Handelsregister 
+nach §238 HGB: jeder *Kaufmann / Kauffrau* 
+
+**Kaufmann** (S.26 LM) 
+
+1. Ist-Kaufmensch (§1):  wer ein (Handels)-*Gewerbe* betreibt (kein Kleingewerbe)
+
+2. Kann-Kaufmensch (§2): Gewerbetreibender freiwillig im *Handelsregister* (und nicht §1)
+    - Land / Forstwirte (§3): gesetzl. kein Kaufm., kann freiwillig ins Handelsregister (wie §2) 
+
+3. Form-Kaufmensch (§6): *Handelsgesellschaften* 
 
 
 
 > **Gewerbe:** auf Dauer angelegte wirtschaftliche Tätigkeit mit *Gewinnerzielungsabsicht*
+
+Kleingewerbe im Einzelhandel: Umsatz < 250k 
+
+Kleingewerbe im Großhandel: Umsatz < 400k
+
+
+
+> **Handelsregister:** öffentliches Verzeichnis eines Amtsgerichtes, Eintragung aller Kaufmänner und Situation (Geschäftsführer etc)
+
+Vorteil der Eintragung ins Handelsregister: verbessertes Ansehen -> geldwerter Vorteil
+
+
+
+> **Handelsgesellschaft:** Gesellschaft nach HGB wie *GmbH, OHG, ...*  (außer GbR)
+
+
+
+> **Freiberufler/Selbständige**: maßgeblich in eigener Person sein Unternehmen Mitarbeiter (meist Akademisch)
 >
-> Kleingewerbe-Einzelhandel: Umsatz < 250k 
->
-> Kleingewerbe-Großhandel: Umsatz < 400k
+> `Freiberufler sind nie buchführungspflichtig!`
+
+Typische Selbständige: Ärzte, Rechtsanwälte, Steuerberater, Architekten,...
+
+selbständig und nicht buchführungspflichtig: muss *Einahmen-Überschuss-Rechnung* erstellen 
+
+
+
+Handelsrechtliche Vorschriften zur Buchführung: HGB§§238 - 335 (s.23 LM)
+
+---
+
+### Steuerrecht
+
+*Abgabenordnung* AO("Grundgesetz" des Steuerrechtes)
+
+**steuerrechtliche BFP**[^1]
+
+1. Abgeleitete BFP (§140): wer nach HGB BFP ist, ist auch nach AO
+
+2. originäre BFP ($141): nicht nach HGB bfp, aber wenn eines dieser Merkmale:
+
+    - Gesamtumsatz im Kalenderjahr > 600k
+
+    - Gewinn > 60k
+
+        und nicht Selbständig!
+
+
+
+Steuerrechtliche Vorschriften zur BFP: 
+
+- Abgabenordnung (AO)
+- Einkommensteuergesetz (EStG)
+    - Steuer die Unternehmer oder Arbeitnehmer ( Lohnsteuer) zahlen
+- Körperschaftsteuergesetz (KStG)
+    - Kapitalgesellschaften
+- Umsatzsteuergesetz (UStG) , ugs. Mehrwertsteuer
+    - zwei Arten: USt und USt im Einkauf (Vorsteuer)
+- Einkommensteuerrichtlinen (EStR)
+
+---
+
+[^1]: Buchführungspflicht / buchführungspflichtig
+
+
 
