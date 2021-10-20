@@ -27,3 +27,8 @@ Multiple-Choice-Klausur ,  online
 ### Literatur
 
 - Mathematik für Wirtschaftswissenschaften (UTB), Terveer
+
+
+
+### Folien
+

@@ -31,13 +31,5 @@ Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, 
 | VWL                   | Prof. Dr. Lars Börner    | asynchron | [README.md](VL_VWL/README.md)                   |
 | Wirtschaftsinformatik | Prof. Dr. Taieb Mellouli | Asynchron | [README.md](VL_Wirtschaftsinformatik/README.md) |
 
-
-
-### Modulhandbuch
-
-<!-- For Docsify a PDF Embed, just ignore -->
-
-```pdf
-    /images/modulhandbuch.pdf
-```
+[Modulhandbuch](https://raw.githubusercontent.com/skriptum/vwl1/main/images/modulhandbuch.pdf)
 
