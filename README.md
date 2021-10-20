@@ -16,7 +16,7 @@
 
 ### Allgemeine Infos 
 
-Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, wie eine Art Wissenspeicher. Erstellt wurden sie mithilfe von [Markdown](markdownguide.org) und als Website auf [GitHub Pages](pages.github.com) hochgeladen. 
+Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, wie eine Art Wissenspeicher. Erstellt wurden sie mithilfe von [Markdown](https://www.markdownguide.org/) und als Website auf [GitHub Pages](https://pages.github.com) hochgeladen. 
 
 
 

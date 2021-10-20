@@ -18,7 +18,6 @@
  - Mathe
 
     -  [Allgemein](VL_Mathe1/README.md)
-    -   [Folien](VL_Mathe1/Folien.md) 
     -  [2021-10-11-Einführung.md](VL_Mathe1/2021-10-11-Einfuehrung.md) 
     -  [2021-10-14-Matrizen.md](VL_Mathe1/2021-10-14-Matrizen.md) 
     -  [2021-10-18-Matrizen2.md](VL_Mathe1/2021-10-18-Matrizen2.md) 
