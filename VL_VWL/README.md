@@ -8,8 +8,14 @@ Prof: [Prof.Dr. Lars Börner](https://studip.uni-halle.de:443/dispatch.php/profi
 
 Zeiten: online, asnychron
 
-Übung: Gruppe H, Freitag 13:00 - 14:30
+- Audio Folien jeweils Wochenbeginn
 
+Übung: Gruppe H, Freitag 13:00 - 14:30, Nils Sulzmann
 
+Kontakt: gvwl@wiwi.uni-halle.de
 
 ### Klausur
+
+- Schriftlich 60 Minuten
+
+- Multiple Choice
