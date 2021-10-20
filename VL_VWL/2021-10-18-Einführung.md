@@ -18,7 +18,7 @@
 
 
 
-### Übersicht VWL
+## Übersicht VWL
 
 > **VWL:** Untersuchung über die "effiziente" Allokation von *Ressourcen* und die Entscheidung von Individuen/Gesellschaften wie viele, wofür Ressourcen eingesetzt
 
@@ -27,7 +27,7 @@
 
 
 
-##### ökonomische Denkweise
+### ökonomische Denkweise
 
 - Opportunitätskosten
     - beste alternative, die wir verpassen, wenn wir Entscheidung treffen (bei beschränkten Güter/Alternativen)
@@ -40,16 +40,64 @@
 
 
 
-##### Bereiche der Ökonomie
+### Bereiche der Ökonomie
 
 1. Mikroökonomik
     - analysiert Entscheidungsprobleme und Kooridinationsvorgänge in der *Arbeitsteilung*
     - Analyse von Haushalten, Unternehmen, Industrien
 
-3. Makroökonomik
+2. Makroökonomik
 
-   - gesamtwirtschaftliche Vorgänge anhand von zusammengefassten Sektoren und Analyse mithilfe von Aggregatvariablen
-   - Einkommen, Beschäftigung, Inflation
-   
-   
+    - gesamtwirtschaftliche Vorgänge anhand von zusammengefassten Sektoren und Analyse mithilfe von Aggregatvariablen
+    - Einkommen, Beschäftigung, Inflation
+
+3. Verhaltensökonomik
+
+4. Ökonometrie
+
+5. Wirtschaftsgeschichte
+
+6. Umweltökonomik
+
+7. Finance
+
+8. ... vieles weiteres
+
+
+
+### Ökonomische Methoden
+
+ **positive Ökonomik**: umfasst Analysen und Theorien über ökonomische Welt => rein deskriptiv, wie Welt ist
+
+vs
+
+**normative Ökonomik**: basiert auf Wertvorstellungen und normativen Diskursen => präskriptiv, wie Welt sein sollte
+
+
+
+**Modell**: formale Aussage einer Theorie, üblicherweise mathematische Aussage von Beziehung zwischen Variablen
+
+**Variablen**: Messung, welche sich über Beobachtungszeitraum verändern kann
+
+**Ockhams Rasiermesser:** philosphisches Rasiermesser, unwichtiges wehschneiden
+
+**Ceteris Paribus** (unter sonst gleichen Bedingungen) : 
+
+- bei Untersuchung zweier Variablen: alle anderen Variablen müssen gleich bleiben
+- erlaubt Abstrahieren 
+
+
+
+Probleme: Korrelation <--> Kausalität
+
+
+
+### Exkurs Wirtschaftspolitik
+
+- Effizienz (allokativ): nachgefragte Güter zu niedrigsten Kosten produzieren
+- Gleichheit: gleiche Verteilung von Wirtschaftsgütern
+- Wachstum: Erhöhung des Gesamtoutputs einer Ökonomie
+- Stabilität: Fluktuation reduzieren und Inflation auf stabilem Niveau
+
+
 

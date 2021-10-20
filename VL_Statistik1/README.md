@@ -4,7 +4,11 @@ StudIP: https://studip.uni-halle.de/dispatch.php/course/details?sem_id=f69e6edd6
 
 Prof: [Prof. Dr. Claudia Becker](https://studip.uni-halle.de:443/dispatch.php/profile?cid=f69e6edd60aa482027bace682879a7bf&username=wifr5)
 
-Zeiten: asynchron, online
+Zeiten: asynchron, online über ILIAS
 
-Übung: Mittwoch 13:00 - 14:30
+### Übung: 
+
+Mittwoch 13:00 - 14:30, Online über Meeting
+
+Kontakt: statistik.uebung@wiwi.uni-halle.de
 

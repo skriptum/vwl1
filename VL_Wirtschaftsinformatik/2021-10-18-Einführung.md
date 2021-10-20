@@ -91,7 +91,7 @@ Wirtschaftsinformatik <--> Information Systems (angelsächsisch):
 
 
 
-![2021-10-18_11-07](../images/2021-10-18_11-07.png)
+![2021-10-18_11-07](../images/21-10-18_11-07.png)
 
 
 
