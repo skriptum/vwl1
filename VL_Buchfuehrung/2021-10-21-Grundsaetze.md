@@ -78,3 +78,23 @@ Formen der Inventur  (LM S.42):
 > Fortschreibung: Wert am Aufnahmetag + Wert der Zugänge / Abgänge Zwischenzeit = Wert Bilanzstichtag
 >
 > Rückrechnung: Wert am Aufnahmetag - Wert der Zugänge / Abgänge Zwischenzeit= Wert Bilanzstichtag
+
+
+
+Zur Vorbereitung und Durchführung : 
+
+- Inventurleiter einsetzen  
+- Aufnahmeplan erstellen
+    1. Inventurbereiche definieren
+    2. personelle Besetzung Aufnahmegruppen
+    3. Inventurlisten erstellen 
+    4. Hilfsmittel beschaffen
+    5. Zeitpunkt festlegen
+- Inventur Durchführen
+- Verzeichnis erstellen (*Inventar*)
+
+
+
+> **Inventar:** 
+>
+> ausführliches Bestandsverzeichnis nach Art, Menge, Wert
