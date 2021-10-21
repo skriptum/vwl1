@@ -1,6 +1,6 @@
 # Gesetzliche Grundlagen
 
-`wer ist buchführungspflichtig?`(BFP)[^1]
+`wer ist buchführungspflichtig?`(BFP)
 
 
 
@@ -12,12 +12,12 @@ nach §238 HGB: jeder *Kaufmann / Kauffrau*
 
 **Kaufmann** (S.26 LM) 
 
-1. Ist-Kaufmensch (§1):  wer ein (Handels)-*Gewerbe* betreibt (kein Kleingewerbe)
+1. Ist-Kaufmensch (§1):  wer ein (Handels)-*Gewerbe* betreibt (kein Kleingewerbe) mit kaufmänisch eingerichtetem Geschäftsbetrieb
 
 2. Kann-Kaufmensch (§2): Gewerbetreibender freiwillig im *Handelsregister* (und nicht §1)
     - Land / Forstwirte (§3): gesetzl. kein Kaufm., kann freiwillig ins Handelsregister (wie §2) 
 
-3. Form-Kaufmensch (§6): *Handelsgesellschaften* 
+3. Form-Kaufmensch (§6): *Handelsgesellschaften* oder *Genossenschaften*
 
 
 
@@ -57,11 +57,11 @@ Handelsrechtliche Vorschriften zur Buchführung: HGB§§238 - 335 (s.23 LM)
 
 *Abgabenordnung* AO("Grundgesetz" des Steuerrechtes)
 
-**steuerrechtliche BFP**[^1]
+**steuerrechtliche BFP**
 
 1. Abgeleitete BFP (§140): wer nach HGB BFP ist, ist auch nach AO
 
-2. originäre BFP ($141): nicht nach HGB bfp, aber wenn eines dieser Merkmale:
+2. originäre BFP ($141): nicht nach HGB bfp, aber wenn eines dieser Merkmale: 
 
     - Gesamtumsatz im Kalenderjahr > 600k
 
@@ -83,8 +83,6 @@ Steuerrechtliche Vorschriften zur BFP:
 - Einkommensteuerrichtlinen (EStR)
 
 ---
-
-[^1]: Buchführungspflicht / buchführungspflichtig
 
 
 

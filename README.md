@@ -24,7 +24,7 @@ Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, 
 
 | Modul                 | Professor                | Modus     | Übersichtslink                                  |
 | --------------------- | ------------------------ | --------- | ----------------------------------------------- |
-| Buchführung           | Dr. Bernd Schuster       | Präsenz   | [README.md](VL_Buchführung/README.md)           |
+| Buchführung           | Dr. Bernd Schuster       | Präsenz   | [README.md](VL_Buchfuehrung/README.md)          |
 | BWL                   | Prof. Dr. Julia Seeger   | asynchron | [README.md](VL_BWL/README.md)                   |
 | Mathematik I          | PD. Maren Hantke         | Präsenz   | [README.md](VL_Mathe1/README.md)                |
 | Statistik I           | Prof. Dr. Claudia Decker | asynchron | [README.md](VL_Statistik1/README.md)            |

@@ -12,3 +12,9 @@ Mittwoch 13:00 - 14:30, Online über Meeting
 
 Kontakt: statistik.uebung@wiwi.uni-halle.de
 
+
+
+### Klausur
+
+Altklausur: https://statistik.wiwi.uni-halle.de/lehre/203701_3339407/
+
