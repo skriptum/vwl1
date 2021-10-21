@@ -24,8 +24,6 @@ GoB (LM S.31):
 
 Verstöße gegen GoB (können) => Schätzung (Umsatz, Gewinn) durch Finanzbehörden **SCHLECHT!​**
 
-
-
 ### Inventur
 
 > **Inventur:**
@@ -98,3 +96,4 @@ Zur Vorbereitung und Durchführung :
 > **Inventar:** 
 >
 > ausführliches Bestandsverzeichnis nach Art, Menge, Wert
+

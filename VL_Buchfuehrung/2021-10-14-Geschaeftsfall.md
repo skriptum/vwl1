@@ -8,7 +8,7 @@ Rechengrößen: (*zur Abgrenzung: S.38f*)
 | **Aufwendungen** = Wertverzehr                              | **Kosten** = betriebsbedingter Werteverzehr         |
 | Erträge - Aufwendungen = ***Erfolg*** (Gewinn oder Verlust) | Leistungen - Kosten = ***Betriebsergebnis***        |
 
-**i.d.R: ** Erfolg $\neq$ Betriebsergebnis
+**i.d.R:** Erfolg $\neq$ Betriebsergebnis
 
 Weitere Begriffe:
 
@@ -37,7 +37,7 @@ jedem Fall (*bsp Lohnzahlung mit Banküberweisung*) liegt ein/mehrere **Belege**
 
 **Beleg**: dokumentiert Erfassung des Gf, wichtiger Nachweis für Kontrolle , zwingend!
 
-ohne aufzeichnungen = **CHAOS! ** (überblick über erfolg, betriebsgeschehen ), also 
+ohne aufzeichnungen = **CHAOS!** (überblick über erfolg, betriebsgeschehen ), also 
 
 
 
