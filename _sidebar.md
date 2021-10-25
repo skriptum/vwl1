@@ -24,8 +24,8 @@
     -  [Allgemein](VL_Mathe1/README.md)
     -  [2021-10-11-Einführung.md](VL_Mathe1/2021-10-11-Einfuehrung.md) 
     -  [2021-10-14-Matrizen.md](VL_Mathe1/2021-10-14-Matrizen.md) 
-    -  [2021-10-18-Matrizen2.md](VL_Mathe1/2021-10-18-Matrizen2.md) 
-    
+    -  [2021-10-18-Linear.md](VL_Mathe1/2021-10-18-Linear.md) 
+    -  [2021-10-25-Inversen.md](VL_Mathe1/2021-10-25-inverses.md) 
 
 
 
