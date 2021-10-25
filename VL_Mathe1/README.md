@@ -32,3 +32,5 @@ Multiple-Choice-Klausur ,  online
 
 ### Folien
 
+[Link](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_Mathe1/VL_Mathe.pdf)
+

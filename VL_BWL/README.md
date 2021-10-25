@@ -30,5 +30,7 @@ Ziel: Vertiefung der VL-Inhalte
 
 ### Dokumente
 
-[Folien]
+[Buch](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_BWL/Schierenbeck%20and%20W%C3%B6hle%20-%202016%20-%20Grundz%C3%BCge%20der%20Betriebswirtschaftslehre.pdf)
+
+[Syllabus](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_BWL/VL_BWL.pdf)
 

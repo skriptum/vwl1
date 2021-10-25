@@ -19,3 +19,12 @@ Kontakt: gvwl@wiwi.uni-halle.de
 - Schriftlich 60 Minuten
 
 - Multiple Choice
+
+
+
+### Dokumente
+
+[Buch](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_VWL/Principles%20of%20Economics%20by%20Karl%20E.%20Case%2C%20Ray%20C.%20Fair%2C%20Sharon%20E.%20Oster%20(z-lib.org).pdf) : Principles of Economics, Pearson Verlag
+
+[Syllabus](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_VWL/VWL-2021.pdf)
+
