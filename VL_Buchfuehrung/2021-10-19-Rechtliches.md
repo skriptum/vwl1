@@ -40,7 +40,6 @@ Vorteil der Eintragung ins Handelsregister: verbessertes Ansehen -> geldwerter V
 
 
 > **Freiberufler/Selbständige**: maßgeblich in eigener Person sein Unternehmen Mitarbeiter (meist Akademisch)
->
 > `Freiberufler sind nie buchführungspflichtig!`
 
 Typische Selbständige: Ärzte, Rechtsanwälte, Steuerberater, Architekten,...

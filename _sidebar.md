@@ -17,6 +17,8 @@
    - [2021-10-14-Grundlagen.md](VL_BWL/2021-10-14-Grundlagen.md) 
 
 
+
+
  - Mathe
 
     -  [Allgemein](VL_Mathe1/README.md)
@@ -24,6 +26,10 @@
     -  [2021-10-14-Matrizen.md](VL_Mathe1/2021-10-14-Matrizen.md) 
     -  [2021-10-18-Matrizen2.md](VL_Mathe1/2021-10-18-Matrizen2.md) 
     
+
+
+
+
  - VWL
 
     - [Allgemein](VL_VWL/README.md) 
@@ -34,6 +40,7 @@
  - Statistik
 
     - [Allgemein](VL_Statistik1/README.md) 
+    - [2021-10-18-Notizen.md](VL_Statistik1/2021-10-18-Notizen.md) 
     -  [2021-10-18-Übung1.md](VL_Statistik1/2021-10-18-Uebung1.md) 
     
     
