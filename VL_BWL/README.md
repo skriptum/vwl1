@@ -4,6 +4,8 @@
 
 Stud.IP: https://studip.uni-halle.de/dispatch.php/course/details?sem_id=113433db124a2ae1dd9c68650141c7ac
 
+ILIAS Vorlesungsvideos: [ILIAS](https://ilias.uni-halle.de/goto.php?target=crs_217678&client_id=unihalle)
+
 Zeiten: Freitag, 09:00 - 12:00 nach Nachname sortiert
 
 Ort: online
@@ -20,11 +22,13 @@ keine Informationen bisher zu Art
 
 Vorbereitungstermin: 2.2.22
 
-
-
 ### Übung
 
 Klausurrelevant! 
 
 Ziel: Vertiefung der VL-Inhalte
+
+### Dokumente
+
+[Folien]
 

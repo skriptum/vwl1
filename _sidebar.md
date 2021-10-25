@@ -15,6 +15,7 @@
 
    - [Allgemein](VL_BWL/README.md) 
    - [2021-10-14-Grundlagen.md](VL_BWL/2021-10-14-Grundlagen.md) 
+   -  [2021-10-25-Management.md](VL_BWL/2021-10-25-Management.md) 
 
 
 
