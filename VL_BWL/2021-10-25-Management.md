@@ -1,4 +1,4 @@
-# 2021-10-25 Grundlagen des Managements
+# 25.10.21 Grundlagen des Managements
 
 
 

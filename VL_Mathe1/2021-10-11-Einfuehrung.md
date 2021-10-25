@@ -1,4 +1,4 @@
-# 1. Vorlesung
+# 11.10.21 Einführung
 
 **Ziel der Linearen Algebra**: Lösung von linearen Gleichungs / Optimierungsproblemen
 
