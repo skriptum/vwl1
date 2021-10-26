@@ -1,14 +1,10 @@
 # 19.10.21 Gesetzliche Grundlagen
 
-`wer ist buchführungspflichtig?`(BFP)
-
-
-
 ### Handelsrecht
 
 Gesetzbuch für die Buchführung : *Handelsgesetzbuch* (HGB)
 
-nach §238 HGB: jeder *Kaufmann / Kauffrau* 
+`wer ist buchführungspflichtig?`(BFP) nach §238 HGB: jeder *Kaufmann / Kauffrau* 
 
 **Kaufmann** (S.26 LM) 
 
@@ -54,7 +50,7 @@ Handelsrechtliche Vorschriften zur Buchführung: HGB§§238 - 335 (s.23 LM)
 
 ### Steuerrecht
 
-*Abgabenordnung* AO("Grundgesetz" des Steuerrechtes)
+`wer ist buchführungspflichtig?`(BFP) nach *Abgabenordnung* AO("Grundgesetz" des Steuerrechtes) 
 
 **steuerrechtliche BFP**
 

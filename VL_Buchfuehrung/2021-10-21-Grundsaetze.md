@@ -40,16 +40,10 @@ Inventur durchzuführen bei:
 
 
 
-```mermaid
-graph TD
-I((Inventur)) --> KI(körperliche Inventur) & BI(Buchinventur)
-KI --"zählen,messen,wiegen"--> Vermögensgegenstände
-BI --rechnen--> Forderungen/Schulden 
-```
 
 Vergleich zwischen Beständen und Belegen der *BF* 
 
-Formen der Inventur  (LM S.42):
+#### Formen der Inventur  (LM S.42):
 
 - nach Zeitpunkt:
     - Stichtag 
@@ -60,6 +54,9 @@ Formen der Inventur  (LM S.42):
 - nach Umfang
     - Vollinventur
     - Stichproben
+- nach Art
+    - Körperliche Inventur: Vermögensgegenstände
+    - Buchinventur: Forderungen, Schulden
 
 (LM S.44):
 
@@ -92,8 +89,4 @@ Zur Vorbereitung und Durchführung :
 - Verzeichnis erstellen (*Inventar*)
 
 
-
-> **Inventar:** 
->
-> ausführliches Bestandsverzeichnis nach Art, Menge, Wert
 

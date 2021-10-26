@@ -15,17 +15,7 @@
 
 ### Einordnung
 
-Teil des betrieblichen Rechnungswesens, aber **externes Rechnungswesen** [^3] :
-
-```mermaid
-graph 
-	subgraph internes Rechnungswesen
-		Planungsrechnung & Kostenrechnung & Betriebsstatistik   
-  end 
-  subgraph externes
-  Buchführung
-  end
-```
+Teil des betrieblichen Rechnungswesens, aber **externes Rechnungswesen** [^3] 
 
 ### Aufgaben / Geschäftsfälle
 
