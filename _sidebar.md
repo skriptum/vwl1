@@ -8,6 +8,7 @@
    -  [2021-10-14-Geschäftsfall.md](VL_Buchfuehrung/2021-10-14-Geschaeftsfall.md) 
    -  [2021-10-19-Rechtliches.md](VL_Buchfuehrung/2021-10-19-Rechtliches.md) 
    -  [2021-10-21-Grundsaetze.md](VL_Buchfuehrung/2021-10-21-Grundsaetze.md) 
+   -   [2021-10-26-Inventur.md](VL_Buchfuehrung/2021-10-26-Inventur.md) 
 
 
 
@@ -35,6 +36,7 @@
 
     - [Allgemein](VL_VWL/README.md) 
     - [2021-10-18-Einführung.md](VL_VWL/2021-10-18-Einfuehrung.md) 
+    -  [2021-10-27-Knappheit.md](VL_VWL/2021-10-27-Knappheit.md) 
 
 
 
@@ -43,6 +45,7 @@
     - [Allgemein](VL_Statistik1/README.md) 
     - [2021-10-18-Notizen.md](VL_Statistik1/2021-10-18-Notizen.md) 
     -  [2021-10-18-Übung1.md](VL_Statistik1/2021-10-18-Uebung1.md) 
+    -   [2021-10-27-Notizen.md](VL_Statistik1/2021-10-27-Notizen.md) 
     
     
 
