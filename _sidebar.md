@@ -45,7 +45,7 @@
     - [Allgemein](VL_Statistik1/README.md) 
     - [2021-10-18-Notizen.md](VL_Statistik1/2021-10-18-Notizen.md) 
     -  [2021-10-18-Übung1.md](VL_Statistik1/2021-10-18-Uebung1.md) 
-    -   [2021-10-27-Notizen.md](VL_Statistik1/2021-10-27-Notizen.md) 
+    -   [2021-10-27-Darstellungen.md](VL_Statistik1/2021-10-27-Darstellungen.md) 
     
     
 

@@ -50,7 +50,8 @@ $Beispiel \\
 a_1 = 145 , h_1 = 2\\
 a_2 = 180cm , h_2 =1 \\
 a_3 = 170cm , h_3 = 3 $
-​
+
+auch noch erweiterbar um relative Ausprägung $f_i=f(a_i)=h(a_1)/n$ 
 
 > **Klassierte Zusammenfassung:**
 > Werte werden in Klassen (Bereiche) zusammengefasst
@@ -64,7 +65,11 @@ Klasse 1: 130 < x ≤ 150 , m_1 = 140, n_1 = 2\\
 Klasse 2: 150 < x ≤ 170 , m_2 = 160, n_2 = 1\\
 Klasse 3: 170 < x ≤ 190 , m_3 = 180, n_3 = 1$
 
+Klassennotation: 
 
+- mit [] für bis, aber ohne
+- mit () für einschließlich
+- BSP: [100,400) heißt hier einschließlich 100,...,399
 
 ### Summenzeichen
 
