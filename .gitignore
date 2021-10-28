@@ -3,3 +3,4 @@
 *.mp4
 /dokumente
 .Rproj.user
+.ipynb_checkpoints

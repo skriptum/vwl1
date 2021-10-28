@@ -28,6 +28,7 @@
     -  [2021-10-14-Matrizen.md](VL_Mathe1/2021-10-14-Matrizen.md) 
     -  [2021-10-18-Linear.md](VL_Mathe1/2021-10-18-Linear.md) 
     -  [2021-10-25-Inversen.md](VL_Mathe1/2021-10-25-inverses.md) 
+    -   [2021-10-28-Determinanten.md](VL_Mathe1/2021-10-28-Determinanten.md) 
 
 
 
