@@ -1,6 +1,6 @@
 # 28.10.21 
 
-
+[Daniel Jung Video](https://youtu.be/XDjaoEz-7aA)
 
 ### Determinanten
 
@@ -45,13 +45,13 @@ Beispielsweise:
 
 - Additionsmatrizen $R_{ij}$ : addiert *alpha*-fache der i-ten Zeile auf j-te 
 - Vertauschungsmatrizen : Vertauschen von i-ter und j-ter Spalte
-    - ABB1
+    - ![21-10-28-13-38-07](../images/21-10-28-13-38-07.jpg)
 - Skalierungsmatrizen: Skalieren der i-ten Zeile mit *alpha*
-    - ABB2
+    - ![21-10-28-13-39-09](../images/21-10-28-13-39-09.jpg)
 
 Beispielrechnung: 
 
-
+![21-10-28-13-41-18](../images/21-10-28-13-41-18.jpg)
 
 ### wichtige Sätze zu Determinanten
 
@@ -74,3 +74,4 @@ praktische Sätze, die alle das gleiche bedeuten:
 
 Mit Laplace Entwicklungssatz: für Matrizen n>3
 
+Beispielrechnung: ![21-10-28-13-42-54](../images/21-10-28-13-42-54.jpg)

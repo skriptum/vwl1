@@ -9,6 +9,7 @@
    -  [2021-10-19-Rechtliches.md](VL_Buchfuehrung/2021-10-19-Rechtliches.md) 
    -  [2021-10-21-Grundsaetze.md](VL_Buchfuehrung/2021-10-21-Grundsaetze.md) 
    -   [2021-10-26-Inventur.md](VL_Buchfuehrung/2021-10-26-Inventur.md) 
+   -    [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
 
 
 

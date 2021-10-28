@@ -25,6 +25,9 @@
 
 [Modulhandbuch](https://raw.githubusercontent.com/skriptum/vwl1/main/images/modulhandbuch.pdf)
 
+### Bücher 
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=1kOB6NGzuPmBp0V6VcZvS25cWWTPeWjzX#grid" style="width:100%; height:600px; border:0;"></iframe>
 
 ### Allgemeine Infos 
 
@@ -38,13 +41,17 @@ Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, 
 
 ##### Mathe
 
-$\text{Das ist eine Matheblock für mathematische Funktionen} \\
+$$
+\text{Das ist eine Matheblock für mathematische Funktionen} \\
 \begin{align}
     E_0 &= mc^2 \\
     E &= \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}\\
-  \end{align} $
+  \end{align} 
+$$
+
+
 
 geschrieben mit [$\LaTeX$](https://en.wikipedia.org/wiki/LaTeX)
 
-##### Diagramme
+
 
