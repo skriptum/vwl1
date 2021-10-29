@@ -4,7 +4,7 @@ Alle Sachen hochgeladen über [ILIAS](https://ilias.uni-halle.de/goto.php?target
 Format: Online Videos und Übungsaufgaben als PDF
 
 
---- 
+---
 # 27.10.21 Pakete und Datentyp
 ### Packages
 
@@ -59,7 +59,7 @@ typeof(x) # out: double
 ## Integers: komplizierter
 y <- as.integer(3)
 typeof(y) # out: integer
-```
+ ```
 
 #### Character
 Zeichenkette, wie *string* in python
@@ -231,13 +231,19 @@ mode(usa$Murder)
 #b)
 usa$Murder <- as.character(usa$Murder)
 #c)
-state <- usa[0]
+states <- usa[0]
 rownames(usa) <- NULL
 #d)
 usa_m <- as.matrix(usa) #Alles wird zum Character
 usa_tibble <- as.tibble(usa) # Nichts aendert sich
 #e) in listof-list umwandeln ?!!!
 as.list(as.data.frame(t(usa))) 
+
 ```
 
 Lösung für e) gefunden [hier](https://stackoverflow.com/questions/3492379/data-frame-rows-to-a-list)
+
+Aufgabe 2
+```{r}
+
+```

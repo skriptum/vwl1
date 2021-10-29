@@ -17,8 +17,8 @@ Kontakt: gvwl@wiwi.uni-halle.de
 ### Klausur
 
 - Schriftlich 60 Minuten
-
-- Multiple Choice
+- Multiple Choice (30 Minuten) und anderes
+- Übung- + Vorlesung-Inhalte
 
 
 
