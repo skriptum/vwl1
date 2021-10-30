@@ -220,18 +220,18 @@ table(year > 2000) #out: FALSE 117 ; TRUE 117
 sum(year > 2000) #out: 117
 ```
 
-Übung: 
+#### Übungsblatt 
 
+Aufgabe 1
 ```{r}
 usa <- USArrests
-
 ##1
 #a)
 mode(usa$Murder)
 #b)
 usa$Murder <- as.character(usa$Murder)
 #c)
-states <- usa[0]
+states <- rownames(usa)
 rownames(usa) <- NULL
 #d)
 usa_m <- as.matrix(usa) #Alles wird zum Character
@@ -245,5 +245,14 @@ Lösung für e) gefunden [hier](https://stackoverflow.com/questions/3492379/data
 
 Aufgabe 2
 ```{r}
-
+#a)
+states[c(7,13,33:36,47)]
+#b)
+usa_m[c(2:10,17,24,38,48),c(2,4)]
+#d)
+murder_less_than_5 <- usa[usa$Murder < 5,]
+#e)
+extreme_pop_matrix <- usa[usa$UrbanPop >= 80 | usa$UrbanPop <= 50, ]
+#f)
+dist <- as.vector(rnorm(n=1000, mean=35, sd=10))
 ```

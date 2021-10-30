@@ -173,17 +173,3 @@ Arten der Dateiorganisation
 
 
 
-### Datenbank
-
-> **Datenbanksystem**: besteht aus
->
-> - Datenbank
-> - Datenbankmanagementsystem (DBMS)
-
-Besteht aus Dateien mit *logischer Abhängigkeit* 
-
-DBMS:
-
-- Verwaltung nach Regeln
-- Zugriffsmöglichkeit
-- Sicherheit
