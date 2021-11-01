@@ -30,6 +30,7 @@
     -  [2021-10-18-Linear.md](VL_Mathe1/2021-10-18-Linear.md) 
     -  [2021-10-25-Inversen.md](VL_Mathe1/2021-10-25-inverses.md) 
     -   [2021-10-28-Determinanten.md](VL_Mathe1/2021-10-28-Determinanten.md) 
+    -    [2021-11-01-Determinante2.md](VL_Mathe1/2021-11-01.md) 
 
 
 
