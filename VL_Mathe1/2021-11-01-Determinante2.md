@@ -35,11 +35,15 @@ Außerdem: (Satz 74) bei *Ax=b* ist $x_k = \frac{det(A_k)}{det(A)}$
 
 die Matrix $A_k$ ist A mit der k-ten Spalte ersetzt durch *b*. 
 
-**Matrix-Inverse:**Cramer hilft bei $A * A^{-1} = I $ , und wir suchen die einen Punkt der Inverse
+**Matrix-Inverse:** wenn wir ein Element der inversen Matrix suchen, dann Anwendung der Cramerschen Regel
 
-Beispielrechnung: ![21-11-01-14-04-53](../images/21-11-01-14-04-53.jpg)
+$a_{ij}^{-1} = \frac{det([a_1,...,e_j,...,a_n])}{det(A)}$ (in A ersetzen der i-ten Spalte mit dem j-ten Einheitsvektor)
 
-###  Komplexe Zahlen
+Beispielrechnung: wir suchen die Inverse einer beispielhaften Matrix: Lösungen auf rechter Seite.![21-11-01-14-04-53](../images/21-11-01-14-04-53.jpg)
+
+
+
+##  Komplexe Zahlen
 
 Einführung der *imaginären Einheit i*. für *i* gilt $i^2 = -1$ 
 

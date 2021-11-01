@@ -27,7 +27,7 @@
 
 ### Bücher 
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1kOB6NGzuPmBp0V6VcZvS25cWWTPeWjzX#grid" style="width:100%; height:600px; border:0;"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=1kOB6NGzuPmBp0V6VcZvS25cWWTPeWjzX#grid" style="width:100%; height:300px; border:0;"></iframe>
 
 ### Allgemeine Infos 
 
