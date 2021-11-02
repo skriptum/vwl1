@@ -5,8 +5,9 @@
 ##### grundlegende Organisationen des Marktes
 
 > **Unternehmen:** Organisation, die Ressourcen in Produkte umwandelt ; wichtigste Produktionseinheit im Markt
->
-> - Unternehmer: Unternehmensorganisator, der Risiken übernimmt
+
+
+Unterschied zu Unternehmer: Unternehmensorganisator, der Risiken übernimmt
 
 > **Haushalte:** Konsumenten von Produkten der Marktwirtschaft, und Arbeitnehmer + Kapitalgeber für Unternehmen
 
@@ -32,12 +33,14 @@ Input-Märkte (*Faktormärkte*) <--> Output-Markt (*Produktmarkt*)
 
 Darstellung: Nachfrageplan (Tabelle) vs Nachfragekurve (Graphen)
 
-> **Nachfragekurve:** Darstellung der Nachfragemenge
->
-> - Blau :large_blue_circle:
-> - negative Steigung
-> - schneidet Mengenachse X (wegen Grenznutzen)
-> - schneidet Preisachse Y (begrenztes Einkommen)
+**Nachfragekurve:** Darstellung der Nachfragemenge:
+
+- Blau 
+- negative Steigung
+- schneidet Mengenachse X (wegen Grenznutzen)
+- schneidet Preisachse Y (begrenztes Einkommen)
+
+
 
 ##### Einflüsse auf Nachfrage auf Produktmärkten
 
@@ -67,5 +70,38 @@ Marktnachfrage = aggregierte individuelle Nachfragekurven
 
 > **Gesetz des Angebotes:** positive Beziehung  zwischen Preis und Menge; Anstieg Preis -> Anstieg Angebotsmenge
 
-Darstellung wieder: Angebotsplan und Angebotskurve 
+Darstellung wieder: Angebotsplan und Angebotskurve (rot)
+
+##### Einflüsse auf Angebot:
+
+- Preis der Ware / Dienstleistung
+- Preis verwandter Produkte
+- Herstellungskosten
+    - Preis der Inputs (Arbeit, Kapital, Land)
+    - Technologien
+
+##### Arten der Bewegung
+
+- Bewegung der Angebotskurve
+- entlang der Kurve
+
+
+
+Wieder: Aggregiertes Angebot aus einzelnen Angeboten
+
+
+
+### Marktgleichgewicht
+
+> **Marktgleichgewicht**: Zustand, in dem Angebot = Nachfrage
+
+> **Überschussnachfrage / -angebot:** Zustand, in dem nachgefragte Menge / angebotene Menge die Angebotsmenge / Nachfragemenge zum aktuellen Preis übersteigt
+
+
+
+Veränderung des Gleichgewichtes: -> neuer Gleichgewichtspreis
+
+Beispiel: Kälteschock bei der Kaffeeproduktion   ![21-11-02-14-05](../images/21-11-02-14-05.jpg)
+
+
 
