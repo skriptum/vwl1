@@ -10,6 +10,7 @@
    -  [2021-10-21-Grundsaetze.md](VL_Buchfuehrung/2021-10-21-Grundsaetze.md) 
    -   [2021-10-26-Inventur.md](VL_Buchfuehrung/2021-10-26-Inventur.md) 
    -    [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
+   -    [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
 
 
 
@@ -40,6 +41,7 @@
     - [Allgemein](VL_VWL/README.md) 
     - [2021-10-18-Einführung.md](VL_VWL/2021-10-18-Einfuehrung.md) 
     -  [2021-10-27-Knappheit.md](VL_VWL/2021-10-27-Knappheit.md) 
+    -   [2021-11-02-Angebot_Nachfrage.md](VL_VWL/2021-11-02-Angebot_Nachfrage.md) 
 
 
 
