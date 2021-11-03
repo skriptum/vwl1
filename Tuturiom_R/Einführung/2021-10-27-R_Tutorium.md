@@ -224,7 +224,7 @@ sum(year > 2000) #out: 117
 
 Aufgabe 1
 ```{r}
-usa <- USArrests
+usa <- data.frame(USArrests)
 ##1
 #a)
 mode(usa$Murder)
@@ -235,8 +235,9 @@ states <- rownames(usa)
 rownames(usa) <- NULL
 #d)
 usa_m <- as.matrix(usa) #Alles wird zum Character
-usa_tibble <- as.tibble(usa) # Nichts aendert sich
-#e) in listof-list umwandeln ?!!!
+usa_tibble <- as_tibble(usa) # Nichts aendert sich
+
+#e) in listof-list umwandeln ?!!! ahh nur die einzelnen Spalten 
 as.list(as.data.frame(t(usa))) 
 
 ```
@@ -256,3 +257,4 @@ extreme_pop_matrix <- usa[usa$UrbanPop >= 80 | usa$UrbanPop <= 50, ]
 #f)
 dist <- as.vector(rnorm(n=1000, mean=35, sd=10))
 ```
+

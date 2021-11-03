@@ -60,4 +60,5 @@
     - [Allgemein](VL_Wirtschaftsinformatik/README.md) 
     - [2021-10-18-Einführung.md](VL_Wirtschaftsinformatik/2021-10-18-Einfuehrung.md) 
     -  [2021-10-25-Datenbank.md](VL_Wirtschaftsinformatik/2021-10-25-Datenbank.md) 
+    -  [2021-11-03-Datenbank2.md](VL_Wirtschaftsinformatik/2021-11-03-Datenbank2.md) 
 
