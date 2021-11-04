@@ -24,6 +24,8 @@ Ort: Großer Hörsaal [WiWi]
 
 Multiple-Choice-Klausur ,  online
 
+**=>** immer nur eine Antwort richtig !
+
 ### Literatur
 
 - Mathematik für Wirtschaftswissenschaften (UTB), Terveer
