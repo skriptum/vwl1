@@ -11,7 +11,7 @@
    -   [2021-10-26-Inventur.md](VL_Buchfuehrung/2021-10-26-Inventur.md) 
    -    [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
    -    [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
-   -     [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
+   -      [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
 
 
 
@@ -20,6 +20,7 @@
    - [Allgemein](VL_BWL/README.md) 
    - [2021-10-14-Grundlagen.md](VL_BWL/2021-10-14-Grundlagen.md) 
    -  [2021-10-25-Management.md](VL_BWL/2021-10-25-Management.md) 
+   -   [2021-11-04-Strategie.md](VL_BWL/2021-11-04-Strategie.md) 
 
 
 
@@ -50,7 +51,7 @@
 
     - [Allgemein](VL_Statistik1/README.md) 
     - [2021-10-18-Notizen.md](VL_Statistik1/2021-10-18-Notizen.md) 
-    -  [2021-10-18-Übung1.md](VL_Statistik1/2021-10-18-Uebung1.md) 
+    -   [2021-10-18-Rechenregeln.md](VL_Statistik1/2021-10-18-Rechenregeln.md) 
     -   [2021-10-27-Darstellungen.md](VL_Statistik1/2021-10-27-Darstellungen.md) 
     
     

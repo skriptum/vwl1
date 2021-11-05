@@ -42,11 +42,11 @@ Theorie des komparativen Vorteils (Ricardo): Spezialisierung + freier Handel ver
 - Colleen kann: 4 Holz, 8 Nahrung
 - beide wollen von beidem gleichviel
 
-![2021-10-27-11-51](../images/2021-10-27-11-51.png)
+![2021-10-27-11-51](../images/21-10-27-11-51.png)
 
-| Ohne Handel                                         | Mit Handel                                                   |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| beide arbeiten nur für sich![2021-10-27-11-53](../images/2021-10-27-11-53.png) | beide spezialisieren sich![2021-10-27-11-54](../images/2021-10-27-11-54.png) |
+| Ohne Handel                                                  | Mit Handel                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| beide arbeiten nur für sich![2021-10-27-11-53](../images/21-10-27-11-53.png) | beide spezialisieren sich![2021-10-27-11-54](../images/21-10-27-11-54.png) |
 
 **=\>** Handel ist förderlich 
 
@@ -62,7 +62,7 @@ Internationaler Handel:
 
 Beispielhafte PPF (S.62)
 
-![2021-10-27-12-07](../images/2021-10-27-12-07.png)
+![2021-10-27-12-07](../images/21-10-27-12-07.png)
 
 Eigenschaften:
 

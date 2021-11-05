@@ -39,14 +39,14 @@ Graphische Abbildungen nach Art:
     - Kreisdiagramm
     - Histogramm (nur stetige Merkmale in Klassenform)
 
-| Art                                     | Beispiel                                            | Bemerkungen                                                  |
-| --------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
-| Stabdiagramm                            | ![2021-10-27-13-36](../images/2021-10-27-13-36.png) | Länge der Stäbe = hier absolute Häufigkeit ; Punkt am Ende nur graphisch |
-| Säulendiagramm                          | ![2021-10-27-13-47](../images/2021-10-27-13-47.png) | Höhe der Säulen = hier absolute Häufigkeit ; Säulen alle gleich breit + gleiche Abstände |
-| Erweiterung: Gestapeltes Säulendiagramm | ---                                                 | Säulen werden noch einmal aufgeteilt                         |
-| Kreisdiagramm                           | ![2021-10-27-14-21](../images/2021-10-27-14-21.jpg) | Anordnung irrelevant, Winkel zum Berechnen                   |
-| Histogramm                              | ![2021-10-27-14-28](../images/2021-10-27-14-28.jpg) | Säulen muss nicht gleich breit sein, Breite entspricht Klassenbreite |
-| Weitere:                                | Kartendarstellungen, Piktogramme, ...               |                                                              |
+| Art                                     | Beispiel                                          | Bemerkungen                                                  |
+| --------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| Stabdiagramm                            | ![21-10-27-13-36](../images/21-10-27-13-36.png)   | Länge der Stäbe = hier absolute Häufigkeit ; Punkt am Ende nur graphisch |
+| Säulendiagramm                          | ![21-10-27-13-47](../images/21-10-27-13-47.png)   | Höhe der Säulen = hier absolute Häufigkeit ; Säulen alle gleich breit + gleiche Abstände |
+| Erweiterung: Gestapeltes Säulendiagramm | ---                                               | Säulen werden noch einmal aufgeteilt                         |
+| Kreisdiagramm                           | ![2021-10-27-14-21](../images/21-10-27-14-21.jpg) | Anordnung irrelevant, Winkel zum Berechnen                   |
+| Histogramm                              | ![2021-10-27-14-28](../images/21-10-27-14-28.jpg) | Säulen muss nicht gleich breit sein, Breite entspricht Klassenbreite |
+| Weitere:                                | Kartendarstellungen, Piktogramme, ...             |                                                              |
 
-Tabelle zu Histogramm: ![2021-10-27-14-30](../images/2021-10-27-14-30.jpg)
+Tabelle zu Histogramm: ![2021-10-27-14-30](../images/21-10-27-14-30.jpg)
 

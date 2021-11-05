@@ -14,7 +14,7 @@ Zusammenfassung von Vektoren spaltenweise in eine Matrix mit *n x n*
 
 Berechnung von Determinanten
 
-![2021-10-28-10-46](../images/2021-10-28-10-46.jpg)
+![2021-10-28-10-46](../images/21-10-28-10-46.jpg)
 
 Beispielrechnung: 
 

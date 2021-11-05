@@ -76,7 +76,7 @@ Bestandteile von Managementsystemen:
  Konzept zur Analyse der Organisation in 5 Hauptdimensionen 
 
 1. **Spezialisierungsystem**: Umfang und Art der Spezialisierung der Unternehmensbereiche, 2 Typen:
-- Funktionale vs Divisionale Struktur: ![2021-10-25-19-51](../images/2021-10-25-19-51.png)
+- Funktionale vs Divisionale Struktur: ![2021-10-25-19-51](../images/21-10-25-19-51.png)
 2. **Koordinationssystem**: Abstimmung der Arbeitsbereiche mit Hinblick auf Gesamtziel
     - Arten: persönliche Weisung, Selbstabstimmung, Pläne, 
 3. **Leitungsystem**: Analyse der Befugnisse/Kompetenzen nach
@@ -122,7 +122,6 @@ Prinzipien des PKS:
 2. **revolvierende Planung:** regelmäßge Überprüfung + Anpassung von Plänen 
 3. **flexible und elastische Planung:** Alternativen haben und Reserven vorhalten
 4. **Budgetierung:** festgelegtes Budget für Unternehmensbereiche als Richtschnur
-    - Funktionen der Budgetierung: ![21-10-25-21.11.44](../images/21-10-25-21.11.44.png)
 5. **Manipulationsabwehr:** Gefahr der Beeinflussung durch persönliche Interessen verhindern
 
 
@@ -134,12 +133,8 @@ Aspekte des PFS:
 - **Konstitutives Führungsprinzip**: Wertrahmen und Leitmaxime für Führen
     - Beispiel: Shareholder vs. Stakeholder-Orientierung
 - **Anreizsysteme/Motivationskonzepte:** Befriedigung von Motiven der Mitarbeiter durch
-    - Monetäre Anreize(Lohn): Arten
-        - Zeitlohn
-        - Akkordlohn (nach Stückzahl)
-        - Prämienlohn (Grundlohn + Zusatz)
-    - nicht monetäre Anreize
-        - befriedigung sozialer Bedürfnisse wie Anerkennung, Mitspracherecht etc
+    - Monetäre Anreize(Lohn): Zeit/Akkord/Prämien
+    - nicht monetäre Anreize: Anerkennung, Selbstverwirklichung...
 - **Personalentwicklungssystem**:  Möglichkeiten zur Weiterbildung / Aufstieg
 
 
@@ -155,4 +150,70 @@ Funktionen:
 - Erarbeitung Entscheidungsvorlagen
 - Zielplanung
 - Erkenntnisse in Planung einbringen
+
+
+
+## Managementtechniken
+
+5 verschiedene Techniken, die Anwendung finden
+
+### Kreativitätstechnik
+
+Ziel: **Ideengewinnung**
+
+bspw. **Brainstorming** (komplett offene Ideenfindung)
+
+Ablauf: 
+
+1. *Vorbereitungsphase* (Problemdefinition etc)
+2. *Suchphase* (Lösungsvorschläge + Entwicklung)
+3. *Selektionsphase* (Bewertung + Verwertung)
+
+
+
+### Scoring-techniken
+
+Modell, zur Bewertung eines Unternehmens nach mehreren Gesichtspunkten
+
+Je Teilbereich:
+
+- *Gewichtungswert* (wie viel macht dieser Teilbereich am Erfolg aus in der Branche) 
+- *Rating* (wie gut ist das Unternehmen im Teilbereich)
+- *Score* aus Gewicht  Rating
+
+```
+BSP: 
+- Bereich Werbung 
+- mit Gewichtung 0.2 (20% des Erfolges sind bestimmt von der Werbung)
+- Rating 4/5 (Das Unternehmen ist gut in Werbung)
+=> 0,2*4 = 0,8
+```
+
+Aufaddieren aller Scores zu Gesamtscore und dann Vergleich mit anderen Unternehmen
+
+### Netzplantechnik
+
+genutzt bei komplexen Ablauf und hohem Projektwert, 
+
+4-stufiger Ablauf:
+
+1. Strukturplanung
+2. Zeitplanung
+3. Kapazitätsplanung
+4. Kostenplanung
+
+
+
+### Extrapolationsverfahren
+
+Vergangenheitswerte in Zukunft fortschreiben
+
+### Szenariotechnik
+
+Entwickung von verschiedenen Zukunftszenarien unter verschiedenen Einflüssen
+
+1. Definition und Einflussfaktoren
+2. Vernetzung von Schlüsselfaktoren
+3. Entwicklungsmöglichkeiten: mögliche Wege in der Zukunft
+4. Projektion
 
