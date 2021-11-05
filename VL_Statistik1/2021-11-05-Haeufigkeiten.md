@@ -51,10 +51,47 @@ Arten: *Lage, Streuung, Schiefe, Konzentration*
 
 ### Lage
 
-- *arithmetisches Mittel* ("Durchschnitt"): metrisch skalierte Merkmale
-- *geometrisches Mittel:* metrisch > 0
-- *Median* ("Mitte"): mindestens ordinale
-- *Modus* ("Häufung"): mindestens ordinale
+##### arithmetisches Mittel ("Durchschnitt")
+
+benötigt metrisch skalierte Merkmale
+
+Notation: $\bar{x} = \frac{1}{n} \sum^n_{i=1} x_i$ (beachte x-quer)
+
+Beispiel aus [Absolventenstudie](2021-10-27-Darstellungen.md#Absolventenstudie) : Merkmal Studiendauer
+
+![21-11-05_13-41](../images/21-11-05_13-41.jpg)
+
+Bei Zusammefassung von arithmetischen Mitteln immer die Stichprobengröße/Gewichtung beachten!
+
+
+
+##### geometrisches Mittel: 
+
+braucht metrische Merkmale > 0
+
+für Wachstumsraten / relative Änderungen gut
+
+Beispiel:
+
+- Zeit t=1 ; Wert x1=10
+- Zeit t=2 ; Wert x2=16
+- Zeit t=3 ; Wert x3=20
+- Wachstumsfaktor t=1 bis t=2 : 16/10 = 1.6
+- Wachstumsfaktor t=2 bis t=3 : 20/16 = 1.25
+
+=> durchschnittliches Wachstum beider Zeiträume = *geometrisches Mittel*
+
+Berechnung: $ 1.6 * 1.25 = 2 \implies \bar{x}_{geom} = \sqrt{2}$ 
+
+Notation: $\bar{x}_{geom} = \sqrt[n]{x_1*...*x_n}$ (Wachstumsfaktoren multiplizieren und die Wurzel mit Anzahl der Faktoren ziehen)
+
+
+
+
+
+*Median* ("Mitte"): mindestens ordinale
+
+*Modus* ("Häufung"): mindestens ordinale
 
 
 

@@ -18,8 +18,6 @@ Fragen an 36 von ihnen:
 - Ausrichtung Diplomarbeit D (1-4) = **nominal**
 - Gesamtnote Diplomprüfung N = **ordinal**
 
-und viel über Klassierungen und Rechenregeln, siehe dafür  [2021-10-18-Rechenregeln.md](2021-10-18-Rechenregeln.md) 
-
 ---
 
 
