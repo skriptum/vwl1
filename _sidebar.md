@@ -9,9 +9,9 @@
    -  [2021-10-19-Rechtliches.md](VL_Buchfuehrung/2021-10-19-Rechtliches.md) 
    -  [2021-10-21-Grundsaetze.md](VL_Buchfuehrung/2021-10-21-Grundsaetze.md) 
    -   [2021-10-26-Inventur.md](VL_Buchfuehrung/2021-10-26-Inventur.md) 
-   -    [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
-   -    [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
-   -      [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
+   -   [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
+   -   [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
+   -   [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
 
 
 
@@ -33,7 +33,8 @@
     -  [2021-10-18-Linear.md](VL_Mathe1/2021-10-18-Linear.md) 
     -  [2021-10-25-Inversen.md](VL_Mathe1/2021-10-25-inverses.md) 
     -   [2021-10-28-Determinanten.md](VL_Mathe1/2021-10-28-Determinanten.md) 
-    -    [2021-11-01-Determinante2.md](VL_Mathe1/2021-11-01-Determinante2.md) 
+    -  [2021-11-01-Determinante2.md](VL_Mathe1/2021-11-01-Determinante2.md) 
+    -    [2021-11-08-Eigenwerte.md](VL_Mathe1/2021-11-08-Eigenwerte.md) 
 
 
 
@@ -53,8 +54,7 @@
     - [2021-10-18-Notizen.md](VL_Statistik1/2021-10-18-Notizen.md) 
     -   [2021-10-18-Rechenregeln.md](VL_Statistik1/2021-10-18-Rechenregeln.md) 
     -   [2021-10-27-Darstellungen.md](VL_Statistik1/2021-10-27-Darstellungen.md) 
-    
-    
+    -  [2021-11-05-Haeufigkeiten.md](2021-11-05-Haeufigkeiten.md)
 
 
  - Wirtschaftsinformatik

@@ -33,25 +33,5 @@
 
 Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, wie eine Art Wissenspeicher. Erstellt wurden sie mithilfe von [Markdown](https://www.markdownguide.org/) und als Website auf [GitHub Pages](https://pages.github.com) hochgeladen. 
 
-### Syntax: 
-
-##### Definitionen:
-
-> Das ist oft eine Definition für ein bestimmten Sachverhalt
-
-##### Mathe
-
-$$
-\text{Das ist eine Matheblock für mathematische Funktionen} \\
-\begin{align}
-    E_0 &= mc^2 \\
-    E &= \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}\\
-  \end{align} 
-$$
-
-
-
-geschrieben mit [$\LaTeX$](https://en.wikipedia.org/wiki/LaTeX)
-
 
 
