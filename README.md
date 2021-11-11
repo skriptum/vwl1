@@ -1,7 +1,3 @@
-![](images/karl_marx30.jpg)
-
-
-
 # Volkswirtschaftslehre
 
 
@@ -29,9 +25,7 @@
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1kOB6NGzuPmBp0V6VcZvS25cWWTPeWjzX#grid" style="width:100%; height:300px; border:0;"></iframe>
 
-### Allgemeine Infos 
 
-Dies ist der zentrale Online-Speicher aller meiner Notizen meines VWL-Studiums, wie eine Art Wissenspeicher. Erstellt wurden sie mithilfe von [Markdown](https://www.markdownguide.org/) und als Website auf [GitHub Pages](https://pages.github.com) hochgeladen. 
 
 
 
