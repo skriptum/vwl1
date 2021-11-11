@@ -12,6 +12,7 @@
    -   [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
    -   [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
    -   [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
+   -   [2021-11-11-Erfolgskonten.md](VL_Buchfuehrung/2021-11-11-Erfolgskonten.md) 
 
 
 
@@ -35,6 +36,7 @@
     -   [2021-10-28-Determinanten.md](VL_Mathe1/2021-10-28-Determinanten.md) 
     -  [2021-11-01-Determinante2.md](VL_Mathe1/2021-11-01-Determinante2.md) 
     -    [2021-11-08-Eigenwerte.md](VL_Mathe1/2021-11-08-Eigenwerte.md) 
+    -     [2021-11-11-Fibonacci.md](VL_Mathe1/2021-11-11-Fibonacci.md) 
 
 
 

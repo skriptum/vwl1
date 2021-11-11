@@ -57,7 +57,7 @@ benötigt metrisch skalierte Merkmale
 
 Notation: $\bar{x} = \frac{1}{n} \sum^n_{i=1} x_i$ (beachte x-quer)
 
-Beispiel aus [Absolventenstudie](2021-10-27-Darstellungen.md#Absolventenstudie) : Merkmal Studiendauer
+Beispiel aus Absolventenstudie : Merkmal Studiendauer
 
 ![21-11-05_13-41](../images/21-11-05_13-41.jpg)
 
