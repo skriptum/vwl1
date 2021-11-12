@@ -47,6 +47,8 @@
     - [2021-10-18-Einführung.md](VL_VWL/2021-10-18-Einfuehrung.md) 
     - [2021-10-27-Knappheit.md](VL_VWL/2021-10-27-Knappheit.md) 
     - [2021-11-02-Angebot_Nachfrage.md](VL_VWL/2021-11-02-Angebot_Nachfrage.md) 
+    - [2021-11-12-Marktmechanismus.md](VL_VWL/2021-11-12-Marktmechanismus.md) 
+    - [2021-11-12-Übung.md](VL_VWL/2021-11-12-Übung.md) 
 
 
 
