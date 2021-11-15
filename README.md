@@ -10,14 +10,14 @@
 
 ### Überblick über Module
 
-| Modul                 | Professor                | Modus     | Übersichtslink                                  |
-| --------------------- | ------------------------ | --------- | ----------------------------------------------- |
-| Buchführung           | Dr. Bernd Schuster       | Präsenz   | [README.md](VL_Buchfuehrung/README.md)          |
-| BWL                   | Prof. Dr. Julia Seeger   | asynchron | [README.md](VL_BWL/README.md)                   |
-| Mathematik I          | PD. Maren Hantke         | Präsenz   | [README.md](VL_Mathe1/README.md)                |
-| Statistik I           | Prof. Dr. Claudia Decker | asynchron | [README.md](VL_Statistik1/README.md)            |
-| VWL                   | Prof. Dr. Lars Börner    | asynchron | [README.md](VL_VWL/README.md)                   |
-| Wirtschaftsinformatik | Prof. Dr. Taieb Mellouli | Asynchron | [README.md](VL_Wirtschaftsinformatik/README.md) |
+| Modul                 | Professor                | Modus     | Übersicht                                  |  Link   |
+| --------------------- | ------------------------ | --------- | ----------------------------------------------- | --- |
+| Buchführung           | Dr. Bernd Schuster       | Präsenz   | [README.md](VL_Buchfuehrung/README.md)          |    |
+| BWL                   | Prof. Dr. Julia Seeger   | asynchron | [README.md](VL_BWL/README.md)                   | [ILIAS](https://ilias.uni-halle.de/goto.php?target=crs_217678&client_id=unihalle) |
+| Mathematik I          | PD. Maren Hantke         | Präsenz   | [README.md](VL_Mathe1/README.md)                |     |
+| Statistik I           | Prof. Dr. Claudia Decker | asynchron | [README.md](VL_Statistik1/README.md)            | [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=f69e6edd60aa482027bace682879a7bf) |
+| VWL                   | Prof. Dr. Lars Börner    | asynchron | [README.md](VL_VWL/README.md)                   | [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=cbc118b597a7b750d1503bfb3191295c) |
+| Wirtschaftsinformatik | Prof. Dr. Taieb Mellouli | Asynchron | [README.md](VL_Wirtschaftsinformatik/README.md) | [OPENCAST](https://studip.uni-halle.de/plugins.php/opencast/course/index?cid=df0f041ad274fc2c80bd4cb393912a92) |
 
 [Modulhandbuch](https://raw.githubusercontent.com/skriptum/vwl1/main/images/modulhandbuch.pdf)
 
