@@ -5,5 +5,5 @@
 .Rproj.user
 .ipynb_checkpoints
 data/
-Tutorium_R/
+/Tutorium_R
 *.pdf
