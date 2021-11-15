@@ -285,7 +285,7 @@ Option2 macht wenn in einer Zelle NA ist, automatisch das Ergebnis NA, Option1 v
 d)
 ```{r}
 starwars %>%
-  mutate(short_hair = str_sub(hair_color, end = 2))
+  mutate(short_hair = str_sub(hair_color, end = 2)) 
 ```
 
 e) 
@@ -298,13 +298,14 @@ starwars %>%
 ```
 
 f)
-```{r, echo= FALSE}
+```{r, echo=FALSE, include=FALSE}
 str_sort(starwars$films)
 ```
 
 g)
 ```{r}
-
+starwars %>%
+  mutate(films_low = str_remove(films_low, "c") )
 ```
 
 

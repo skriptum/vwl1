@@ -22,6 +22,7 @@
    - [2021-10-14-Grundlagen.md](VL_BWL/2021-10-14-Grundlagen.md) 
    - [2021-10-25-Management.md](VL_BWL/2021-10-25-Management.md) 
    - [2021-11-04-Strategie.md](VL_BWL/2021-11-04-Strategie.md) 
+   - [2021-11-09-Economies.md](VL_BWL/2021-11-09-Economies)
 
 
 
@@ -37,6 +38,7 @@
     - [2021-11-01-Determinante2.md](VL_Mathe1/2021-11-01-Determinante2.md) 
     - [2021-11-08-Eigenwerte.md](VL_Mathe1/2021-11-08-Eigenwerte.md) 
     - [2021-11-11-Eigenwerte2.md](VL_Mathe1/2021-11-11-Fibonacci.md) 
+    - [2021-11-15-Quadrat.md](VL_Mathe1/2021-11-15-Quadrat.md) 
 
 
 
@@ -45,10 +47,11 @@
 
     - [Allgemein](VL_VWL/README.md) 
     - [2021-10-18-Einführung.md](VL_VWL/2021-10-18-Einfuehrung.md) 
+    - [2021-10-18-Übung1.md](Vl_VWL/2021-10-18-Übung1.md)
     - [2021-10-27-Knappheit.md](VL_VWL/2021-10-27-Knappheit.md) 
     - [2021-11-02-Angebot_Nachfrage.md](VL_VWL/2021-11-02-Angebot_Nachfrage.md) 
     - [2021-11-12-Marktmechanismus.md](VL_VWL/2021-11-12-Marktmechanismus.md) 
-    - [2021-11-12-Übung.md](VL_VWL/2021-11-12-Übung.md) 
+    - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Übung.md) 
 
 
 
