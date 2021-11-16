@@ -45,13 +45,9 @@ Graphische Darstellung:
 
 erlauben Zusammenfassung von Verteilung auf einzelne Zahlen
 
-Arten: *Lage, Streuung, Schiefe, Konzentration*
+Arten: *Lage, Streuung, Schiefe, Konzentration* 
 
-
-
-### Lage
-
-##### arithmetisches Mittel ("Durchschnitt")
+### arithmetisches Mittel ("Durchschnitt")
 
 benötigt metrisch skalierte Merkmale
 
@@ -65,7 +61,7 @@ Bei Zusammefassung von arithmetischen Mitteln immer die Stichprobengröße/Gewic
 
 
 
-##### geometrisches Mittel: 
+### geometrisches Mittel: 
 
 braucht metrische Merkmale > 0
 
@@ -88,10 +84,6 @@ Notation: $\bar{x}_{geom} = \sqrt[n]{x_1*...*x_n}$ (Wachstumsfaktoren multiplizi
 
 
 
-
-*Median* ("Mitte"): mindestens ordinale
-
-*Modus* ("Häufung"): mindestens ordinale
 
 
 

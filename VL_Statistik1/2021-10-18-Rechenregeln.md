@@ -67,8 +67,8 @@ Klasse 3: 170 < x ≤ 190 , m_3 = 180, n_3 = 1$
 
 Klassennotation: 
 
-- mit [] für bis, aber ohne
-- mit () für einschließlich
+- mit [100-400] für einschließlich = 100-400
+- mit () für auschließlich = 101-399
 - BSP: [100,400) heißt hier einschließlich 100,...,399
 
 ### Summenzeichen
