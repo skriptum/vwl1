@@ -47,11 +47,11 @@
 
     - [Allgemein](VL_VWL/README.md) 
     - [2021-10-18-Einführung.md](VL_VWL/2021-10-18-Einfuehrung.md) 
-    - [2021-10-18-Übung1.md](Vl_VWL/2021-10-18-Übung1.md)
+    - [2021-10-18-Übung1.md](VL_VWL/2021-10-18-Uebung1.md)
     - [2021-10-27-Knappheit.md](VL_VWL/2021-10-27-Knappheit.md) 
     - [2021-11-02-Angebot_Nachfrage.md](VL_VWL/2021-11-02-Angebot_Nachfrage.md) 
     - [2021-11-12-Marktmechanismus.md](VL_VWL/2021-11-12-Marktmechanismus.md) 
-    - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Übung.md) 
+    - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Uebung2.md) 
 
 
 
@@ -72,4 +72,5 @@
     - [2021-10-18-Einführung.md](VL_Wirtschaftsinformatik/2021-10-18-Einfuehrung.md) 
     - [2021-10-25-Datenbank.md](VL_Wirtschaftsinformatik/2021-10-25-Datenbank.md) 
     - [2021-11-03-Datenbank2.md](VL_Wirtschaftsinformatik/2021-11-03-Datenbank2.md) 
+    - [2021-11-15-Geschaeftsprozess.md](VL_Wirtschaftsinformatik/2021-11-15-Geschaeftsprozess.md) 
 

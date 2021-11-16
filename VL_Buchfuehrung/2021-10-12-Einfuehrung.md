@@ -15,7 +15,9 @@
 
 ### Einordnung
 
-Teil des betrieblichen Rechnungswesens, aber **externes Rechnungswesen** [^3] 
+Teil des betrieblichen Rechnungswesens, aber **externes Rechnungswesen** 
+
+> **externes Rechnungswesen**: Ergebnisse auch für Außenstehende zugänglich bspw. : Gläubiger, Aktionäre, Finanzamt (für Steuern)
 
 ### Aufgaben / Geschäftsfälle
 
@@ -30,13 +32,7 @@ unternehmerische Aufgaben im Betrieb
 - Vertrieb + Verkauf
 - Berechnung + Zahlung v. Lohn (arbeiter) / Gehalt (angestellte)
 
-=> **vermögenswirksame Tätigkeiten:** führt zu Einnahmen / Ausgaben, Aufwand [^1] + Ertrag [^2]
+=> **vermögenswirksame Tätigkeiten:** führt zu Einnahmen / Ausgaben, Aufwand + Ertrag 
 
 
-
-
-
-[^1]: Aufwand
-[^2]: Ertrag: Wertverbrauch, bspw. Mietaufwand
-[^3]: externes Rechnungswesen: Ergebnisse auch für Außenstehende zugänglich bspw. : Gläubiger, Aktionäre, Finanzamt (für Steuern)
 

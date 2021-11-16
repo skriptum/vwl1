@@ -8,15 +8,6 @@ Informationen = Produktionsfaktor / Ressource
 
 Bewirtschaftung der Information = **Wirtschaftsinformatik**
 
-```mermaid
-graph TD
-Kunde --> Geschäftsmodell
-subgraph Unternehmen
-Geschäftsmodell --> Geschäftsprozesse --> anwendungssysteme --> Infrastruktur
-end
-
-```
-
 
 
 bestmöglicher Einsatz der Ressource Information (Hinblick Unternehmensziele) durch: 
@@ -46,12 +37,7 @@ Online-Enzyklopädie: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/
 
 **Mittelpunkt:** Konzeption, Wartung, Einführung 
 
-
-
-```mermaid
-graph LR
-Mensch --Benutzbarkeit--> Informationstechnik --Funktionalität--> Aufgabe --Aufgabenbewältigung--> Mensch
-```
+![21-10-18_19-26](../images/21-10-18_19-26.jpg)
 
 > **Information- + Kommunikationsystem:** 
 > Mensch-Aufgaben-Technik-Systeme (MAT) 
