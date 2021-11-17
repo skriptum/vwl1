@@ -74,4 +74,5 @@
     - [2021-10-25-Datenbank.md](VL_Wirtschaftsinformatik/2021-10-25-Datenbank.md) 
     - [2021-11-03-Datenbank2.md](VL_Wirtschaftsinformatik/2021-11-03-Datenbank2.md) 
     - [2021-11-15-Geschaeftsprozess.md](VL_Wirtschaftsinformatik/2021-11-15-Geschaeftsprozess.md) 
+    - [2021-11-17-Normalisierung Übung.md](VL_Wirtschaftsinformatik/2021-11-17-Normalisierung.md) 
 
