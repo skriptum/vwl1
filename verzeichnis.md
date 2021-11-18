@@ -13,6 +13,7 @@
    - [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
    - [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
    - [2021-11-11-Erfolgskonten.md](VL_Buchfuehrung/2021-11-11-Erfolgskonten.md) 
+   -  [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
 
 
 
@@ -73,6 +74,6 @@
     - [2021-10-18-Einführung.md](VL_Wirtschaftsinformatik/2021-10-18-Einfuehrung.md) 
     - [2021-10-25-Datenbank.md](VL_Wirtschaftsinformatik/2021-10-25-Datenbank.md) 
     - [2021-11-03-Datenbank2.md](VL_Wirtschaftsinformatik/2021-11-03-Datenbank2.md) 
+    - [2021-11-06-Normalisierung.md](VL_Wirtschaftsinformatik/2021-11-06-Normalisierung.md) 
     - [2021-11-15-Geschaeftsprozess.md](VL_Wirtschaftsinformatik/2021-11-15-Geschaeftsprozess.md) 
-    - [2021-11-17-Normalisierung Übung.md](VL_Wirtschaftsinformatik/2021-11-17-Normalisierung.md) 
 
