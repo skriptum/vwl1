@@ -21,11 +21,9 @@
 
 [Modulhandbuch](https://raw.githubusercontent.com/skriptum/vwl1/main/images/modulhandbuch.pdf)
 
-### Bücher 
+### Bücher
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1kOB6NGzuPmBp0V6VcZvS25cWWTPeWjzX#grid" style="width:100%; height:300px; border:0;"></iframe>
-
-
-
-
+| GVWL                                                         | GBWL                                                         | Mathe                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://lh3.googleusercontent.com/9YUNOnjfJwIVbrHR4j9qxvr87NVLDfO1zBJEE7mlkb_GqnqeyvFoWW4WvJFyU83xCR9QFhgfNIhzm6Y=s190)](https://drive.google.com/file/d/1s9_7FWN3G2-_y69nM1v2xPurEeXk48Ow/view) | [![bwl](https://lh3.googleusercontent.com/D5Hb0B2pDCC0hIttXbHeVfgWOVL_ecX3KIYpr-_FLsarTyXDCKZqeshrXrM62LFRaADzfNmwC6s8gLw=s190)](https://drive.google.com/file/d/1wPdZ596cPwlVadX3A2Jb4MZmrEyYdYRv/view) | [![mathe](https://lh3.googleusercontent.com/LA9PiB4IlsEhIyFKnuQBflOIOn7gOzJMuNKjV--MCFOXrm3i0rdmSU_MI8khYZPMjNOaVTN2YCTCxck=s190)](https://drive.google.com/file/d/1s9_7FWN3G2-_y69nM1v2xPurEeXk48Ow/view?usp=drive_web) |
 
