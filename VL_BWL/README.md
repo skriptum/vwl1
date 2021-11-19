@@ -2,17 +2,11 @@
 
 ### Allgemein
 
-Stud.IP: https://studip.uni-halle.de/dispatch.php/course/details?sem_id=113433db124a2ae1dd9c68650141c7ac
-
-ILIAS Vorlesungsvideos: [ILIAS](https://ilias.uni-halle.de/goto.php?target=crs_217678&client_id=unihalle)
-
-Zeiten: Freitag, 09:00 - 12:00 nach Nachname sortiert
-
-Ort: online
-
-Prof: [Prof. Dr. Julia Müller-Seeger](https://studip.uni-halle.de:443/dispatch.php/profile?cid=113433db124a2ae1dd9c68650141c7ac&username=acvkd)
-
-Fragen zur Übung: konrad.kressmann@wiwi.uni-halle.de
+- Stud.IP: https://studip.uni-halle.de/dispatch.php/course/details?sem_id=113433db124a2ae1dd9c68650141c7ac
+- Vorlesungsvideos: [ILIAS](https://ilias.uni-halle.de/goto.php?target=crs_217678&client_id=unihalle)
+- Zeiten: Freitag, 09:00 - 12:00 nach Nachname sortiert
+- Prof: [Prof. Dr. Julia Müller-Seeger](https://studip.uni-halle.de:443/dispatch.php/profile?cid=113433db124a2ae1dd9c68650141c7ac&username=acvkd)
+- Fragen zur Übung: konrad.kressmann@wiwi.uni-halle.de
 
 ### Klausur
 
@@ -28,9 +22,12 @@ Klausurrelevant!
 
 Ziel: Vertiefung der VL-Inhalte
 
-### Dokumente
+### Buch
 
-[Buch](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_BWL/Schierenbeck%20and%20W%C3%B6hle%20-%202016%20-%20Grundz%C3%BCge%20der%20Betriebswirtschaftslehre.pdf)
+| [![bwl](../images/21-11-19_18-14.png)](https://drive.google.com/file/d/1wPdZ596cPwlVadX3A2Jb4MZmrEyYdYRv/view) |
+| ------------------------------------------------------------ |
 
-[Syllabus](https://raw.githubusercontent.com/skriptum/vwl1/main/VL_BWL/VL_BWL.pdf)
+
+
+
 
