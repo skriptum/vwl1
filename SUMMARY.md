@@ -24,6 +24,7 @@
    - [2021-10-25-Management.md](VL_BWL/2021-10-25-Management.md) 
    - [2021-11-04-Strategie.md](VL_BWL/2021-11-04-Strategie.md) 
    - [2021-11-09-Economies.md](VL_BWL/2021-11-09-Economies)
+   -  [2021-11-15-Analyse.md](VL_BWL/2021-11-15-Analyse.md) 
 
 
 
