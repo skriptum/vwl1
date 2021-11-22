@@ -14,6 +14,7 @@
    - [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
    - [2021-11-11-Erfolgskonten.md](VL_Buchfuehrung/2021-11-11-Erfolgskonten.md) 
    -  [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
+   -  [2021-11-22-Industrie.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
 
 
 

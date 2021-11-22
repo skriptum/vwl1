@@ -56,7 +56,7 @@ Aufteilung der Beobachtung in Werte unter-/ oberhalb von $x_p$
 
 für 0 < p < 1; 
 
-**falls *n\*p* nicht ganzzahlig** = aufrunden
+**falls _n*p_ nicht ganzzahlig** = aufrunden
 
 ```
 Studiendauer: n = 36, p = 0,9
@@ -66,7 +66,7 @@ n * p = 36 * 0.9 = 32.4 -> aufrunden auf 33
 
 Ergebnis: $x_{(0.9)} = x_{(33)} $
 
-**falls *n\*p* ganzzahlig** = Mittelwert von $n*p $ und $ n*p+1 $
+**falls _n*p_ ganzzahlig** = Mittelwert von $n*p $ und $ n*p+1 $
 
 ```
 Studiendauer, n = 36, p = 0.75

@@ -23,7 +23,7 @@
 
 ### Bücher
 
-| GVWL                                                         | GBWL                                                         | Mathe                                                        |
+| VWL                                                          | BWL                                                          | Mathe                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://lh3.googleusercontent.com/9YUNOnjfJwIVbrHR4j9qxvr87NVLDfO1zBJEE7mlkb_GqnqeyvFoWW4WvJFyU83xCR9QFhgfNIhzm6Y=s190)](https://drive.google.com/file/d/1s9_7FWN3G2-_y69nM1v2xPurEeXk48Ow/view) | [![bwl](https://lh3.googleusercontent.com/D5Hb0B2pDCC0hIttXbHeVfgWOVL_ecX3KIYpr-_FLsarTyXDCKZqeshrXrM62LFRaADzfNmwC6s8gLw=s190)](https://drive.google.com/file/d/1wPdZ596cPwlVadX3A2Jb4MZmrEyYdYRv/view) | [![mathe](https://lh3.googleusercontent.com/LA9PiB4IlsEhIyFKnuQBflOIOn7gOzJMuNKjV--MCFOXrm3i0rdmSU_MI8khYZPMjNOaVTN2YCTCxck=s190)](https://drive.google.com/file/d/1s9_7FWN3G2-_y69nM1v2xPurEeXk48Ow/view?usp=drive_web) |
+| [![vwl](images/vwl_buch.jpg)](https://drive.google.com/file/d/1s9_7FWN3G2-_y69nM1v2xPurEeXk48Ow/view) | [![bwl](images/mathe_buch.jpg)](https://drive.google.com/file/d/1wPdZ596cPwlVadX3A2Jb4MZmrEyYdYRv/view) | [![mathe](images/bwl_buch.jpg)](https://drive.google.com/file/d/1s9_7FWN3G2-_y69nM1v2xPurEeXk48Ow/view?usp=drive_web) |
 
