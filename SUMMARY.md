@@ -55,7 +55,7 @@
     - [2021-10-18-Rechenregeln.md](VL_Statistik1/2021-10-18-Rechenregeln.md) 
     - [2021-10-27-Darstellungen.md](VL_Statistik1/2021-10-27-Darstellungen.md) 
     - [2021-11-05-Haeufigkeiten.md](VL_Statistik1/2021-11-05-Haeufigkeiten.md)
-    - [2021-11-16-Kenngrößen.md](VL_Statistik1/2021-11-16-Kenngroeßen.md) 
+    - [2021-11-16-Lagemaße.md](VL_Statistik1/2021-11-16-Lagemaße.md) 
 
  - Wirtschaftsinformatik
 

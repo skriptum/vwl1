@@ -61,7 +61,7 @@ Bei Zusammefassung von arithmetischen Mitteln immer die Stichprobengröße/Gewic
 
 
 
-### geometrisches Mittel: 
+### geometrisches Mittel 
 
 braucht metrische Merkmale > 0
 
