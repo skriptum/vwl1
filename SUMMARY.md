@@ -2,7 +2,6 @@
 
 
  -  [Startseite](README.md) 
- - [Modulüberblick](module.md) 
  - Buchführung
    - [Allgemein](VL_Buchfuehrung/README.md) 
    - [2021-10-12-Einführung.md](VL_Buchfuehrung/2021-10-12-Einfuehrung.md) 
@@ -17,8 +16,6 @@
    -  [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
    -  [2021-11-22-Industrie.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
 
-
-
  - BWL
 
    - [Allgemein](VL_BWL/README.md) 
@@ -27,9 +24,6 @@
    - [2021-11-04-Strategie.md](VL_BWL/2021-11-04-Strategie.md) 
    - [2021-11-09-Economies.md](VL_BWL/2021-11-09-Economies)
    -  [2021-11-15-Analyse.md](VL_BWL/2021-11-15-Analyse.md) 
-
-
-
 
  - Mathe
 
@@ -44,9 +38,6 @@
     - [2021-11-11-Eigenwerte2.md](VL_Mathe1/2021-11-11-Fibonacci.md) 
     - [2021-11-15-Quadrat.md](VL_Mathe1/2021-11-15-Quadrat.md) 
 
-
-
-
  - VWL
 
     - [Allgemein](VL_VWL/README.md) 
@@ -57,8 +48,6 @@
     - [2021-11-12-Marktmechanismus.md](VL_VWL/2021-11-12-Marktmechanismus.md) 
     - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Uebung2.md) 
 
-
-
  - Statistik
 
     - [Allgemein](VL_Statistik1/README.md) 
@@ -67,9 +56,6 @@
     - [2021-10-27-Darstellungen.md](VL_Statistik1/2021-10-27-Darstellungen.md) 
     - [2021-11-05-Haeufigkeiten.md](VL_Statistik1/2021-11-05-Haeufigkeiten.md)
     - [2021-11-16-Kenngrößen.md](VL_Statistik1/2021-11-16-Kenngroeßen.md) 
-
-
-
 
  - Wirtschaftsinformatik
 
