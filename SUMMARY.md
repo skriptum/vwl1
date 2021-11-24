@@ -13,9 +13,10 @@
    - [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
    - [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
    - [2021-11-11-Erfolgskonten.md](VL_Buchfuehrung/2021-11-11-Erfolgskonten.md) 
-   -  [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
-   -  [2021-11-22-Industrie.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
-
+   - [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
+   - [2021-11-22-Industrie.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
+   - [2021-11-24-Zahllast.md](VL_Buchfuehrung/2021-11-24-Zahllast.md) 
+   
  - BWL
 
    - [Allgemein](VL_BWL/README.md) 
@@ -56,6 +57,7 @@
     - [2021-10-27-Darstellungen.md](VL_Statistik1/2021-10-27-Darstellungen.md) 
     - [2021-11-05-Haeufigkeiten.md](VL_Statistik1/2021-11-05-Haeufigkeiten.md)
     - [2021-11-16-Lagemaße.md](VL_Statistik1/2021-11-16-Lagemaße.md) 
+    - [2021-11-22-Streuungsmaße.md](VL_Statistik1/2021-11-22-Streuungsmaße.md) 
 
  - Wirtschaftsinformatik
 
