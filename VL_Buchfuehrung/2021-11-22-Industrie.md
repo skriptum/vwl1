@@ -1,6 +1,6 @@
 # 2021-11-22 Buchführung in der Industrie
 
-
+(Video 13)
 
 ### Einkauf von Roh-, Hilfs-, Betriebsstoffen (RHB)
 
@@ -18,9 +18,9 @@
 
 
 
-##### Berechnung der USt an Finanzamt:
+#### Berechnung der USt an Finanzamt:
 
-```mathematica
+```
   Umsatzsteuer (Verkauf)
 - Vorsteuer (Einkauf)
 ---------------------------
@@ -33,14 +33,126 @@
 
 Beispiel LM S.90
 
-##### Standardbuchungen RHB
+#### Standardbuchungen RHB
 
 Einkauf von Rohstoffen auf Ziel/Rechnung:
 
-```yaml
-200: Rohstoffe
-260: Vorsteuer
+```haskell
+200 Rohstoffe
+260 Vorsteuer
 an
-44: Verbindlichkeiten
+44 Verbindlichkeiten
 ```
+
+
+
+---
+
+(Video 14)
+
+### Verbrauch von RHB 
+
+Verbrauch = Entnahme aus Lager zur Umwandlung
+
+#### genutzte Konten:
+
+- 600 Aufwendungen Rohstoffe
+- 602 AW Hilfsstoffe
+- 603 AW Betriebsstoffe
+- 608 AW von Waren
+
+#### Ermittlung Stoffverbrauchs 
+
+über 2 Wege:
+
+1. **direkt** mit Materialentnahmeschein
+2. **indirekt** über Inventur: `Anfangsbestand + Zugänge - Schlussbestand​ = Abgang ` 
+    - oft auch buchhalterisch bestimmt als Saldo auf *Konto 200 Rohstoffe*
+
+
+
+#### Buchung 
+
+Standardsatz: 
+
+```haskell
+600 Aufwendung für Rohstoffe an 200 Rohstoffe /
+602 AW Hilfstoffe an 202 Hilfsstoffe / 
+603 AW Betriebstoffe an 203 Betriebsstoffe
+```
+
+
+
+### Verkauf 
+
+#### von Fertigerzeugnissen
+
+> **Fertigerzeugnisse:** selber produzierte Waren
+
+Buchung erfolgt anhand der *Ausgangsrechnung*
+
+Augangsrechnung beinhaltet *Nettopreis, Umsatzsteuer, Rechnungsbetrag*
+
+Buchungsatz der Ausgangsrechnung:
+
+```haskell
+240 Forderungen
+an 500 Umsatzerlöse (für eigene erzeugnisse)
+an 480 Umsatzsteuer
+```
+
+Beispiel: `wir verkaufen Fertigerzeugnisse zum Bruttobetrag von 44.000,- (auf Ziel)`
+
+Berechnung des Nettopreises: $\frac{Brutto}{110\%} = \frac{44000}{110}= 40000$ 
+
+```
+240 Forderungen      | 44.000,-
+an 500 Umsatzerlöse  | 40.000,-
+an 480 Umsatzsteuer  | 4.000,- (10%!)
+```
+
+
+
+#### Verkauf von Handelsware
+
+> **Handelsware:** Erzeugnisse ohne weitere Be- oder Verarbeitung
+
+Handelsware meist Zusatz zu Fertigerzeugnisse
+
+Konten: 
+
+- 228 Handelsware = Bestand
+- 510 Umsatzerlöse für Waren 
+- 608 Aufwendungen für Waren = Wareneinsatz
+
+
+
+Standardbuchungen: <mark>Klausurrelevant</mark> 
+
+1. Einkauf von Handelswaren
+
+    - ```haskell
+      228 Handelswaren
+      260 Vorsteuern 
+      an 44 Verbindlichkeiten / 280 Bank / ...
+      ```
+
+2. Wareneinsatz (Entnahme aus Lager)
+
+    - ```haskell
+        608 Aufwendungen Für Handelswaren
+        an 228 Handelswaren
+        ```
+
+3. Verkauf von Handelswaren
+
+    - ```haskell
+        240 Forderungen
+        an 510 Umsatzerlöse Für Waren
+        an 480 Umsatzsteuer
+        ```
+
+Abschluss von 510 und 608 mit *GuV-Konto* 
+
+
 
