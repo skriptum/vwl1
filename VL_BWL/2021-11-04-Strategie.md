@@ -35,7 +35,7 @@ Ziele von Führung :
 
 
 
-##### Führungstheorien
+#### Führungstheorien
 
 Arten von Führungstheorien:
 

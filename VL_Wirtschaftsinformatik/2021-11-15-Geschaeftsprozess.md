@@ -52,7 +52,7 @@ Ebenen von Geschäftsprozessen
 
 > **Geschäftsprozessmanagement (GPM)**: Mittel zur prozessorientierten Unternehmensgestaltung aus der BWL
 
-##### Ziele des GP-Management:
+#### Ziele des GP-Management:
 
 - Ausrichtung auf Kunden
 - Flexibilität
@@ -60,7 +60,7 @@ Ebenen von Geschäftsprozessen
 
 
 
-##### Ansatzpunkte:
+#### Ansatzpunkte:
 
 - Erhöhung Prozesstransparenz
 - Organisationswissen dokumentieren
@@ -68,7 +68,7 @@ Ebenen von Geschäftsprozessen
 
 
 
-##### Aufgabenfelder :
+#### Aufgabenfelder :
 
 - Identifizieren von GPs
 - *Geschäftsprozessmodellierung*

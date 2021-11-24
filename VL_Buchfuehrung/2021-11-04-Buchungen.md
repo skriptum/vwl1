@@ -132,14 +132,14 @@ Verbindlichkeiten:
 
 
 
-##### Eröffnungsbuchungen:
+#### Eröffnungsbuchungen:
 
 1. Rohstoffe an EBK: 50.000,-
 2. Bank an EBK: 30.000,-
 3. EBK an Eigenkapital : 60.000,-
 4. EBK an Verbindlichkeiten: 20.000,-
 
-##### Geschäftsfälle:
+#### Geschäftsfälle:
 
 5. Rohstoffe an Verbindlichkeiten 12.000
 
@@ -147,7 +147,7 @@ Verbindlichkeiten:
 6. Verbindlichkeiten an Bank
     - Zahlen von Verbindlichkeiten mit Banküberweisung 16.000
 
-##### Schlussbilanzbuchungen:
+#### Schlussbilanzbuchungen:
 
 7. SBK an Rohstoffe: 62.000,-
 8. SBK an Bank: 14.000,-

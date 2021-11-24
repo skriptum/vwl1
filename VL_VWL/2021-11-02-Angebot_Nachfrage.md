@@ -2,7 +2,7 @@
 
 ### Markt
 
-##### grundlegende Organisationen des Marktes
+#### grundlegende Organisationen des Marktes
 
 > **Unternehmen:** Organisation, die Ressourcen in Produkte umwandelt ; wichtigste Produktionseinheit im Markt
 
@@ -13,7 +13,7 @@ Unterschied zu Unternehmer: Unternehmensorganisator, der Risiken übernimmt
 
 
 
-##### Arten von Märkten:
+#### Arten von Märkten:
 
 Input-Märkte (*Faktormärkte*) <--> Output-Markt (*Produktmarkt*)
 
@@ -42,7 +42,7 @@ Darstellung: Nachfrageplan (Tabelle) vs Nachfragekurve (Graphen)
 
 
 
-##### Einflüsse auf Nachfrage auf Produktmärkten
+#### Einflüsse auf Nachfrage auf Produktmärkten
 
 - Preis des Produktes
     - Logisch: Preis steigt, Nachfrage sinkt
@@ -53,7 +53,7 @@ Darstellung: Nachfrageplan (Tabelle) vs Nachfragekurve (Graphen)
     - Preis Original steigt, Nachfrage nach Original sinkt
 - Erwartung der Vermögensentwicklung
 
-##### Bewegungen der Nachfrage:
+#### Bewegungen der Nachfrage:
 
 - *Verschiebung Nachfragekurve*: Änderung der ursprünglichen Bedingungen, neue Beziehung zwischen Preis und Nachfrage, **Änderung Nachfrage**
 - *entlang der Kurve*: **Änderung nachgefragter Menge** durch Änderung Preis
@@ -72,7 +72,7 @@ Marktnachfrage = aggregierte individuelle Nachfragekurven
 
 Darstellung wieder: Angebotsplan und Angebotskurve (rot)
 
-##### Einflüsse auf Angebot:
+#### Einflüsse auf Angebot:
 
 - Preis der Ware / Dienstleistung
 - Preis verwandter Produkte
@@ -80,7 +80,7 @@ Darstellung wieder: Angebotsplan und Angebotskurve (rot)
     - Preis der Inputs (Arbeit, Kapital, Land)
     - Technologien
 
-##### Arten der Bewegung
+#### Arten der Bewegung
 
 - Bewegung der Angebotskurve
 - entlang der Kurve

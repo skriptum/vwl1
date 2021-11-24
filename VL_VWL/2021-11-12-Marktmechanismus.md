@@ -14,7 +14,7 @@ oft von Regierungen eingesetzt, meist jedoch kostspielig und mit unintendierten 
 
 
 
-##### alternative Verteilungsmechanismen
+#### alternative Verteilungsmechanismen
 
 | Mechanismus         | Definitionen                                                 | Effekt                                                       |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -43,7 +43,7 @@ Darstellung der *Gesamtwohlfahrt*![21-11-12_17-59](../images/21-11-12_17-59.jpg)
 
 > **Wohlfahrt (Welfare)**: aggregierte Renten von Produzenten und Konsumenten
 
-##### Wohlfahrtsverlust
+#### Wohlfahrtsverlust
 
 bei fehlendem Marktgleichgewicht gibt es einen *Wohlfahrtsverlust* (Deadweight Loss): Darstellung:![21-11-12_18-02](../images/21-11-12_18-02.jpg)
 

@@ -85,7 +85,7 @@ Entscheidung über das Arbeitsangebot:
 resultiert in Zielkonflikt: Arbeit <--> Freizeit
 - Preis der Freizeit = Lohnsatz
 
-##### Effekte einer Lohnerhöhung
+#### Effekte einer Lohnerhöhung
 
 Auswirkungen von Substitutions/ Einkommenseffekten auf Arbeitsangebotskurve
 

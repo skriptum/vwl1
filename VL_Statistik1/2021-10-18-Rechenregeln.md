@@ -21,7 +21,7 @@ x_3 = 170cm \\
 x_4 = 145cm
 $
 
-##### Notation:
+#### Notation:
 
 - Buchstabe *i* beschreibt Index
 - letzter Wert = $x_n$
@@ -35,7 +35,7 @@ $
 
 
 
-##### Zusammenfassungen
+#### Zusammenfassungen
 
 wenn Daten zusammengefasst werden (klassiert oder unglasiert)
 

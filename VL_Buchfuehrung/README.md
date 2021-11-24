@@ -14,21 +14,21 @@ Online: Herunterladen der Aufgaben, Ausdruck lösen, Scan wieder hochladen
 
 Prüfungsamt: Hinweise zum Format, etc..., zu Selbstbildnis davor... 
 
-##### erster Termin
+#### erster Termin
 
 - Datum: 22.02.2022
 - Test für Zugang zu Prüfung (Zugangsdaten ausprobieren): 4 Tage davor
 - Anmeldungsphase: 29.11.21 - 14.02.22
 - Rücktrittsfrist: 23.02.22 (ohne Angabe von Gründen!)
 
-##### zweiter Termin: 
+#### zweiter Termin: 
 
 - 28.03.2022 
 - Test ab 24.03.22
 - Anmeldephase: 29.11.21 - 18.03.22
 - Rücktrittsfrist: 29.03.22
 
-##### Zeit
+#### Zeit
 
 - Dauer 90min
 - Start: 8:15
@@ -40,7 +40,7 @@ Prüfungsamt: Hinweise zum Format, etc..., zu Selbstbildnis davor...
 
 
 
-##### Bewertung
+#### Bewertung
 
 - jeder Fehler, jedes Kreuz zuviel = Punktabzug
 - 50 % = Bestanden

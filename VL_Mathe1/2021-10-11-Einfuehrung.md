@@ -105,7 +105,7 @@ cos(\alpha) = \frac{<x,y>}{|x|*|y|}
 $$
 
 
-##### Einheitsvektoren: 
+#### Einheitsvektoren: 
 
 > **def**: Einheitsvektor $e_i$ heißt eine 1 an Stelle *i* und sonst 0, BSP: $e_1 = \left(\begin{array}{c} 1 \\ 0 \\ ... \\ 0 \end{array}\right)$ 
 

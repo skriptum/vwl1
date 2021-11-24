@@ -16,7 +16,7 @@
 
 Grundelemente der EPK:
 
-##### Funktion
+#### Funktion
 
 >  erfasst einen betrieblichen Vorgang (zeitverbrauchendes Geschehen mit Start und Ende)
 
@@ -24,7 +24,7 @@ Grundelemente der EPK:
 - aktive Komponente
 - Formulierung: Substantiv + Infinitiv (Bsp.: Rechnung schreiben)
 
-##### Ereignisse
+#### Ereignisse
 
 > Zeitpunktbezogener Ausdruck eines Zustands, lösen Funktionen aus oder sind Ergebnis von ihnen
 
@@ -36,7 +36,7 @@ Grundelemente der EPK:
 
     
 
-##### Konnektoren
+#### Konnektoren
 
 > Verknüpfung mehrerer Elemente aufgrund einer Regel mit anderen Elementen (Elemente oder Funktion)
 
@@ -47,19 +47,19 @@ Arten Konnektoren (eintretende Ereignisse):
 
 auch andersherum mit auslösenden Ereignissen/Funktionen etc
 
-##### Prozessschnittstelle
+#### Prozessschnittstelle
 
 > Verbindung zwischen vorangegangenem und nachfolgendem Prozess
 
 - Beispiel: **Rechnungsprozess**(schreiben, drucken, versenden) -> **Versendeprozess**(einpacken, abgeben,...)
 
-##### Verfeinerung
+#### Verfeinerung
 
 > EPK, die Funktion einer anderen genauer darstellt
 
 ![21-11-17_14-01](../images/21-11-17_14-01.jpg)
 
-##### Grundregeln
+#### Grundregeln
 
 > **Kante**: Verbindung *genau* zweier Elemente
 
@@ -129,7 +129,7 @@ Darstellung mit *Organigrammen*
 
 ---
 
-##### Steuerungssicht
+#### Steuerungssicht
 
 gesamte Verknüpfung aller Sichten => **EPK** wie oben
 

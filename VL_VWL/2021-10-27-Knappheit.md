@@ -8,7 +8,7 @@ fundamentale Grundanliegen ökonomischer Probleme: *knappe Ressourcen*
 
 
 
-##### Begriffsklärungen:
+#### Begriffsklärungen:
 
 > **Kapital:** Produkte, die für die Produktion neuer Güter eingesetzt werden
 
@@ -20,7 +20,7 @@ fundamentale Grundanliegen ökonomischer Probleme: *knappe Ressourcen*
 
 > **Produkte/ Output:** Güter, die Nutzen generieren
 
-##### Drei Grundfragen: 
+#### Drei Grundfragen: 
 
 1. Was wird produziert?
 2. Wie wird es produziert?
@@ -36,7 +36,7 @@ Theorie des komparativen Vorteils (Ricardo): Spezialisierung + freier Handel ver
 
 > **relativer Vorteil**: Produzent hat niedrigeren Opportunitätskosten pro Einheit als Konkurrent
 
-##### Beispiel (S.61f): 
+#### Beispiel (S.61f): 
 
 - Bill kann entweder produzieren: 10 Holz oder 10 Nahrung
 - Colleen kann: 4 Holz, 8 Nahrung
@@ -56,7 +56,7 @@ Internationaler Handel:
 - kann aber zu kurzfristiger Umverteilung führen
 - letztes jahrhundert stark gestiegen
 
-##### Produktionsmöglichkeitskurve PPF
+#### Produktionsmöglichkeitskurve PPF
 
 > **Produktionsmögllichkeitskurve:** zeigt alle Kombinationen von zwei Gütern, die von Individuum/Unternehmen/Gesellschaft effizient produziert werden können
 
@@ -87,7 +87,7 @@ Entscheidung der Gesellschaft über, wie Wirtschaft aufgebaut ist. 2 vorherschen
 
 reale Systeme sind Mischformen!
 
-##### Markt:
+#### Markt:
 
 - Institution  zum kaufen/verkaufen
 - unterschiede in Komplexität, aber immer Käufer + Verkäufer

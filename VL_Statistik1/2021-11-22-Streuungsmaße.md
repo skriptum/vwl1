@@ -13,7 +13,7 @@ immer positiv
 
 ### Streuungsmaße mit Lagebezug
 
-##### MAD 
+#### MAD 
 
 Median der absolute Abweichung vom Median
 
@@ -49,7 +49,7 @@ Dann:
 - Varianz: $\tilde{s}_y^2 = a^2 * \tilde{s}^2_x$
 - Standardabweichung: $\tilde{s}_y = |a| * \tilde{s}_x$
 
-##### z-Standardisierung
+#### z-Standardisierung
 
 spezielle Transformation bei Kenntnis besonderer Kenngrößen
 
@@ -57,7 +57,7 @@ Berechnung: $z_i = \frac{x_1 - \bar{x}}{\tilde{s}_x }$
 
 Folge: $\bar{z}$ = Mittelwert = 0 ; $\tilde{s}^2_z$ = Standardabweichung = 1
 
-##### 
+#### 
 
 ### Schwankungsbereiche
 

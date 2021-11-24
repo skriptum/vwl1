@@ -41,7 +41,7 @@ Berechnen der Potenzen von Matrizen (für $F^n$)
 
 wenn man zu wenige Eigenvektoren hat = Problem!
 
-##### Beispiel
+#### Beispiel
 
  $A = \left(\begin{array}{rrr}
 0 & 1 \\ 
@@ -65,7 +65,7 @@ Rettung: **Hauptvektor**
 
 
 
-##### Beispiel 92: 
+#### Beispiel 92: 
 
 ![21-11-11-11-55-19](../images/21-11-11-11-55-19.jpg)
 

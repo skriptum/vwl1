@@ -21,7 +21,7 @@ Allgemein Merkmal X:
 
 ---
 
-##### Beispiel: 
+#### Beispiel: 
 
 ![21-11-05_12-59](../images/21-11-05_12-59.jpg)
 
