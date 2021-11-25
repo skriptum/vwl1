@@ -46,9 +46,10 @@ Wöchentliche Aufgaben in allen Modulen mit Links zur entsprechenden Seite in IL
     -  Übungsmaterialien [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=df0f041ad274fc2c80bd4cb393912a92)
 - **BWL** VL + Übung [ILIAS](https://ilias.uni-halle.de/ilias.php?ref_id=217678&cmdClass=ilrepositorygui&cmdNode=us&baseClass=ilrepositorygui)
 - **Mathe** 
-    - Vorlesung *?*
+    - Vorlesung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/37b1366b8d66a8d7020d870d0e2ec49a?cid=e40de35dc0052790d6339e9b1bdf7e0c)
     - Selbstest [ILIAS](https://ilias.uni-halle.de/ilias.php?ref_id=220211&cmdClass=ilrepositorygui&cmdNode=us&baseClass=ilrepositorygui)
     - Übungsblätter [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/92d368b2368f95cb792fd7a09bdddf78?cid=e40de35dc0052790d6339e9b1bdf7e0c)
 - **Buchführung** 
     - Vorlesung [OPENCAST](https://studip.uni-halle.de/plugins.php/opencast/course/index?cid=9621ab9e6f480ff17e4a751b9ccc59d4)
+
 
