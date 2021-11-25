@@ -10,13 +10,31 @@
 
   <style>
     :root {
-      /* Reduce the font size */
-      /* --base-font-size: 14px; */
+      --base-font-family:   Helvetica Neue, Arial,sans-serif; ;
+      --theme-color: rgb(139,184,249);
+      --blockquote-border-radius          : 0.5rem;
 
-      /* Change the theme color hue (0-360) */
-      /* --theme-hue: 325; */
+      --code-inline-border-radius: 0.5rem;
+      --code-inline-background: rgb(204, 220, 243);
+      --code-block-border-radius: 0.7rem;
+      
+      --link-color: rgb(82, 143, 228);
 
-      /* Add sidebar navigation bullets */
+      --heading-h1-font-family: Georgia;
+
+      --sidebar-border-width: 0;
+      --sidebar-name-font-size: 0;
+      --sidebar-name-margin  : 0;
+      --sidebar-name-padding : 0;
+      --sidebar-nav-link-background-color--active: white;
+      --sidebar-nav-link-padding: 0;
+
+      --search-margin: 0.5rem;
+      --search-input-border-width: 2px;
+      --search-input-border-radius: 0.5rem;
+
+      --table-cell-border-width: 1px;
+
     }
   </style>
 
@@ -29,9 +47,8 @@
 
   <script>
     window.$docsify = {
-      name: 'Volkswirtschaft',
+      name: 'Volkswirtschaftslehre',
       repo: '',
-      // logo: "https://www.foliomag.com/wp-content/uploads/2016/12/Karl_Marx_monochromatic.svg_.png",
       loadSidebar: "SUMMARY.md",
       auto2top: true,
 
@@ -91,7 +108,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
   <!-- TOC -->
-  <script src="//unpkg.com/docsify-plugin-toc"></script>
+  <!-- <script src="//unpkg.com/docsify-plugin-toc"></script> -->
 
   <!-- Progress Bar when reading -->
   <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script> -->

@@ -29,7 +29,7 @@
 
 **Merke**!: USt. wird nur auf Mehrwert der Produktion gezahlt ! (Ugs. Mehrwertsteuer)
 
-<mark>!! Umsatzsteuer immer 10% !!</mark>
+`!! Umsatzsteuer immer 10% !!`
 
 Beispiel LM S.90
 
@@ -127,7 +127,7 @@ Konten:
 
 
 
-Standardbuchungen: <mark>Klausurrelevant</mark> 
+Standardbuchungen: **Klausurrelevant**
 
 1. Einkauf von Handelswaren
 
