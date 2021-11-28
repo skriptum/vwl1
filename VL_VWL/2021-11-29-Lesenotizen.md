@@ -1,7 +1,8 @@
 # Notizen zum Lesematerial
 
-[Link zum PDF](https://web.stanford.edu/class/comm1a/readings/jensen-digital-
-divide.pdf)
+[Link zur Online-Version](https://skriptum.github.io/vwl1/#/VL_VWL/2021-11-29-Lesenotizen)
+
+[Link zum Text](https://web.stanford.edu/class/comm1a/readings/jensen-digital-divide.pdf)
 
 ### Fragen
 
@@ -70,7 +71,7 @@ nach Handyeinführung:
 
 => Hauptannahmen werden bestätigt
 
-Beispielbild: ![21-11-29_00-01](/Users/marten/Nextcloud/vwl1/images/21-11-29_00-01.jpg)
+![21-11-29_00-01](../images/21-11-29_00-01.jpg)
 
 ### Wohlfahrtseffekte
 

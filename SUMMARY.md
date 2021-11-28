@@ -51,6 +51,7 @@
     - [2021-11-12-Marktmechanismus.md](VL_VWL/2021-11-12-Marktmechanismus.md) 
     - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Uebung2.md) 
     - [2021-11-24-Unternehmen.md](VL_VWL/2021-11-24-Unternehmen.md) 
+    - [2021-11-29-Lesenotizen.md](VL_VWL/2021-11-29-Lesenotizen.md) 
 
  - Statistik
 
