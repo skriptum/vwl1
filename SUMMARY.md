@@ -38,6 +38,8 @@
     - [2021-11-08-Eigenwerte.md](VL_Mathe1/2021-11-08-Eigenwerte.md) 
     - [2021-11-11-Eigenwerte2.md](VL_Mathe1/2021-11-11-Fibonacci.md) 
     - [2021-11-15-Quadrat.md](VL_Mathe1/2021-11-15-Quadrat.md) 
+    - [2021-11-22-Lin-Opt1.md](VL_Mathe1/2021-11-22-Lin-Opt1.md) 
+    - [2021-11-25-Graphen.md](VL_Mathe1/2021-11-25-Graphen.md) 
 
  - VWL
 
@@ -70,6 +72,7 @@
     - [2021-11-15-Geschaeftsprozess.md](VL_Wirtschaftsinformatik/2021-11-15-Geschaeftsprozess.md) 
     -  [2021-11-17-Modellierung.md](VL_Wirtschaftsinformatik/2021-11-17-Modellierung.md) 
     -  [2021-11-19-Analyse.md](VL_Wirtschaftsinformatik/2021-11-19-Analyse.md) 
+    -  [2021-11-22-AWSysteme.md](VL_Wirtschaftsinformatik/2021-11-22-AWSysteme.md) 
     
     
 

@@ -22,7 +22,7 @@ GoB (LM S.31):
 - Belegprinzip!
 - Aufbewahrungsfrist (10 Jahre)
 
-Verstöße gegen GoB (können) => Schätzung (Umsatz, Gewinn) durch Finanzbehörden **SCHLECHT!​**
+Verstöße gegen GoB (können) => Schätzung (Umsatz, Gewinn) durch Finanzbehörden (**SCHLECHT!​**)
 
 ### Inventur
 
