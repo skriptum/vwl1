@@ -1,8 +1,8 @@
 
 
 
- -  [Startseite](README.md) 
- - Buchführung
+ - [Startseite](README.md)
+ - Buchführung :books:
    - [Allgemein](VL_Buchfuehrung/README.md) 
    - [2021-10-12-Einführung.md](VL_Buchfuehrung/2021-10-12-Einfuehrung.md) 
    - [2021-10-14-Geschäftsfall.md](VL_Buchfuehrung/2021-10-14-Geschaeftsfall.md) 
@@ -17,7 +17,7 @@
    - [2021-11-22-Industrie.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
    - [2021-11-24-Zahllast.md](VL_Buchfuehrung/2021-11-24-Zahllast.md) 
    
- - BWL
+ - BWL :moneybag:
 
    - [Allgemein](VL_BWL/README.md) 
    - [2021-10-14-Grundlagen.md](VL_BWL/2021-10-14-Grundlagen.md) 
@@ -26,7 +26,7 @@
    - [2021-11-09-Economies.md](VL_BWL/2021-11-09-Economies)
    -  [2021-11-15-Analyse.md](VL_BWL/2021-11-15-Analyse.md) 
 
- - Mathe
+- Mathe :triangular_ruler:
 
     - [Allgemein](VL_Mathe1/README.md)
     - [2021-10-11-Einführung.md](VL_Mathe1/2021-10-11-Einfuehrung.md) 
@@ -41,7 +41,7 @@
     - [2021-11-22-Lin-Opt1.md](VL_Mathe1/2021-11-22-Lin-Opt1.md) 
     - [2021-11-25-Graphen.md](VL_Mathe1/2021-11-25-Graphen.md) 
 
- - VWL
+ - VWL :chart_with_upwards_trend:
 
     - [Allgemein](VL_VWL/README.md) 
     - [2021-10-18-Einführung.md](VL_VWL/2021-10-18-Einfuehrung.md) 
@@ -53,7 +53,7 @@
     - [2021-11-24-Unternehmen.md](VL_VWL/2021-11-24-Unternehmen.md) 
     - [2021-11-29-Lesenotizen.md](VL_VWL/2021-11-29-Lesenotizen.md) 
 
- - Statistik
+ - Statistik :bar_chart:
 
     - [Allgemein](VL_Statistik1/README.md) 
     - [2021-10-18-Notizen.md](VL_Statistik1/2021-10-18-Notizen.md) 
@@ -62,8 +62,9 @@
     - [2021-11-05-Haeufigkeiten.md](VL_Statistik1/2021-11-05-Haeufigkeiten.md)
     - [2021-11-16-Lagemaße.md](VL_Statistik1/2021-11-16-Lagemaße.md) 
     - [2021-11-22-Streuungsmaße.md](VL_Statistik1/2021-11-22-Streuungsmaße.md) 
+    - [2021-11-29-Schiefemaße.md](VL_Statistik1/2021-11-29-Schiefemaße.md) 
 
- - Wirtschaftsinformatik
+ - Wirtschaftsinformatik :computer: 
 
     - [Allgemein](VL_Wirtschaftsinformatik/README.md) 
     - [2021-10-18-Einführung.md](VL_Wirtschaftsinformatik/2021-10-18-Einfuehrung.md) 
@@ -74,6 +75,7 @@
     -  [2021-11-17-Modellierung.md](VL_Wirtschaftsinformatik/2021-11-17-Modellierung.md) 
     -  [2021-11-19-Analyse.md](VL_Wirtschaftsinformatik/2021-11-19-Analyse.md) 
     -  [2021-11-22-AWSysteme.md](VL_Wirtschaftsinformatik/2021-11-22-AWSysteme.md) 
+    -  [2021-11-29-UML.md](VL_Wirtschaftsinformatik/2021-11-29-UML.md) 
     
     
 

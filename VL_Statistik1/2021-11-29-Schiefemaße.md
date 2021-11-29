@@ -95,7 +95,7 @@ Monatlicher Umsatz von 5 Möbelhäusern in einer Stadt
 4. $\tilde{v}_q = x_{(q)} / Summe$
 5. $v_q = kum \ \tilde{v}_q$
 
-Lorenzkurve![2021-11-29](../images/2021-11-29.jpg)
+Lorenzkurve: ![2021-11-29_13-00](../images/21-11-29_13-00.jpg)
 
 Gini-Koeffizient = 0.2
 
