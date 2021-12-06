@@ -41,5 +41,12 @@ Vergleich der bedingten Verteilung ist subjektiv => Objektivierung mit **Koeffiz
 
 ### Chi-Quadrat-Koeffizient
 
+ $\chi$  = Quadratische Abweichung der realen Werte von hypothetischen Werten
 
+-  Werte: $0 \le \chi \le \infty$
+- hypothetische Tafel-Werte = Produkt der Randspalten / n : $e_{ij} = h_{i\bullet} * h_{\bullet j} / n$
+- für jede Tafelzelle: $\frac{(real-erwartet)^2}{erwartet}$
+- Aufaddieren der Ergebnisse der Zellen
+
+Notation: ![21-12-06_17-46](../images/21-12-06_17-46.jpg)
 

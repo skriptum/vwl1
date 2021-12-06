@@ -8,3 +8,5 @@ data/
 /Tutorium_R
 *.pdf
 *.calca
+*.sqlite
+*.mdb
