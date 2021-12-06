@@ -101,3 +101,15 @@ Gini-Koeffizient = 0.2
 
 ---
 
+
+
+### Absolute Konzentrationsmaße
+
+öndert sich abhängig von der Anzahl der betrachteten Objekte
+
+#### Herfindahl-Index
+
+- Berechnung: $H = \sum \tilde{v}^2_i$
+- mögliche Werte: 1/n < H < 1
+- Nutzung: Marktanalyse H > 0.25 = extreme Marktkonzentration
+
