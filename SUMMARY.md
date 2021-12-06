@@ -17,6 +17,7 @@
    - [2021-11-22-Einkauf.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
    - [2021-11-24-Zahllast.md](VL_Buchfuehrung/2021-11-24-Zahllast.md) 
    - [2021-11-30-Ruecksendungen.md](VL_Buchfuehrung/2021-11-30-Ruecksendungen.md) 
+   - [2021-12-06-Loehne.md](VL_Buchfuehrung/2021-12-06-Loehne.md) 
    
  - BWL :moneybag:
 
@@ -78,6 +79,7 @@
     -  [2021-11-19-Analyse.md](VL_Wirtschaftsinformatik/2021-11-19-Analyse.md) 
     -  [2021-11-22-AWSysteme.md](VL_Wirtschaftsinformatik/2021-11-22-AWSysteme.md) 
     -  [2021-11-29-UML.md](VL_Wirtschaftsinformatik/2021-11-29-UML.md) 
+    -  [2021-12-06-UML2.md](VL_Wirtschaftsinformatik/2021-12-06-UML2.md) 
     
     
 
