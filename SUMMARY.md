@@ -55,6 +55,7 @@
     - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Uebung2.md) 
     - [2021-11-24-Unternehmen.md](VL_VWL/2021-11-24-Unternehmen.md) 
     - [2021-11-29-Lesenotizen.md](VL_VWL/2021-11-29-Lesenotizen.md) 
+    - [2021-12-07-Makro.md](VL_VWL/2021-12-07-Makro.md) 
 
  - Statistik :bar_chart:
 
@@ -66,6 +67,7 @@
     - [2021-11-16-Lagemaße.md](VL_Statistik1/2021-11-16-Lagemaße.md) 
     - [2021-11-22-Streuungsmaße.md](VL_Statistik1/2021-11-22-Streuungsmaße.md) 
     - [2021-11-29-Schiefemaße.md](VL_Statistik1/2021-11-29-Schiefemaße.md) 
+    - [2021-12-06-Mehrdimension.md](VL_Statistik1/2021-12-06-Mehrdimension.md) 
 
  - Wirtschaftsinformatik :computer: 
 
