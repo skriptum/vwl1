@@ -26,7 +26,10 @@
    - [2021-10-25-Management.md](VL_BWL/2021-10-25-Management.md) 
    - [2021-11-04-Strategie.md](VL_BWL/2021-11-04-Strategie.md) 
    - [2021-11-09-Economies.md](VL_BWL/2021-11-09-Economies)
-   -  [2021-11-15-Analyse.md](VL_BWL/2021-11-15-Analyse.md) 
+   - [2021-11-15-Umweltanalyse.md](VL_BWL/2021-11-15-Umweltanalyse.md) 
+   - [2021-11-20-Unternehmensanalyse.md](VL_BWL/2021-11-20-Unternehmensanalyse.md) 
+   - [2021-11-27-SWOT.md](VL_BWL/2021-11-27-SWOT.md) 
+   - [2021-12-07-Formulierung.md](VL_BWL/2021-12-07-Formulierung.md) 
 
 - Mathe :triangular_ruler:
 
