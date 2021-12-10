@@ -16,8 +16,11 @@
    - [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
    - [2021-11-22-Einkauf.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
    - [2021-11-24-Zahllast.md](VL_Buchfuehrung/2021-11-24-Zahllast.md) 
+   - [2021-11-26-Fallstudien1.md](VL_Buchfuehrung/2021-11-26-Fallstudien1.md) 
    - [2021-11-30-Ruecksendungen.md](VL_Buchfuehrung/2021-11-30-Ruecksendungen.md) 
+   - [2021-12-03-Fallstudien2.md](VL_Buchfuehrung/2021-12-03-Fallstudien2.md) 
    - [2021-12-06-Loehne.md](VL_Buchfuehrung/2021-12-06-Loehne.md) 
+   - [2021-12-10-Fallstudien3.md](VL_Buchfuehrung/2021-12-10-Fallstudien3.md) 
    
  - BWL :moneybag:
 
