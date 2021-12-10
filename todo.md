@@ -30,3 +30,9 @@ alles was wir während Online Lehre machen müssen
     - [x] Videos 
     - [ ] Übungsblatt
 
+
+
+
+
+Mathe grafiken scannen und einfügen ! 
+
