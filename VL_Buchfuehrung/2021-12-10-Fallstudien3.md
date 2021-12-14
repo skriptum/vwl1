@@ -1,5 +1,7 @@
 # 10.12.2021 Fallstudien 3
 
+[https://skriptum.github.io/Fallstudien3](https://skriptum.github.io/vwl1/#/VL_Buchfuehrung/2021-12-10-Fallstudien3)
+
 ### 15 Inventar
 
 Alle vermögenswerte, Betriebs und Geschäftsaustattung 
@@ -27,6 +29,8 @@ Vermögensposten der Inventur, geordnet nach steigender Flüssigkeit!
 | Wertpapiere (Kapitalanlage) | Forderungen           |                                      |
 |                             | Bankguthaben          |                                      |
 |                             | Kasse                 |                                      |
+
+---
 
 ### Erstellung eines Inventars
 
@@ -85,7 +89,7 @@ Folgejahr: `5.573.445`
 - Folgejahr: **1.544.965**
     - Differenz: *-2*0204
 
-
+---
 
 ### 21 Bilanz - Inventar
 

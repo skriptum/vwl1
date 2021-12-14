@@ -49,6 +49,8 @@
     - [2021-11-22-Austausch.md](VL_Mathe1/2021-11-22-Austausch.md) 
     - [2021-11-25-Graphen.md](VL_Mathe1/2021-11-25-Graphen.md) 
     - [2021-11-29-Simplexverfahren.md](VL_Mathe1/2021-11-29-Simplexverfahren.md) 
+    - [2021-12-06-Simplex2.md](VL_Mathe1/2021-12-06-Simplex2.md) 
+    - [2021-12-13-Simplex-komplex.md](VL_Mathe1/2021-12-13-Simplex-komplex.md) 
 
  - VWL :chart_with_upwards_trend:
 

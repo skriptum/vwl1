@@ -50,3 +50,10 @@ Vergleich der bedingten Verteilung ist subjektiv => Objektivierung mit **Koeffiz
 
 Notation: ![21-12-06_17-46](../images/21-12-06_17-46.jpg)
 
+zum Normieren von Chi => **Kontingenzkoeffizient**
+
+- Kontingenzkoeffizient: $K = \sqrt{\frac{\chi^2}{n+\chi^2}}$ 
+- Normierter: $K^* = \frac{K}{\sqrt{\frac{M-1}{M}}}$ mit M = min{k,m} (kleinere Zahl von Spalte/Zeilen)
+
+
+
