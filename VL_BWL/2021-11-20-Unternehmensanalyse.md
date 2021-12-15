@@ -1,6 +1,8 @@
 # 20.11.21 Strategische Unternehmensanalyse
 
-### Kundenanalyse
+### Kundennutzenanalyse
+
+auch Customer Value Analyse (CVA)
 
 Analyse der Kunden und ihrer Verlangen
 
@@ -11,9 +13,9 @@ Analyse der Kunden und ihrer Verlangen
 
 ![21-12-07_13-40](../images/21-12-07_13-40.jpg)
 
-### Wertschöpfungsanalyse 
 
-auch Customer Value-Chain Analyse (CVA)
+
+### Wertschöpfungsanalyse 
 
 Analyse des eigenen Unternehmens zum Vergleich mit Konkurrenten
 

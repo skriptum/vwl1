@@ -16,7 +16,7 @@ alles was wir während Online Lehre machen müssen
     - [ ] Zentralübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/680571bb9b9927b3e294135cb36ffb66?cid=df0f041ad274fc2c80bd4cb393912a92)
     - [ ] Zentralübung [MEETINGS](https://studip.uni-halle.de/plugins.php/meetingplugin/index?cid=df0f041ad274fc2c80bd4cb393912a92#/) Mi 8:00
 - **BWL**  [ILIAS](https://ilias.uni-halle.de/ilias.php?ref_id=217678&cmdClass=ilrepositorygui&cmdNode=us&baseClass=ilrepositorygui)
-    - [ ] Vorlesungsvideos
+    - [x] Vorlesungsvideos
     - [ ] Übungsvideos 
 - **Mathe** 
     - [x] Vorlesung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/37b1366b8d66a8d7020d870d0e2ec49a?cid=e40de35dc0052790d6339e9b1bdf7e0c)

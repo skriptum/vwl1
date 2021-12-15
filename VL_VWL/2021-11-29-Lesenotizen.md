@@ -97,3 +97,20 @@ Ja, weil:
 - ist selbsterhaltend
 - auch ärmere Schichten nutzen Technologie
 
+
+
+
+
+# Notizen zum zweiten Text
+
+
+
+Cap-Trade Mechanismus ist beliebt: 
+
+- Funktion der Berechenbarkeit der Emissionen
+- preiswerteste Einsparung wird ausgewählt
+
+Probleme: 
+
+- höhere Transaktionskosten für kleinere Firmen
+- 

@@ -32,7 +32,7 @@
    - [2021-11-15-Umweltanalyse.md](VL_BWL/2021-11-15-Umweltanalyse.md) 
    - [2021-11-20-Unternehmensanalyse.md](VL_BWL/2021-11-20-Unternehmensanalyse.md) 
    - [2021-11-27-SWOT.md](VL_BWL/2021-11-27-SWOT.md) 
-   - [2021-12-07-Formulierung.md](VL_BWL/2021-12-07-Formulierung.md) 
+   - [2021-12-07-BCG.md](VL_BWL/2021-12-07-BCG.md) 
 
 - Mathe :triangular_ruler:
 
