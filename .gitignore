@@ -12,3 +12,5 @@ data/
 *.mdb
 todo.md
 *.m4v
+.Rhistory
+VL_Statistik1/Statistik1-Formelsammlung.pdf

@@ -11,10 +11,10 @@ alles was wir während Online Lehre machen müssen
     - [ ] Vorlesung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=cbc118b597a7b750d1503bfb3191295c) 
     - [ ] synchrone Übung [Meetings](https://studip.uni-halle.de/plugins.php/meetingplugin/index?cid=12f91aa567b01ea251408fd2c4a6c455#/) Freitags 13:00
 - **Wirtschafstinformatik**
-    - [ ] VL [OPENCAST](https://studip.uni-halle.de/plugins.php/opencast/course/index?cid=df0f041ad274fc2c80bd4cb393912a92)
-    - [ ] Computerübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=df0f041ad274fc2c80bd4cb393912a92)
-    - [ ] Zentralübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/680571bb9b9927b3e294135cb36ffb66?cid=df0f041ad274fc2c80bd4cb393912a92)
-    - [ ] Zentralübung [MEETINGS](https://studip.uni-halle.de/plugins.php/meetingplugin/index?cid=df0f041ad274fc2c80bd4cb393912a92#/) Mi 8:00
+    - [x] VL [OPENCAST](https://studip.uni-halle.de/plugins.php/opencast/course/index?cid=df0f041ad274fc2c80bd4cb393912a92)
+    - [x] Computerübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=df0f041ad274fc2c80bd4cb393912a92)
+    - [x] Zentralübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/680571bb9b9927b3e294135cb36ffb66?cid=df0f041ad274fc2c80bd4cb393912a92)
+    - [x] Zentralübung [MEETINGS](https://studip.uni-halle.de/plugins.php/meetingplugin/index?cid=df0f041ad274fc2c80bd4cb393912a92#/) Mi 8:00
 - **BWL**  [ILIAS](https://ilias.uni-halle.de/ilias.php?ref_id=217678&cmdClass=ilrepositorygui&cmdNode=us&baseClass=ilrepositorygui)
     - [x] Vorlesungsvideos
     - [ ] Übungsvideos 
