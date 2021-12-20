@@ -71,7 +71,9 @@ zu jedem Faktor Punkte vergeben und Gewichten !
 
 ![21-11-15_17-39](../images/21-11-15_17-39.jpg)
 
+Beispiel Wertschöpfungskette IKEA
 
+![21-12-16_18-42](../images/21-12-16_18-42.jpg)
 
 ### Kompetenzanalyse
 
