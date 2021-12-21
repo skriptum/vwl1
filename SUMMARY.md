@@ -12,15 +12,17 @@
    - [2021-10-28-Bilanz.md](VL_Buchfuehrung/2021-10-28-Bilanz.md) 
    - [2021-11-02-Bestaende.md](VL_Buchfuehrung/2021-11-02-Bestaende.md) 
    - [2021-11-04-Buchungen.md](VL_Buchfuehrung/2021-11-04-Buchungen.md) 
+   -  [2021-11-09-Buecher.md](VL_Buchfuehrung/2021-11-09-Buecher.md) 
    - [2021-11-11-Erfolgskonten.md](VL_Buchfuehrung/2021-11-11-Erfolgskonten.md) 
    - [2021-11-18-IKR.md](VL_Buchfuehrung/2021-11-18-IKR.md) 
-   - [2021-11-22-Einkauf.md](VL_Buchfuehrung/2021-11-22-Industrie.md) 
+   - [2021-11-22-Einkauf.md](VL_Buchfuehrung/2021-11-22-Einkauf.md) 
    - [2021-11-24-Zahllast.md](VL_Buchfuehrung/2021-11-24-Zahllast.md) 
    - [2021-11-26-Fallstudien1.md](VL_Buchfuehrung/2021-11-26-Fallstudien1.md) 
    - [2021-11-30-Ruecksendungen.md](VL_Buchfuehrung/2021-11-30-Ruecksendungen.md) 
    - [2021-12-03-Fallstudien2.md](VL_Buchfuehrung/2021-12-03-Fallstudien2.md) 
    - [2021-12-06-Loehne.md](VL_Buchfuehrung/2021-12-06-Loehne.md) 
    - [2021-12-10-Fallstudien3.md](VL_Buchfuehrung/2021-12-10-Fallstudien3.md) 
+   - [2021-12-13-Sachanlagen.md](VL_Buchfuehrung/2021-12-13-Sachanlagen.md) 
    
  - BWL :moneybag:
 
@@ -33,6 +35,7 @@
    - [2021-11-20-Unternehmensanalyse.md](VL_BWL/2021-11-20-Unternehmensanalyse.md) 
    - [2021-11-27-SWOT.md](VL_BWL/2021-11-27-SWOT.md) 
    - [2021-12-07-BCG.md](VL_BWL/2021-12-07-BCG.md) 
+   - [2021-12-16-BalancedScore.md](VL_BWL/2021-12-16-BalancedScore.md) 
 
 - Mathe :triangular_ruler:
 
@@ -61,9 +64,12 @@
     - [2021-11-02-Angebot_Nachfrage.md](VL_VWL/2021-11-02-Angebot_Nachfrage.md) 
     - [2021-11-12-Marktmechanismus.md](VL_VWL/2021-11-12-Marktmechanismus.md) 
     - [2021-11-12-Übung2.md](VL_VWL/2021-11-12-Uebung2.md) 
+    - [2021-11-17-Haushalte.md](VL_VWL/2021-11-17-Haushalte.md)
     - [2021-11-24-Unternehmen.md](VL_VWL/2021-11-24-Unternehmen.md) 
     - [2021-11-29-Lesenotizen.md](VL_VWL/2021-11-29-Lesenotizen.md) 
+    - [2021-12-01-Marktversagen](VL_VWL/2021-12-01-Marktversagen)
     - [2021-12-07-Makro.md](VL_VWL/2021-12-07-Makro.md) 
+    - [2021-12-13-Messung.md](VL_VWL/2021-12-13-Messung.md) 
 
  - Statistik :bar_chart:
 
