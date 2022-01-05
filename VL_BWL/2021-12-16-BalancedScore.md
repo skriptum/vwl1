@@ -24,7 +24,7 @@ Ausgewogen: weil unterschiedliche Bereiche aus monetären und nicht monetären G
 ### Beispiel
 
 | Perspektive      | Ziele                             | Vorgaben           | Messgrößen (beispiele) |
-| ---------------- | --------------------------------- | ------------------ | ---------------------- |
+|------------------|-----------------------------------|--------------------|------------------------|
 | Kunden           | Verlorene Kunden zurückgewinnen   | 10 Kunden gewinnen | Kundenzufriedenheit    |
 | Finanzen         | Verbesserung der Ertragssituation | 10% Steigerung     | Umsatzwachstum         |
 | interne Prozesse | CRM-System einführen              | Bis nächstes Jahr  | Durchlaufzeiten        |

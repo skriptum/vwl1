@@ -36,6 +36,7 @@
    - [2021-11-27-SWOT.md](VL_BWL/2021-11-27-SWOT.md) 
    - [2021-12-07-BCG.md](VL_BWL/2021-12-07-BCG.md) 
    - [2021-12-16-BalancedScore.md](VL_BWL/2021-12-16-BalancedScore.md) 
+   - [2022-01-11-Leistungsprozesse.md](2022-01-11-Leistungsprozesse.md)
 
 - Mathe :triangular_ruler:
 
