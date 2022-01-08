@@ -23,6 +23,7 @@
    - [2021-12-06-Loehne.md](VL_Buchfuehrung/2021-12-06-Loehne.md) 
    - [2021-12-10-Fallstudien3.md](VL_Buchfuehrung/2021-12-10-Fallstudien3.md) 
    - [2021-12-13-Sachanlagen.md](VL_Buchfuehrung/2021-12-13-Sachanlagen.md) 
+   - [2022-01-06-GWG.md](VL_Buchfuehrung/2022-01-06-GWG.md) 
    
  - BWL :moneybag:
 
@@ -37,6 +38,7 @@
    - [2021-12-07-BCG.md](VL_BWL/2021-12-07-BCG.md) 
    - [2021-12-16-BalancedScore.md](VL_BWL/2021-12-16-BalancedScore.md) 
    - [2022-01-11-Leistungsprozesse.md](2022-01-11-Leistungsprozesse.md)
+   - [2022-01-18-Finanzprozesse.md](VL_BWL/2022-01-18-Finanzprozesse.md) 
 
 - Mathe :triangular_ruler:
 

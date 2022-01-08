@@ -27,6 +27,7 @@ alles was wir während Online Lehre machen müssen
     - [ ] Fallstudien [WebEX](https://uni-halle.webex.com/meet/michael.braeutigam) Freitags 8:00
     - [ ] Übungsaufgaben
         - [ ] 7.8
+        - [ ] 11.1 
         - [x] LM S.99
 - **R-Tutorium ** [ILIAS](https://ilias.uni-halle.de/ilias.php?ref_id=219883&cmdClass=ilrepositorygui&cmdNode=us&baseClass=ilrepositorygui)
     - [ ] Videos 
@@ -36,6 +37,6 @@ alles was wir während Online Lehre machen müssen
 
 ### laufende ToDos
 
-- [ ] Mathe grafiken scannen und einfügen ! 
-- [ ] Prüfungen anmelden! 
+- [x] Mathe grafiken scannen
+- [ ] 
 

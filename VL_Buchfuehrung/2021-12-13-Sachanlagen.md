@@ -53,3 +53,40 @@ an 280 Bank 			107.800
 
 ---
 
+Video 21
+
+## Abschreibungen
+
+> **Abschreibung:** sollen die Abnutzung und Wertminderung von Anlagen erfassen, werden in Steuerlast einberechnet
+
+- werden nach AfA-Tabellen errechnet (Lesematerial S.128f)
+- nur auf abnutzbare Anlagen (Maschinen, Fahrzeuge,...)
+- werden jedes Jahr anteilig der Nutzungsdauer getätigt
+    - Bsp.: 5 Jahre Nutzungsdauer, 500€ Kosten => jährlich Abschreiben 100€
+- Ende der Nutzungsdauer = vollständig abgeschrieben
+- werden als Aufwand verbucht => mindern Gewinn
+
+### Arten der Abschreibung
+
+| Art       | Beschreibung                                        | Beispiel              |
+| --------- | --------------------------------------------------- | --------------------- |
+| linear    | $Buchwert/Nutzungsdauer$ : jedes Jahr fester Betrag | Maschine              |
+| degressiv | jedes Jahr abnehmender Betrag                       | aktuell nicht erlaubt |
+| leistung  | Entsprechend der Leistung, muss gemessen werden     | LKW nach km-anzahl    |
+| substanz  | entsprechend der entnommenen Substanz               | Kiesgrube nach Menge  |
+
+
+
+### Buchung
+
+direkte Buchung (empfohlen):
+
+```
+652 Abschreibungen auf Sachanlagen
+an 07 Maschinen (Beispiel)
+```
+
+Hier: Maschinenkonto zeigt dann Restbuchwert, sehr praktisch
+
+
+

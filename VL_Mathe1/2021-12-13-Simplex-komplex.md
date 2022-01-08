@@ -1,4 +1,4 @@
-# 13.12.2021 
+# 13.12.2021 komplexer Simplexalgorithmus
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-BSP 138:
+BSP 138:![22-01-06_16-23](../images/22-01-06_16-23.jpg)
 
 
 

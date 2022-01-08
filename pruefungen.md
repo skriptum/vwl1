@@ -2,6 +2,15 @@
 
 Anmeldung ab 6.12 im Löwenportal
 
+Anmeldungen
+
+- [x] BWL
+- [ ] VWL
+- [x] MAthe
+- [x] Statistik
+- [x] Buchfürhung
+- [ ] WI
+
 ## Formalitäten
 
 - [Hinweise PDF!](https://wcms.itz.uni-halle.de/download.php?down=60793&elem=3400651)
@@ -12,7 +21,8 @@ Anmeldung ab 6.12 im Löwenportal
 
 ### Grundlagen BWL 07.02.22
 
-08:15 60 Minuten
+- 08:15 60 Minuten, 
+- Rücktritt danach möglich
 
 ### Grundlagen Wi-Info 09.02.22
 
@@ -32,7 +42,7 @@ Zeit: 08:15 ; 90 Minuten
 
 ### Buchführung 22.02.22
 
-Take-Home-Klausur
+Take-Home-Klausur, Rücktritt danach möglich
 
 08.15; 90 Minuten
 
