@@ -40,3 +40,5 @@ alles was wir während Online Lehre machen müssen
 - [x] Mathe grafiken scannen
 - [ ] 
 
+
+

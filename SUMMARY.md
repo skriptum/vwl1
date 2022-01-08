@@ -24,6 +24,8 @@
    - [2021-12-10-Fallstudien3.md](VL_Buchfuehrung/2021-12-10-Fallstudien3.md) 
    - [2021-12-13-Sachanlagen.md](VL_Buchfuehrung/2021-12-13-Sachanlagen.md) 
    - [2022-01-06-GWG.md](VL_Buchfuehrung/2022-01-06-GWG.md) 
+   - [2022-01-08-Verkauf-Anlagen.md](VL_Buchfuehrung/2022-01-08-Verkauf-Anlagen.md) 
+   - [2022-01-09-Steuern.md](VL_Buchfuehrung/2022-01-09-Steuern.md) 
    
  - BWL :moneybag:
 
