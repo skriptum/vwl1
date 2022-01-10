@@ -41,6 +41,8 @@ Vergleich der bedingten Verteilung ist subjektiv => Objektivierung mit **Koeffiz
 
 ### Chi-Quadrat-Koeffizient
 
+> **Chi-Quadrat-Koeffizient:** Koeffizient zur Einordnung des *Zusammenhangs* beider Variablen 
+
  $\chi$  = Quadratische Abweichung der realen Werte von hypothetischen Werten
 
 -  Werte: $0 \le \chi \le \infty$
@@ -54,6 +56,13 @@ zum Normieren von Chi => **Kontingenzkoeffizient**
 
 - Kontingenzkoeffizient: $K = \sqrt{\frac{\chi^2}{n+\chi^2}}$ 
 - Normierter: $K^* = \frac{K}{\sqrt{\frac{M-1}{M}}}$ mit M = min{k,m} (kleinere Zahl von Spalte/Zeilen)
+
+Interpretation $K^*$: 
+
+- $0 \le K^* \le 0.2 \to$ Kein  Zusammenhang
+- $0.2 \le K^* \le 0.5 \to$ schwacher Z.
+- $0.5 \le K^* \le 0.8 \to$ deutlich
+- $0.8 \le K^* \le 1 \to$ Stark
 
 
 

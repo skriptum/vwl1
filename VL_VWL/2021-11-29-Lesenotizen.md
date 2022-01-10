@@ -101,16 +101,32 @@ Ja, weil:
 
 
 
-# Notizen zum zweiten Text
+# Notizen zum zweiten Text Coase-Cap
+
+> **Coase-Theorem:** besagt, dass in einem Markt mit *klaren Eigentumsrechten* und *niedrigen Transaktionsksoten* Externalitäten effizient eingepreist werden
+
+wenn diese Voraussetzung nicht gegeben: Staat kann Markt mit klaren Rechten und niedrigen Kosten erschaffen => **EU ETS** System in Kombination mit einem **Cap**-Mechanismus
 
 
 
-Cap-Trade Mechanismus ist beliebt: 
+Paper untersucht: Unabhängigkeit zwischen Zuteilung und Emissionen im EU-ETS
 
-- Funktion der Berechenbarkeit der Emissionen
-- preiswerteste Einsparung wird ausgewählt
+Unabhängigkeit: *ob, egal an wen die Allowances vergeben werden, es zu einem effizienten Ergebnis kommt*
 
-Probleme: 
+Weitere Infos zum ["Independece Property"](https://economistsview.typepad.com/economistsview/2012/07/an-important-property-of-cap-and-trade.html)
 
-- höhere Transaktionskosten für kleinere Firmen
-- 
+Untersucht Verhalten bei Firmen, die 
+
+- entweder 2013 ihre kostenlosen Rechte verloren haben (*Treatment Group*)
+- oder weiter kostenlos zugeteilt bekommen (10c Rule für ärmere Länder) (*Kontrollgruppe*)
+
+
+
+Ergebnisse: insgesamt ist Unabhängigkeit gegeben
+
+- große Emissäre = unabhängigkeit
+    - weniger Zuteilungen => gleiche Emissionen wie Vergleichsgruppe
+- für kleine Emissäre keine Unabhängigkeit
+    - Weniger kostenlose Zuteilungen => weniger Emissionen (als vllt. effizient wäre)
+    - wegen zu hohe Transaktionskosten 
+    - machen aber wenig Emissionen aus
