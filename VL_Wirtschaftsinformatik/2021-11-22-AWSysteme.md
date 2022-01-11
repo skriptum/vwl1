@@ -58,3 +58,18 @@ Systematisierung von Daten nach:
 
 
 
+## Integration von AW-Systemen
+
+klassischer Ablauf von AW-Systemen:
+
+![22-01-11_15-00](../images/22-01-11_15-00.jpg)
+
+in diesem Prozess gibt es viele Informationsflüsse, bspw:
+
+- Reservierung von Beständen für Produktion B-> C
+- Mitteilung des Angebotspreises von  A-> D
+
+=> macht viel Redundanz, etc..
+
+Lösung: **Integration** über zentrale Datenbank
+
