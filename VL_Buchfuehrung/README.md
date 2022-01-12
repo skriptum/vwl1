@@ -40,6 +40,16 @@ Prüfungsamt: Hinweise zum Format, etc..., zu Selbstbildnis davor...
 
 
 
+### Inhalte
+
+- Kontenblatt: ein Blatt mit allen Konten, hier eintragen Nummern und Namen
+- Teil A: Buchungssätze bilden anhand vorgegebener Geschäftsfälle (85-90%)
+    - dann im Kontenblatt eintragen
+    - dann Abschluss bilden
+- Teil B: Ankreuzaufgaben (mehrere Antworten *möglich*)
+
+
+
 #### Bewertung
 
 - jeder Fehler, jedes Kreuz zuviel = Punktabzug

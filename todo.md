@@ -35,7 +35,8 @@ alles was wir während Online Lehre machen müssen
         - [x] 11.1 
         - [x] LM S.99
         - [ ] 14.1 (S.45)
-        - [ ] LM S: 156
+        - [x] LM S: 156
+        - [ ] Übung 15.5 (nur altes Jahr Buchungen)
 - **R-Tutorium ** [ILIAS](https://ilias.uni-halle.de/ilias.php?ref_id=219883&cmdClass=ilrepositorygui&cmdNode=us&baseClass=ilrepositorygui)
     - [ ] Videos 
     - [ ] Übungsblatt
