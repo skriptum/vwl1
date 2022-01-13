@@ -13,6 +13,8 @@ Zeit:
 
 ### Themen
 
+#### Lineare Algebra:
+
 - Vektoren
     - Länge, Winkel => cos etc
     - Skalarprodukte
@@ -33,6 +35,19 @@ Zeit:
 - Eigenwerte, Eigenvektoren
     - Berechnung 
     - Unterdeterminanten
+
+#### Lineare Optimierung
+
+- Tableau eintragen
+- Zulässig Tableau prüfen
+- Optimalität erkennen -> Lösung angeben, ZF-Wert
+- falls suboptimal: Pivotelement bestimmen, Austauschschritte
+- Erkennen, wenn ZF
+    - unbeschränkt ist
+    - ausgeartet ist
+    - uneindeutig ist
+
+
 
 
 ### Übung

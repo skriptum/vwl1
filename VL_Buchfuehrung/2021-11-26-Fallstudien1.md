@@ -6,7 +6,7 @@ Definitionen für verschiedene Begriffe
 
 - **Aufwand**: Werteverbrauch innerhalb einer Abrechungsperiode
 - **Kosten**: betriebsbedingter Verbrauch (in einer Periode)
-    - Aufwand ≠ Kosten
+    - Aufwand nicht gleich Kosten
 - **Ertrag**: Wertzugang in einer Periode
 - **Leistung**: Wert betriebsbedingter Güter
 - **Erfolg**: Ertrag - Kosten 

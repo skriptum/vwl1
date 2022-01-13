@@ -35,7 +35,7 @@ Eigenschaften eines LOP:
 
 - **nicht lösbar:** wenn zulässiger Bereich leer oder 
     - Zielfunktion unbeschränkt in Bereich (unendlich offener Bereich)
-- **lösbar **wenn zulässiger Bereich beschränkt ist
+- **lösbar**wenn zulässiger Bereich beschränkt ist
     - dann Lösung in einer Ecke des Bereichs
 
 **Merke:** Ecke x=0 ist bei Standardmaximumproblem (SMP) erlaubt und hat Zielfunktionswert $z_0$

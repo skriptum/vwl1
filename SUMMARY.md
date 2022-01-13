@@ -26,6 +26,8 @@
    - [2022-01-06-GWG.md](VL_Buchfuehrung/2022-01-06-GWG.md) 
    - [2022-01-08-Verkauf-Anlagen.md](VL_Buchfuehrung/2022-01-08-Verkauf-Anlagen.md) 
    - [2022-01-09-Steuern.md](VL_Buchfuehrung/2022-01-09-Steuern.md) 
+   - [2022-01-11-Abschluss.md](VL_Buchfuehrung/2022-01-11-Abschluss.md) 
+   - [2022-01-12-Bestand.md](VL_Buchfuehrung/2022-01-12-Bestand.md) 
    
  - BWL :moneybag:
 
@@ -59,6 +61,7 @@
     - [2021-11-29-Simplexverfahren.md](VL_Mathe1/2021-11-29-Simplexverfahren.md) 
     - [2021-12-06-Simplex2.md](VL_Mathe1/2021-12-06-Simplex2.md) 
     - [2021-12-13-Simplex-komplex.md](VL_Mathe1/2021-12-13-Simplex-komplex.md) 
+    - [2022-01-10-Dualitaet.md](VL_Mathe1/2022-01-10-Dualitaet.md) 
 
  - VWL :chart_with_upwards_trend:
 
@@ -75,6 +78,7 @@
     - [2021-12-01-Marktversagen](VL_VWL/2021-12-01-Marktversagen)
     - [2021-12-07-Makro.md](VL_VWL/2021-12-07-Makro.md) 
     - [2021-12-13-Messung.md](VL_VWL/2021-12-13-Messung.md) 
+    - [2022-01-13-Arbeitslosigkeit.md](VL_VWL/2022-01-13-Arbeitslosigkeit.md) 
 
  - Statistik :bar_chart:
 
@@ -87,6 +91,7 @@
     - [2021-11-22-Streuungsmaße.md](VL_Statistik1/2021-11-22-Streuungsmaße.md) 
     - [2021-11-29-Schiefemaße.md](VL_Statistik1/2021-11-29-Schiefemaße.md) 
     - [2021-12-06-Mehrdimension.md](VL_Statistik1/2021-12-06-Mehrdimension.md) 
+    - [2022-01-10-Korrelation.md](VL_Statistik1/2022-01-10-Korrelation.md) 
 
  - Wirtschaftsinformatik :computer: 
 
