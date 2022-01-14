@@ -35,6 +35,8 @@ Ziele von IS:
 
 ### Anwendungssysteme
 
+> **Anwendungsystem:** Softwaresystem zur Durchführung von Aufgaben in unterschiedlichen Unternehmensbereichen
+
 Unterscheidung AWS und IS
 
 ![21-11-22_12-56](../images/21-11-22_12-56.jpg)
@@ -58,18 +60,22 @@ Systematisierung von Daten nach:
 
 
 
-## Integration von AW-Systemen
+### Beispiel Uni-Bib
 
-klassischer Ablauf von AW-Systemen:
+Schnittstellen:
 
-![22-01-11_15-00](../images/22-01-11_15-00.jpg)
+- Scanner für Ausweise
+- Rechner für Bestandsuche
+- OPAC-Software 
+- Ausweise
+- Drucker, Scanner
 
-in diesem Prozess gibt es viele Informationsflüsse, bspw:
 
-- Reservierung von Beständen für Produktion B-> C
-- Mitteilung des Angebotspreises von  A-> D
 
-=> macht viel Redundanz, etc..
+Daten:
 
-Lösung: **Integration** über zentrale Datenbank
+- **Stammdaten:** Nutzer, Bücher, Standorte, ...
+- **Bewegungsdaten:** Entleihungen
+- **Historische Daten:** Nutzerhistorie, Buchhistorie
+- **Aggregierte Daten:** Anzahl Entleihungen pro Monat
 

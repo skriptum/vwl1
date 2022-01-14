@@ -12,7 +12,7 @@ alles was wir während Online Lehre machen müssen
     - [ ] synchrone Übung [Meetings](https://studip.uni-halle.de/plugins.php/meetingplugin/index?cid=12f91aa567b01ea251408fd2c4a6c455#/) Freitags 13:00
 - **Wirtschafstinformatik**
     - [ ] VL [OPENCAST](https://studip.uni-halle.de/plugins.php/opencast/course/index?cid=df0f041ad274fc2c80bd4cb393912a92)
-        - [ ] Video AW-Integration 12:41 abschließen
+        - [ ] Video AW-Integration 45:00 abschließen
         - [ ] Video AWS checken ob alles drin ist
     - [ ] Computerübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files?cid=df0f041ad274fc2c80bd4cb393912a92)
     - [ ] Zentralübung [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/680571bb9b9927b3e294135cb36ffb66?cid=df0f041ad274fc2c80bd4cb393912a92)
