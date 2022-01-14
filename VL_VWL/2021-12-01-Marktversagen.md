@@ -51,3 +51,4 @@ Beispiel: Radio, [Wikipedia](https://en.wikipedia.org/wiki/Public_good_(economic
 Beispiel: saubere Luft, Atmosphäre
 
 Problem: Übernutzung 
+
