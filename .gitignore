@@ -1,11 +1,11 @@
 .obsidian
 .DS_Store
 *.mp4
-/dokumente
 .Rproj.user
 .ipynb_checkpoints
 data/
 /Tutorium_R
+Tutorium_R
 *.pdf
 *.calca
 *.sqlite
@@ -13,5 +13,4 @@ data/
 todo.md
 *.m4v
 .Rhistory
-VL_Statistik1/Statistik1-Formelsammlung.pdf
 .ztr-directory

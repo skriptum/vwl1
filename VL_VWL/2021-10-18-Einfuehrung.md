@@ -47,20 +47,14 @@
     - Analyse von Haushalten, Unternehmen, Industrien
 
 2. Makroökonomik
-
     - gesamtwirtschaftliche Vorgänge anhand von zusammengefassten Sektoren und Analyse mithilfe von Aggregatvariablen
     - Einkommen, Beschäftigung, Inflation
 
 3. Verhaltensökonomik
-
 4. Ökonometrie
-
 5. Wirtschaftsgeschichte
-
 6. Umweltökonomik
-
 7. Finance
-
 8. ... vieles weiteres
 
 
