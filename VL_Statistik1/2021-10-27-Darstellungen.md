@@ -22,6 +22,18 @@ Fragen an 36 von ihnen:
 
 
 
+### Klassenwahl
+
+wenn möglich beachten:
+
+- gleichmäßige Verteilung auf Klassen
+- $\sqrt{n}$-Regel ("Daumenregel")
+- oft : gleiche Klassenbreite 
+- vollständige Klassen (jeder Wert hat eine Klasse)
+- offene Randklassen möglich
+
+
+
 ### Darstellungen
 
 Tabellarisch vs. Graphische Abbildung

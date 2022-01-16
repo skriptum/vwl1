@@ -75,4 +75,21 @@ Variablen sind Preise von $E_1,E_2,E_3$ : $y_1,y_2,y_3$
 
  
 
- 
+### Beispiel 144
+
+Beispiel mit Produkten $x_1, x_2$ und Maschinen $y_1 , y_2 , y_3$ 
+
+![22-01-14_17-48](../images/22-01-14_17-48.jpg)
+
+- da $y_2 \neq 0$, heißt, es gibt hier "*kostenlose Kapazität*" , die man noch vermieten könnte, ohne Profit zu schmälern
+- die anderen Maschinen sind vollausgelastet!
+
+Optimallösung aus unterster Zeile *z*: 
+$$
+5 y_3 + 10/3 y_1 + z = 775 \\
+\to z = 775 - 5 y_3 - 10/3 y_1
+$$
+=> Bei Vermietung aller Maschinen fällt Profit (775) um je $u_1^* = 10/3$ , $u_3^* = 5$  un $u_2 = 0$
+
+$u_1, u_2, u_3$ sind Schattenpreise / Opportunitätskosten und **Mindestpreise** der Vermietung, und werden **Dualvariablen!**
+
