@@ -30,7 +30,7 @@ Darstellung im Streudiagramm:
 
 Berechneter Korrelationskoeffizient ~0.87 = stark
 
-### Ränge
+### Rangkorrelation
 
 für *ordinale* Merkmale
 

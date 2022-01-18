@@ -31,6 +31,8 @@
     - [Simplex2](VL_Mathe1\2021-12-06-Simplex2.md)
     - [Simplex-komplex](VL_Mathe1\2021-12-13-Simplex-komplex.md)
     - [Dualitaet](VL_Mathe1\2022-01-10-Dualitaet.md)
+    - [Dualitaet2](VL_Mathe1\2022-01-13-Dualitaet2.md)
+    - [Transport](VL_Mathe1\2022-01-17-Transport.md)
     - [Übersicht](VL_Mathe1\README.md)
 
 - Buchführung :books:
@@ -70,6 +72,7 @@
     - [Schiefemaße](VL_Statistik1\2021-11-29-Schiefemaße.md)
     - [Mehrdimension](VL_Statistik1\2021-12-06-Mehrdimension.md)
     - [Korrelation](VL_Statistik1\2022-01-10-Korrelation.md)
+    - [Regression](VL_Statistik1\2022-01-17-Regression.md)
     - [Übersicht](VL_Statistik1\README.md)
 
 - Wirtschaftsinfo :computer:

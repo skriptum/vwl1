@@ -49,6 +49,8 @@ zu 1:
 
 ![21-12-02_14-38](../images/21-12-02_14-38.jpg)
 
+<!--Umformung der Basisvariablen und NBV-->
+
 zu 2:
 
 1. **Wahl der Austauschspalte**: Minimum in der untersten Zeile => Spalte *j*

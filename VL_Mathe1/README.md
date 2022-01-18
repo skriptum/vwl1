@@ -46,6 +46,12 @@ Zeit:
     - unbeschränkt ist
     - ausgeartet ist
     - uneindeutig ist
+- Transportproblem
+    - Nordwesteckenregel
+    - Matrixminimum
+    
+
+
 
 
 

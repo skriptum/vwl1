@@ -1,15 +1,6 @@
 # Prüfungen 
 
-Anmeldung ab 6.12 im Löwenportal
 
-Anmeldungen
-
-- [x] BWL
-- [ ] VWL
-- [x] MAthe
-- [x] Statistik
-- [x] Buchfürhung
-- [ ] WI
 
 ## Formalitäten
 
@@ -45,6 +36,80 @@ Zeit: 08:15 ; 90 Minuten
 Take-Home-Klausur, Rücktritt danach möglich
 
 08.15; 90 Minuten
+
+
+
+
+
+## Vorbereitungen
+
+
+
+### Mathe
+
+- [ ] LinAlg erneut durchlesen und proben
+    - [ ] Matrizenoperationen
+    - [ ] LGS Lösen
+    - [ ] komplexe Zahlen 
+- [ ] Übungsblätter 2,3,4,5,6
+- [ ] Probeklausur
+
+
+
+### BWL
+
+- [ ] Übungen erneut machen
+    - [ ] Balanced Score
+    - [ ] PEST
+    - [ ] SWOT
+    - [ ] Strategien
+- [ ] Übungsklausur
+- [ ] Zusammenfassungen durchlesen
+
+
+
+### Statistik
+
+- [ ] Zusammenfassung machen
+- [ ] Übungsblätter durcharbeiten
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+- [ ] Probetest ILIAS abarbeiten
+
+
+
+### Buchführung
+
+- [ ] Steuern
+- [ ] Privatentnahmen
+- [ ] Löhne
+- [ ] Sachanlagen
+- [ ] Skonto
+- [ ] Abschlüsse !
+    - [ ] SBK
+    - [ ] GuV
+
+
+
+### Wirtschaftsinfo
+
+- [ ] SQL Statements
+- [ ] Datenbank Normalisierung
+- [ ] UML
+- [ ] EPK
+- [ ] ERM
+
+
+
+### VWL
+
+- [ ] Zusammenfassen
+- [ ] BIP Berechnen
+- [ ] Grenzprodukt / Durchschnittsprodukt
+- [ ] Opportunitätskosten Kapital
 
 
 
