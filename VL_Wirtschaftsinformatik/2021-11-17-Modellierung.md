@@ -70,8 +70,6 @@ auch andersherum mit auslösenden Ereignissen/Funktionen etc
 - kein Objekt ohne Kante
 - Direktverbindungen von Konnektoren erlaubt
 
-### 
-
 
 
 ## Erweiterte Sichten (Video4)

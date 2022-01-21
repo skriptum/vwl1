@@ -1,3 +1,5 @@
+
+
 # Prüfungen 
 
 
@@ -96,13 +98,16 @@ Take-Home-Klausur, Rücktritt danach möglich
 
 ### Wirtschaftsinfo
 
+Modelle:
+
 - [ ] SQL Statements
 - [ ] Datenbank Normalisierung
 - [ ] UML
 - [ ] EPK
 - [ ] ERM
+- [ ] ARIS
 
-
+Falstudie ! Studip
 
 ### VWL
 

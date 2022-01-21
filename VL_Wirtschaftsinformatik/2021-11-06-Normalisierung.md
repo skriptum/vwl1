@@ -10,7 +10,7 @@ Beispiel Ausgangstabelle
 
 ![21-11-17_08-58](../images/21-11-17_08-58.jpg)
 
-### 1.Normalform
+## 1.Normalform
 
 - alle Attributwerte atomar (Bsp: Name + Vorname getrennte Spalten)
 - Primärschlüssel wurden festgelegt
@@ -33,7 +33,7 @@ Also: alles was irgendwie von einem Primärschlüssel abhängig ist, eigene Tabe
 
 ![21-11-17_09-03](../images/21-11-17_09-03.jpg)
 
-### 3. Normalform
+## 3. Normalform
 
 > **3\. Normalform**: kein Nichtschlüsselattribut ist nur von einem anderen abhängig
 
