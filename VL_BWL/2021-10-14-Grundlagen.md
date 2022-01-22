@@ -82,13 +82,6 @@ Export < Lizenzierung < Direktinvestition < Joint Venture < Auslandsniederlassun
 
 
 
-### Prozesse in Unternehmen
+### Prozess des strategischen Managements
 
-Finanzprozesse
-
-Leistungsprozesse
-
-Managementsysteme
-
-Prozess des strategischen Managements
-
+![22-01-21_19-22](../images/22-01-21_19-22.jpg)

@@ -1,4 +1,4 @@
-# 04.11.2021 Strategisches Management
+#  04.11.2021 Strategisches Management
 
 > **Strategisches Management**: systematischer Prozess, längerfristige Wettbewerbsvorteile aufbauen und erhalten
 
@@ -69,6 +69,8 @@ Eigenschaften verschiedener Stile:
 ### Unternehmenspolitik
 
 $ Vision \implies Leitbild \implies Ziele \implies Strategien$
+
+![22-01-21_19-22](../images/22-01-21_19-22-2789395.jpg)
 
 #### Vision
 

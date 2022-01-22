@@ -8,8 +8,6 @@
 - Erstellung eines Modells: bedeutet beträchtlichen Aufwand/ Kosten
 - Erfolg eines Modells: abhängig von Einheitlichkeit und Ordnungsrahmen
 
-
-
 ### EPK
 
 > **EPK**: ereignisgesteuerte Prozessketten
@@ -34,14 +32,11 @@ Grundelemente der EPK:
 
 - Formulierung: Substantiv + Partizip Perfekt (Bsp.: Rechnung geschrieben)
 
-    
-
 #### Konnektoren
 
 > Verknüpfung mehrerer Elemente aufgrund einer Regel mit anderen Elementen (Elemente oder Funktion)
 
 Arten Konnektoren (eintretende Ereignisse):
-
 
 ![21-11-17_13-45](../images/21-11-17_13-45.jpg)
 
@@ -70,8 +65,6 @@ auch andersherum mit auslösenden Ereignissen/Funktionen etc
 - kein Objekt ohne Kante
 - Direktverbindungen von Konnektoren erlaubt
 
-
-
 ## Erweiterte Sichten (Video4)
 
 normale EPK erlaubt nicht kompletten Überblick über Prozess => *erweiterte Sichten auf Geschäftsprozesse*
@@ -82,11 +75,7 @@ Erweiterte Sichten werden in Untermodelle ausgelagert in einer konsistenten *Arc
 
 ### Arhchitekturmodell ARIS
 
-
-
 ![21-11-19_13-25](../images/21-11-19_13-25.jpg)
-
-
 
 jede Untersicht hat eigene Syntax
 
@@ -95,8 +84,6 @@ jede Untersicht hat eigene Syntax
 > **Leistungssicht**: Modell der Bestandteile eines Guts / einer Leistung und die Unterbestandteile
 
 Beispiel Auto:![21-11-19_13-32](../images/21-11-19_13-32.jpg)
-
-
 
 ---
 
@@ -130,4 +117,3 @@ Darstellung mit *Organigrammen*
 #### Steuerungssicht
 
 gesamte Verknüpfung aller Sichten => **EPK** wie oben
-

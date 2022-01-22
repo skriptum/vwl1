@@ -63,7 +63,7 @@ Stufen:
 Arten von Managementsystemen
 
 | Innovativ-strategieorientiert       | bürokratisch-administrativ                     |
-| ----------------------------------- | ---------------------------------------------- |
+|-------------------------------------|------------------------------------------------|
 | Konzentration auf Stärken           | Ausmerzen Schwächen                            |
 | offensiv agieren                    | defensiv reagieren                             |
 | "richtigen Dinge tun"               | "Dinge richtig tun"                            |

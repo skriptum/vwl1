@@ -1,7 +1,5 @@
 # 17.11.2021 Normalisierung Übung
 
-
-
 > **Normalisierung:** Prozess der Vereinfachung und Entzerrung von Datenbanken (schrittweiser Prozess)
 
 bei Normalisierung werden nur Redundanzen reduziert, es gehen keine Infos verloren
@@ -43,4 +41,3 @@ Also: alles was irgendwie von einem Primärschlüssel abhängig ist, eigene Tabe
 **Beispiel:** alles was von einem Nichtschlüsselattribut abhängt, wird auch ausgelagert (Punkte -> Note)
 
 ![21-11-17_09-04](../images/21-11-17_09-04.jpg)
-
