@@ -19,12 +19,12 @@
 
 ### BWL
 
-- [ ] Übungen erneut machen
-    - [ ] Balanced Score
-    - [ ] PEST
-    - [ ] SWOT
-    - [ ] Strategien
-- [ ] Übungsklausur
+- [x] Übungen erneut machen
+    - [x] Balanced Score
+    - [x] PEST
+    - [x] SWOT
+    - [x] Strategien
+- [x] xqÜbungsklausur
 - [ ] Zusammenfassungen durchlesen
 
 
