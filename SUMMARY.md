@@ -13,6 +13,7 @@
     - [Makro](VL_VWL\2021-12-07-Makro.md)
     - [Messung](VL_VWL\2021-12-13-Messung.md)
     - [Arbeitslosigkeit](VL_VWL\2022-01-13-Arbeitslosigkeit.md)
+    - [Wachstum](VL_VWL\2022-01-21-Wachstum.md)
     - [Übersicht](VL_VWL\README.md)
 
 - Mathe :triangular_ruler:
@@ -33,6 +34,7 @@
     - [Dualitaet](VL_Mathe1\2022-01-10-Dualitaet.md)
     - [Dualitaet2](VL_Mathe1\2022-01-13-Dualitaet2.md)
     - [Transport](VL_Mathe1\2022-01-17-Transport.md)
+    - [Transport2](VL_Mathe1\2022-01-24-Transport2.md)
     - [Übersicht](VL_Mathe1\README.md)
 
 - Buchführung :books:
@@ -73,12 +75,13 @@
     - [Mehrdimension](VL_Statistik1\2021-12-06-Mehrdimension.md)
     - [Korrelation](VL_Statistik1\2022-01-10-Korrelation.md)
     - [Regression](VL_Statistik1\2022-01-17-Regression.md)
+    - [Regression2](VL_Statistik1\2022-01-25-Regression2.md)
     - [Übersicht](VL_Statistik1\README.md)
 
 - Wirtschaftsinfo :computer:
     - [Einfuehrung](VL_Wirtschaftsinformatik\2021-10-18-Einfuehrung.md)
     - [Datenbank](VL_Wirtschaftsinformatik\2021-10-25-Datenbank.md)
-    - [Datenbank2](VL_Wirtschaftsinformatik\2021-11-03-Datenbank2.md)
+    - [ERM](VL_Wirtschaftsinformatik\2021-11-03-ERM.md)
     - [Normalisierung](VL_Wirtschaftsinformatik\2021-11-06-Normalisierung.md)
     - [Geschaeftsprozess](VL_Wirtschaftsinformatik\2021-11-15-Geschaeftsprozess.md)
     - [Modellierung](VL_Wirtschaftsinformatik\2021-11-17-Modellierung.md)
