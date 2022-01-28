@@ -8,11 +8,27 @@
 
 ### Mathe
 
-- [ ] LinAlg erneut durchlesen und proben
-    - [ ] Matrizenoperationen
-    - [ ] LGS Lösen
+- erneut durchlesen und zusammenfassen
+
+    - [x] Matrizenoperationen
+    - [x] LGS
     - [ ] komplexe Zahlen 
-- [ ] Übungsblätter 2,3,4,5,6
+    - [ ] eigenwerte
+    - [ ] Austauschverfahren
+    - [ ] Simplex verfahren
+    - [ ] Dualisieren
+    - [ ] Transportproblem
+
+- Übungsblätter 
+
+    - [x] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+
 - [ ] Probeklausur
 
 
@@ -24,7 +40,7 @@
     - [x] PEST
     - [x] SWOT
     - [x] Strategien
-- [x] xqÜbungsklausur
+- [x] Übungsklausur
 - [ ] Zusammenfassungen durchlesen
 
 
@@ -39,6 +55,7 @@
     - [ ] 5
     - [ ] 6
 - [ ] Probetest ILIAS abarbeiten
+- [ ] Probeklausur ILIAS abarbeiten
 
 
 

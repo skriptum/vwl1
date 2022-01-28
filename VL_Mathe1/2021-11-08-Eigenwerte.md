@@ -48,7 +48,7 @@ $$
 
 **Bemerkung:** wenn $\lambda$ Eigenwert der reellen Matrix, dann auch $\bar{\lambda}$ 
 
-Beispiel 85: Eigenwerte:
+Beispiel 85: Eigenwerte
 
 ![21-11-08-13-58-13](../images/21-11-08-13-58-13.jpg)
 
