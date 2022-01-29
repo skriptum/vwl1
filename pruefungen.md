@@ -12,8 +12,8 @@
 
     - [x] Matrizenoperationen
     - [x] LGS
-    - [ ] komplexe Zahlen 
-    - [ ] eigenwerte
+    - [x] komplexe Zahlen 
+    - [x] eigenwerte
     - [ ] Austauschverfahren
     - [ ] Simplex verfahren
     - [ ] Dualisieren
