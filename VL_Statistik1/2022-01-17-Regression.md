@@ -2,7 +2,7 @@
 
 
 
-## Einfaches lineares Regressionsmodell
+### Einfaches lineares Regressionsmodell
 
 > **Regressionsmodell:** statistische Analyse für Untersuchung von Wirkungszusammenhängen
 

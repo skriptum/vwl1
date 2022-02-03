@@ -16,8 +16,11 @@ Kontakt: gvwl@wiwi.uni-halle.de
 
 ### Klausur
 
+Inhalte: ![22-02-03_16-30](../images/22-02-03_16-30.jpg)
+
 - Schriftlich 60 Minuten
-- Multiple Choice (30 Minuten) und anderes
+- 2,5 Punkte Fragen, 5 Punkte fragen, 7.5 Punkte Fragen => 100 Punkte
+- Multiple Choice (30 Minuten) und Rechnungen
 - Übung- + Vorlesung-Inhalte
 
 
