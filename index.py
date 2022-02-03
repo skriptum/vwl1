@@ -52,9 +52,9 @@ for name, file_list in dirs.items():
         if not file in ignores:
             if file.endswith(".md"):
                 if file == "README.md":
-                    string = f"    - [Übersicht]({name}\{file})"
+                    string = f"    - [Übersicht]({name}/{file})"
                 else:
-                    string = f"    - [{file[11:-3]}]({name}\{file})"
+                    string = f"    - [{file[11:-3]}]({name}/{file})"
             
                 result_list.append(string)
     
