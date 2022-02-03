@@ -13,13 +13,13 @@ bei einer Beobachtung (oft in Form einer *Urliste)*: zu jeder Beobachtungseinhei
 
 
 auch genannt **Index** und **Variable** 
-
-- $Beispiel \\
+$$
+Beispiel \\
 x_1 = 145cm \\
 x_2 = 180cm \\
 x_3 = 170cm \\
 x_4 = 145cm
-$
+$$
 
 #### Notation:
 

@@ -6,7 +6,7 @@
 
 
 
-## Phasen des Leistungsprozesses
+### Phasen des Leistungsprozesses
 
 1. **Beschaffung:** von Arbeit, Betriebsmittel, Werkstoffe
 2. **Produktion**
