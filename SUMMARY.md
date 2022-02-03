@@ -15,8 +15,8 @@
     - [Arbeitslosigkeit](VL_VWL/2022-01-13-Arbeitslosigkeit.md)
     - [Wachstum](VL_VWL/2022-01-21-Wachstum.md)
     - [Entwicklungsländer](VL_VWL/2022-01-24-Entwicklungsländer.md)
+    - [Formelsammlung](VL_VWL/2022-02-03-Formelsammlung.md)
     - [Übersicht](VL_VWL/README.md)
-    - [ammlung](VL_VWL/VWL_Formelsammlung.md)
 
 - Mathe :triangular_ruler:
     - [Einfuehrung](VL_Mathe1/2021-10-11-Einfuehrung.md)
