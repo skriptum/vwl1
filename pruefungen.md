@@ -1,10 +1,6 @@
 # Prüfungen 
 
-
-
 ## Vorbereitungen
-
-
 
 ### Mathe
 
@@ -14,10 +10,10 @@
     - [x] LGS
     - [x] komplexe Zahlen 
     - [x] eigenwerte
-    - [ ] Austauschverfahren
-    - [ ] Simplex verfahren
-    - [ ] Dualisieren
-    - [ ] Transportproblem
+    - [x] Austauschverfahren
+    - [x] Simplex verfahren
+    - [x] Dualisieren
+    - [x] Transportproblem
 
 - Übungsblätter 
 
@@ -29,7 +25,7 @@
     - [ ] 6
     - [ ] 7
 
-- [ ] Probeklausur
+- [x] Probeklausur
 
 
 
@@ -47,15 +43,10 @@
 
 ### Statistik
 
-- [ ] Zusammenfassung machen
+- [x] Zusammenfassung machen
 - [ ] Übungsblätter durcharbeiten
-    - [ ] 2
-    - [ ] 3
-    - [ ] 4
-    - [ ] 5
-    - [ ] 6
 - [ ] Probetest ILIAS abarbeiten
-- [ ] Probeklausur ILIAS abarbeiten
+- [x] Probeklausur ILIAS abarbeiten
 
 
 
@@ -97,7 +88,7 @@ Rechnungen
 
 - [ ] BIP Berechnen
 - [ ] Grenzprodukt / Durchschnittsprodukt
-- [ ] Opportunitätskosten Kapital
+- [x] Opportunitätskosten Kapital
 
 
 
@@ -107,32 +98,5 @@ Rechnungen
     - u.a Fotoausweis verstehen!
 - [Proberaum Online](https://exam.itz.uni-halle.de/goto.php?target=crs_3452&client_id=exam)
 
-## Termine
 
-### Grundlagen BWL 07.02.22
-
-- 08:15 60 Minuten, 
-- Rücktritt danach möglich
-
-### Grundlagen Wi-Info 09.02.22
-
-15:45; 90 Minuten
-
-### Mathematik 11.02.22 
-
-Zeit: 08:15 ; 90 Minuten
-
-### Grundlagen der VWL 14.02.22
-
-08:15, 60 Minuten
-
-### Statistik I 16.02.22 
-
-08:15 90 Minuten
-
-### Buchführung 22.02.22
-
-Take-Home-Klausur, Rücktritt danach möglich
-
-08.15; 90 Minuten
 

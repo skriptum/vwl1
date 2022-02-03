@@ -9,7 +9,7 @@ Vorteile
 
 
 
-## Führung
+### Führung
 
 | Führung vs                    | Management             |
 | ----------------------------- | ---------------------- |
