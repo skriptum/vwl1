@@ -1,0 +1,215 @@
+---
+title: Betriebswirtschaftslehre
+subtitle: Zusammenfassung für das WS 2021
+---
+# Allgemein
+> **Wirtschaften**: Disponieren über knappe Güter als Gegenstand von Marktprozessen
+
+Prinzipien profitorientierter Unternehmen:
+- *Maximumprinzip:* Output maximieren
+- *Minimumprinzip:* Input minimieren
+- *Extremumprinzip:* optimales Verhältnis von Output ~ Input
+
+## Rechtsformen
+1. Personengesellschaft: (OHG,...)
+    - Risiko lastet auf Unternehmer
+2. Kapitalgesellschaft: (AG, GmbH,...)
+    - haftungsbeschränkt
+3. Mischformen, staatliche Formen, …
+
+## Gliederung der Unternehmen
+- *nach Produktart:* Dienstleistung | Sachleistung
+- *nach Wirtschaftszweig*: Industrie, Handel, …
+- *nach Größe:* klein, mittel, groß
+- *nach regionalen Ausmaß:* lokal, regional, national, international, multinational
+
+### internationale Unternehmen
+Unterscheidung inter- und multinationl:
+
+- **international:** Produktion Inland; Absatz auch Ausland
+- **multinational:** Produktion + Absatz sowohl Inland als auch Ausland
+
+| Vorteile                           | Nachteile               |
+|------------------------------------|-------------------------|
+| Kostenvorteile durch Skaleneffekte | rechtliche Unterschiede |
+| Zugang zu internationalen Märkten  | Koordinierungsprobleme  |
+
+Arten des Auslandseinsatzes (steigend intern.): $Export < Lizenz < Direktinvestition < Auslandsniederlassung$
+
+# Management
+> **Management:** zielgerichtete und ökonomische Steuerung/Organisation der menschlichen Handlung
+
+Ausgangspunkt des Management: *Aufgabe*
+
+Schritte des Management: 
+
+| Analyse                                                 | Synthese                 |
+|---------------------------------------------------------|--------------------------|
+| Übersicht verschafften                                  | Einheiten zusammenfassen |
+| relevante Elemente erfassen (Personen, Abteilungen,...) | Verteilung der Aufgaben  |
+
+## Managementsystem
+> **Managementsystem**: alle Instrumente, mit denen Managementfunktionen erfüllt werden
+2 Arten: 
+
+| innovativ-strategieorientiert | bürokratisch-administrativ |
+|-------------------------------|----------------------------|
+| Konzentration auf Stärken     | Ausmerzung Schwächen       |
+| offensiv agieren              | defensiv reagieren         |
+| "Richtige Dinge tun"          | "Dinge richtig tun"        |
+
+### Bestandteile
+
+| Organisationsystem        | Informationsystem           | Planungs- / Kontrollsystem | Personalführungsystem | Controlling              |
+| ------------------------- | --------------------------- | -------------------------- | --------------------- | ------------------------ |
+| *wie sind wir aufgebaut?* | *wie werden Infos genutzt?* | *wie planen wir?*          | *wie führen wir?*     | *wie kontrollieren wir?* |
+| funktional vs             | Beschaffung                 | strategisch                | Leitmaxime            |                          |
+| divisional                | Speicherung                 | evolvierend                | Anreizsysteme         |                          |
+|                           | Lagerung                    | flexibel                   | Personalentwicklung   |                          |
+|                           | Verarbeitung                | budgetbeschränkt           |                       |                          |
+
+### Techniken
+
+- *Kreativitätstechnik:* zur Ideengewinnung, bspw. Brainstorming
+- *Scoringtechnik*: Bewertungsmethode zur Gewichtung
+- *Netzplantechnik*: Methode zur Planung komplexer Probleme
+- *Extrapolationstechnik*: Fortschreibung der Vergangenheit in Zukunft
+- *Szenariotechnik:* Entwicklung von Szenarien
+
+## Führung
+> **Führungsstil:** längerfristige Muster im Verhalten von Führungskräften
+
+| Führung vs                 | Management                 |
+|----------------------------|----------------------------|
+| Gestaltung des Systems     | innerhalb des Systems      |
+| Weiterentwicklung          | Ordnung des Existenten     |
+| Motivation der Mitarbeiter | Zuordnung von Mitarbeitern |
+
+### Ziele der Führung
+
+- Motivation
+- Kohäsion (Zusammenhalt)
+- Lokomotion (Richtungsweisung)
+
+Führungstheorien:
+
+- *merkmalsbezogen:* Eigenschaftstheorie, Verhaltenstheorie (beide eher historisch)
+- *prozessbezogen:* Interaktionstheorie, Transformationstheorie (eher moderne) 
+
+### Führungstile
+
+| autoritär                                    | partizipativ                                        |
+|----------------------------------------------|-----------------------------------------------------|
+| schnelle Entscheidungen                      | bessere Entscheidungen                              |
+| klare Rollenverteilung                       | Teilhabe von Mitarbeitern                           |
+| braucht: Niveaugefälle und einfache Aufgaben | braucht: engagierte Mitarbeiter + kreative Probleme |
+
+# Strategisches Management
+ > **Strategisches Management:** systematischer Prozess, in dem längerfristige Vorteile im Wettbewerb aufgebaut und erhalten werden
+
+ - erlaubt proaktives Handeln statt Reaktion auf Veränderung
+ - Kontrolle + Beinflussung von Marktgeschehen
+
+Bestandteile:
+![22-02-04_19-08](../images/22-02-04_19-08.png)
+### Entwicklung von Strategien
+$Vision \implies Leitbild \implies Ziele \implies \textbf{Strategie}$ 
+- **Vision:** langfristige Idee für Unternehmen
+    - sinnstiftend
+    - handlungsleitend
+    - integrierend
+- **Leitbild**: Umsetzung der Vision
+    - Bündelung der Motivation
+    - Darstellung nach innen und außen
+- **Ziele**: gleichwertig aus
+    - ökonomisch
+    - ökologisch
+    - sozial
+
+### Geschäftsmodell
+> **Geschäftsmodell** : Grundprinzip des Unternehmens in der Wertschöpfung
+
+Elemente:
+
+- Produkt-Markt Modell: *was produzieren?*
+- Wertschöpfungsmodell: *wie produzieren?*
+- Verkaufsmodell: *wie verkaufen?*
+- wirtschaftliche Logik: "*wie gewinne machen?*
+
+Arten:
+
+- Bait-and-Hook
+- Freemium
+- Lock-In
+- … 
+
+Analyse mit **Business-Model-Canvas:**
+
+![22-02-04_19-28](../images/22-02-04_19-28.png)
+
+## Strategische Prinzipien
+
+### Produktlebenszyklus
+Analyse eines Produktes anhand von 5 Phasen: ![22-02-04_19-33](../images/22-02-04_19-33.png)
+### Economies of Scale / Scope
+
+|              | Economies of Scale                    | Economies of Scope                         |
+|--------------|---------------------------------------|--------------------------------------------|
+| Übersetzung  | Skaleneffekte                         | Verbundeffekte                             |
+| Beschreibung | Kostenvorteile durch hohe Stückzahlen | Kostenvorteile durch breite Produktpalette |
+| Gründe:      | Verteilung der Fixkosten              | Verhandlungsmacht / Finanzstärke           |
+|              | Großmengenrabatte                     | gemeinsame Nutzung einer Ressource         |
+### ROI
+> **Return on Investment:** Kennzahl für unternehmerischen Erfolg, auch Kapitalrendite
+
+Berechnung: $ROI = \frac{Gewinn}{eingesetztes \ Kapital}$
+
+
+## Strategische Umweltanalyse
+phasenbasierter Ansatz zur Unternehmensanalyse
+![22-02-04_19-45.png](../images/22-02-04_19-45.png)
+
+### PEST
+> Analyse in 4 Dimensionen, meist bezogen auf eine Region, ein Landes.
+
+Für jede Dimension anhand der Indikatoren erlaubt Bewertung der allgemeinen Situation des Landes, nicht nur nach finanziellen Gesichtspunkten
+
+| Politik      | Wirtschaft          | Sozial               | Technologisch    |
+|--------------|---------------------|----------------------|------------------|
+| Gesetzgebung | Arbeitslosigkeit    | Werte                | Aktuelles Niveau |
+| Steuern      | Konjunktur          | Demographie          | F&E Ausgaben     |
+| Regulierung  | Schlüsselindustrien | Konsumentenverhalten | Patente          |
+| Stabilität   | Infrastruktur       | Mobilität            | Innovationen     |
+
+### Porters Five Forces
+> Analyse der Stärke des Wettbewerbs und der Machtverteilung in einer Branche
+
+![22-02-04_20-06](../images/22-02-04_20-06.png)
+
+1. Eintrittsbarrieren von neuen Konkurrenten
+    - bestehende Skaleneffekte
+    - Spezialwissen
+    - Kosten
+2. Substitutionsgefahr durch Ersatzprodukte
+    - Wechselkosten
+    - Gleichheit der Produkte
+3. Kundenmacht
+    - Konzentration
+    - Preisempfindlichkeit
+    - Informationsstand
+    - Risiko *Rückwärtsintegration*
+4. Lieferantenmacht
+    - Konzentration
+    - Umstellungskosten
+    - Gleichheit der Produkte
+
+**5. Stärke des Wettbewerbs**
+- Anzahl Wettbewerber
+- Kundenloyalität
+- Branchenwachstum
+
+> **Vorwärts / Rückwärtsintegration:** Übernahme von vorhergehenden / nachgeordneten Schritten in der Verwertungskette
+
+## Strategische Unternehmensanalyse
+
+

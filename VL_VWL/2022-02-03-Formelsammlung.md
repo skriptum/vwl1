@@ -89,8 +89,6 @@ Berechnung: $\frac{Arbeitnehmerentgelt}{Volkseinkommen}$
 
 ## Lesen
 
-[Tageschau](https://www.tagesschau.de/wirtschaft/verbraucher/wie-entsteht-der-gaspreis-101.html)
-
 - [1. IFO](https://www.ifo.de/DocDL/sd-2020-04-knabe-schoeb-thum-etal-mindestlohn-2020-04-15.pdf): 
 - [2. DIW](
     https://www.diw.de/de/diw_01.c.824335.de/nachrichten/ist_ein_mindestlohn_von_zwoelf_euro_sinnvoll.html)
