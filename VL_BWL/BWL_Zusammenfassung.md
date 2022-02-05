@@ -148,7 +148,7 @@ Analyse mit **Business-Model-Canvas:**
 ![22-02-04_19-28](../images/22-02-04_19-28.png)
 
 ## Strategische Prinzipien
-
+`Leitfrage: "Was will ich machen?"`
 ### Produktlebenszyklus
 Analyse eines Produktes anhand von 5 Phasen: ![22-02-04_19-33](../images/22-02-04_19-33.png)
 ### Economies of Scale / Scope
@@ -166,6 +166,7 @@ Berechnung: $ROI = \frac{Gewinn}{eingesetztes \ Kapital}$
 
 
 ## Strategische Umweltanalyse
+`Leitfrage: "Was will der Markt?"`
 phasenbasierter Ansatz zur Unternehmensanalyse
 ![22-02-04_19-45.png](../images/22-02-04_19-45.png)
 
@@ -186,24 +187,15 @@ Für jede Dimension anhand der Indikatoren erlaubt Bewertung der allgemeinen Sit
 
 ![22-02-04_20-06](../images/22-02-04_20-06.png)
 
-1. Eintrittsbarrieren von neuen Konkurrenten
-    - bestehende Skaleneffekte
-    - Spezialwissen
-    - Kosten
-2. Substitutionsgefahr durch Ersatzprodukte
-    - Wechselkosten
-    - Gleichheit der Produkte
-3. Kundenmacht
-    - Konzentration
-    - Preisempfindlichkeit
-    - Informationsstand
-    - Risiko *Rückwärtsintegration*
-4. Lieferantenmacht
-    - Konzentration
-    - Umstellungskosten
-    - Gleichheit der Produkte
+| neue Konkurrenten  | Ersatzprodukte          | Kundenmacht                   | Lieferantenmacht             |
+| ------------------ | ----------------------- | ----------------------------- | ---------------------------- |
+| Skaleneffekte      | Wechselkosten           | Konzentration                 | Konzentration                |
+| Spezialwissen      | Gleichheit der Produkte | Preisempfindlichkeit          | Wechselkosten                |
+| Eintrittsbarrieren | Substitutionsneigung    | Informationsstand             | Gleichheit der Produkte      |
+|                    |                         | Risiko *Rückwärtsintegration* | Risiko *Vorwärtsintegration* |
 
-**5. Stärke des Wettbewerbs**
+**=> Stärke des Wettbewerbs**
+
 - Anzahl Wettbewerber
 - Kundenloyalität
 - Branchenwachstum
@@ -211,5 +203,71 @@ Für jede Dimension anhand der Indikatoren erlaubt Bewertung der allgemeinen Sit
 > **Vorwärts / Rückwärtsintegration:** Übernahme von vorhergehenden / nachgeordneten Schritten in der Verwertungskette
 
 ## Strategische Unternehmensanalyse
+`Leifrage: "Wie ist unser Unternehmen aufgestellt?"`
+### Customer Value Analysis (CVA)
+> **Kundennutzenanalyse:** Analyse der Verlangen der Kunden im Vergleich von eigenen Produkten zu Konkurrenzprodukten
+
+| Bestandteil            | Vorgehen                                       |
+|------------------------|------------------------------------------------|
+| 1: Marktsegmentierung  | wer sind Kunden / Konkurrenten?                |
+| 2: Kundenerwartungen   | was sind kaufentscheidende Merkmale?           |
+| 3: Merkmalswichtigkeit | wie gewichten Kunden die Merkmale?             |
+| 4: Erfolgsbewertung    | wie viele Punkt eerhält jede Mermalskategorie? |
+Vorlage: ![22-02-05_17-33.jpg](../images/22-02-05_17-33.jpg)
+anhand des *relativen Preises* und der *relativen Qualität* lässt sich dann eine Customer Value Map erstellen
+
+#### Customer Value Map
+anhand des *relativen Preises* und der *relativen Qualität* aus CVA lässt sich dann eine Customer Value Map erstellen
+
+![22-02-05_17-46.png](../images/22-02-05_17-46.png)
+
+### Value Chain Analysis
+> **Value Chain Analyse** Analyse des Nutzens, die ein Unternehmen in seiner Wertschöpfungskette betreibt
+
+muss immer auf jeweiliges Unternehmen individuell angepasst werden! 
+
+Bestandteile:
+
+| Primäre Aktivitäten | Sekundäre Aktivitäten     |
+|---------------------|---------------------------|
+| interne Logistik    | Unternehmensinfrastruktur |
+| Produktion          | Personalwesen             |
+| externe Logistik    | Technologieentwicklung    |
+| Marketing / Verkauf | Beschaffungswesen         |
+| Service             |                           |
+![22-02-05_17-53.png](../images/22-02-05_17-53.png)
+
+### Kompetenzanalyse
+dient zum Herausfinden der Kernkomeptenz
+
+> **Kernkompetenz:** eine Technologien / Prozesse / Know-How, die:
+> - einzigartig für Kunden
+> - einmalig ggü. Konkurrenz und
+> - schwer imitierbar sind
+
+![22-02-05_18-01.JPG](../images/22-02-05_18-01.JPG)
 
 
+## SWOT
+
+aus den gesammelten Ergebnissen der internen und externen Analyse => **SWOT**-Analyse
+
+- aus Unternehmensanalyse: *Strengths + Weaknesses* (Stärken | Schwächen)
+- aus Umweltanalyse: *Opportunities + Threats* (Chancen | Risiken)
+
+Darstellung in Tableau zur Ableitung von Strategien und Komeptenzen, die entwickelt werden müssen
+
+![22-02-05_18-06.png](../images/22-02-05_18-06.png)
+
+# Strategieformulierung 
+` Leitfrage: "Wo wollen wir als Unternehmen hin?"`
+ Ebenen der Strategieformulierung: 
+ 
+| Ebene              | Leitfrage                            | Methode       |
+|--------------------|--------------------------------------|---------------|
+| Gesamtunernehmen   | in welche Märtke wollen wir?         | BCG-Portfolio |
+| Geschäftseinheiten | wie erhalten wir Wettbewerbsvorteile | Ansoff-Matrix |
+## BCG-Portfoliomethode
+
+
+ 
