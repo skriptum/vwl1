@@ -10,7 +10,8 @@
 
   <style>
     :root {
-      --base-font-family:   Helvetica Neue, Arial,sans-serif; ;
+      --base-font-family:   Helvetica Neue, Arial,sans-serif;
+      --base-line-height     : 1.5;
       --theme-color: rgb(139,184,249);
       --emoji-size: 1.3em;
 
@@ -24,6 +25,8 @@
 
       --heading-h1-font-family: Georgia;
       --heading-h1-font-decoration: underline;
+      --heading-margin : 1rem 0 0;
+      --heading-padding: 0.5;
 
       --sidebar-border-width: 0;
       --sidebar-name-font-size: 0;
@@ -31,6 +34,7 @@
       --sidebar-name-padding : 0;
       --sidebar-nav-link-background-color--active: white;
       --sidebar-nav-link-padding: 0;
+      --sidebar-width: 22rem;
 
       --search-margin: 0.5rem;
       --search-input-border-width: 2px;
@@ -55,7 +59,7 @@
       repo: '',
       loadSidebar: "SUMMARY.md",
       auto2top: true,
-
+      subMaxLevel: 3,
       search: 'auto', // default
 
       // complete configuration parameters

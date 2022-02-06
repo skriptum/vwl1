@@ -1,8 +1,28 @@
----
-title: Betriebswirtschaftslehre
-subtitle: Zusammenfassung für das WS 2021
----
+# Betriebswirtschaftslehre
+
+Zusammenfassung für das Wintersemester 2021 bei [Prof. Dr. Julia Müller-Seeger](https://studip.uni-halle.de:443/dispatch.php/profile?cid=113433db124a2ae1dd9c68650141c7ac&username=acvkd)
+
+## Übersicht
+
+1. [Allgemein](VL_BWL/2021-10-00-Zusammenfassung?id=allgemein)
+    - [1.1 Rechtsformen](VL_BWL/2021-10-00-Zusammenfassung?id=rechtsformen)
+    - [1.2 Gliederung der Unternehmen](VL_BWL/2021-10-00-Zusammenfassung?id=gliederung-der-unternehmen)
+3. [Management](VL_BWL/2021-10-00-Zusammenfassung?id=management) 
+    - [2.1 Managementsystem](VL_BWL/2021-10-00-Zusammenfassung?id=managementsystem) 
+    - [2.2 Führung](VL_BWL/2021-10-00-Zusammenfassung?id=führung)
+3. [Strategisches Management](VL_BWL/2021-10-00-Zusammenfassung?id=strategisches-management)
+    - [3.1 Strategische Prinzipien](VL_BWL/2021-10-00-Zusammenfassung?id=strategische-prinzipien)
+    - [3.2 Strategische Umweltanalyse](VL_BWL/2021-10-00-Zusammenfassung?id=strategische-umweltanalyse)
+    - [3.3 Strategische Unternehmensanalyse](VL_BWL/2021-10-00-Zusammenfassung?id=strategische-unternehmensanalyse)
+    - [3.4 SWOT](VL_BWL/2021-10-00-Zusammenfassung?id=swot)
+    - [3.5 Strategieformulierung](VL_BWL/2021-10-00-Zusammenfassung?id=strategieformulierung)
+    - [3.6 Strategiebewertung](VL_BWL/2021-10-00-Zusammenfassung?id=strategiebewertung-mit-balanced-scorecard)
+4. [betriebliche Prozesse](VL_BWL/2021-10-00-Zusammenfassung?id=betriebliche-prozesse)
+    - [4.1 Leistungsprozesse](VL_BWL/2021-10-00-Zusammenfassung?id=leistungsprozesse)
+    - [4.2 Finanzprozesse](VL_BWL/2021-10-00-Zusammenfassung?id=finanzprozesse)
+
 # Allgemein
+
 > **Wirtschaften**: Disponieren über knappe Güter als Gegenstand von Marktprozessen
 
 Prinzipien profitorientierter Unternehmen:
@@ -148,7 +168,8 @@ Analyse mit **Business-Model-Canvas:**
 ![22-02-04_19-28](../images/22-02-04_19-28.png)
 
 ## Strategische Prinzipien
-`Leitfrage: "Was will ich machen?"`
+`Leitfrage: "Was wollen wir als Unternehmen produzieren?"`
+
 ### Produktlebenszyklus
 Analyse eines Produktes anhand von 5 Phasen: ![22-02-04_19-33](../images/22-02-04_19-33.png)
 ### Economies of Scale / Scope
@@ -264,8 +285,9 @@ Darstellung in Tableau zur Ableitung von Strategien und Komeptenzen, die entwick
 ## Strategieformulierung 
 
 ` Leitfrage: "Wo wollen wir als Unternehmen hin?"`
- Ebenen der Strategieformulierung: 
- 
+
+Ebenen der Strategieformulierung: 
+
 | Ebene              | Leitfrage                            | Methode       |
 |--------------------|--------------------------------------|---------------|
 | Gesamtunernehmen   | in welche Märtke wollen wir?         | BCG-Portfolio |
@@ -291,7 +313,7 @@ beschreibt Strategien, die in verschiedenen Produktlebensphasen angewandt werden
 ![22-02-06_11-21.png](../images/22-02-06_11-21.png)
 
 ### generische Strategien nach Porter
- 
+
 | Strategie          | Beschreibung                              | Beispiel |
 |--------------------|-------------------------------------------|----------|
 | Kostenführerschaft | durch niedrige Preise + hohes Volumen     | VW       |
@@ -332,3 +354,61 @@ Schritte in jedem Bereich:
 nach gewissen Zeitraum bewerten, ob Zielgrößen erreicht wurden und wenn nicht: **anpassen**
 
 # Betriebliche Prozesse
+
+## Leistungsprozesse
+
+> **Leistungsprozesse:** Prozesse in einem Unternehmen zur Produkt/Leistungserstellung und Verwertung
+
+Phasen: $Beschaffung \implies Produktion \implies Absatz$
+
+- meistens Beschaffung $\neq$ Absatz => Bestandsbildung 
+- Ziel des Managements: optimales *Güterwirtschaftliches Gleichgewicht*
+    - also Austarieren und Planung in jeder Phase
+
+> **Güterwirtschaftliches Gleichgewicht**: Beschaffung enstpricht Anforderungen des Betriebs mit möglichst wenig Bestandsbildung und Lagerung
+
+1. **Bereitstellungsplanung:** 
+    - Bereitstellung von Ressourcen, Personal, Werkstoffen
+    - Planung von Bedarf, Beschaffung, Einsatz
+    - Zielkonflikt: Lagerung vs Kosten
+        - "lieber zuviel kaufen oder sparen?"
+    - = Optimierung der Mengen
+2. **Produktionsplanung**:
+    - Kurzfristig: Planung bei gegebener Betriebskapazität
+        - wie verteilen der Mitarbeiter auf gegebene Maschinen?
+    - Langfristig: Kapazität variabel
+        - brauchen wir neue Mitarbeiter / Maschinen ? 
+3. **Absatzplanung:**
+    - Bestimmt vorherige Stufen
+    - Anpassung an Markt mit *Marketing*
+    - Bestandteile:
+        - Produktpolitik: *welches Produkt stellen wir her?*
+        - Preispolitik: *wie viel soll es kosten?*
+        - Kommunikation: *wie bekommt der Kunde was mit?*
+        - Distribution: *wie kommt es zum Kunden?*
+
+## Finanzprozesse
+
+> Spiegelung der Leistungsprozesse aus finanzieller Sichtweise
+
+![22-02-06_12-47](../images/22-02-06_12-47.png)
+
+Kategorien von Finanzströmen:
+
+- **Kapitalbindend** (Ausgaben)
+- **kapitalfreisetzend** (Einnahmen)
+- **kapitalzuführend** (Gewinne, Zinsen)
+- **kapitalentziehend** (Verluste, Zinszahlungen)
+
+### Finanzplanung
+
+Darstellung der finanziellen Ziele eines Unternehmens und kommende Investitionen
+
+> **Invesitionen:** Maßnahmen zum Erhalt / Erhöhung der Betriebskapazität
+
+benötigt immer *Finanzierung*
+
+> **Finanzierung:** Bereitstellung von Kapital, aber nicht nur für Investitionen
+
+mögliche Kapitalquellen: *Eigenkapital / Fremdkapital* 
+

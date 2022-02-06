@@ -96,6 +96,7 @@
     - [Übersicht](VL_Wirtschaftsinformatik/README.md)
 
 - BWL :moneybag:
+    - [Zusammenfassung](VL_BWL/2021-10-00-Zusammenfassung.md)
     - [Grundlagen](VL_BWL/2021-10-14-Grundlagen.md)
     - [Management](VL_BWL/2021-10-25-Management.md)
     - [Strategie](VL_BWL/2021-11-04-Strategie.md)
@@ -107,6 +108,5 @@
     - [BalancedScore](VL_BWL/2021-12-16-BalancedScore.md)
     - [Leistungsprozesse](VL_BWL/2022-01-11-Leistungsprozesse.md)
     - [Finanzprozesse](VL_BWL/2022-01-18-Finanzprozesse.md)
-    - [ZUSAMMENFASSUNG](VL_BWL/2022-02-06-ZUSAMMENFASSUNG.md)
     - [Übersicht](VL_BWL/README.md)
 
