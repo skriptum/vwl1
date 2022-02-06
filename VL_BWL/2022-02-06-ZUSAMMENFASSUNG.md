@@ -213,6 +213,7 @@ Für jede Dimension anhand der Indikatoren erlaubt Bewertung der allgemeinen Sit
 | 2: Kundenerwartungen   | was sind kaufentscheidende Merkmale?           |
 | 3: Merkmalswichtigkeit | wie gewichten Kunden die Merkmale?             |
 | 4: Erfolgsbewertung    | wie viele Punkt eerhält jede Mermalskategorie? |
+
 Vorlage: ![22-02-05_17-33.jpg](../images/22-02-05_17-33.jpg)
 anhand des *relativen Preises* und der *relativen Qualität* lässt sich dann eine Customer Value Map erstellen
 
@@ -235,6 +236,7 @@ Bestandteile:
 | externe Logistik    | Technologieentwicklung    |
 | Marketing / Verkauf | Beschaffungswesen         |
 | Service             |                           |
+
 ![22-02-05_17-53.png](../images/22-02-05_17-53.png)
 
 ### Kompetenzanalyse
@@ -259,7 +261,8 @@ Darstellung in Tableau zur Ableitung von Strategien und Komeptenzen, die entwick
 
 ![22-02-05_18-06.png](../images/22-02-05_18-06.png)
 
-# Strategieformulierung 
+## Strategieformulierung 
+
 ` Leitfrage: "Wo wollen wir als Unternehmen hin?"`
  Ebenen der Strategieformulierung: 
  
@@ -267,7 +270,65 @@ Darstellung in Tableau zur Ableitung von Strategien und Komeptenzen, die entwick
 |--------------------|--------------------------------------|---------------|
 | Gesamtunernehmen   | in welche Märtke wollen wir?         | BCG-Portfolio |
 | Geschäftseinheiten | wie erhalten wir Wettbewerbsvorteile | Ansoff-Matrix |
-## BCG-Portfoliomethode
 
+### BCG-Portfoliomethode
 
+beschreibt Strategien, die in verschiedenen Produktlebensphasen angewandt werden sollten
+
+1. Einführungsphase
+    - Wachstum hoch + Marktanteil gering
+    - => *Offensivstrategie*: hohe Investitionen = niedrige Rendite
+2. Wachstumsphase
+   - Wachstum hoch, steigende Gewinne
+   - => *Investtionsstrategie*: Marktanteile ausbauen!
+3. Reifephase
+    - hohe Gewinne einstreichen, Refinanzierung der Investitionen
+    - => *Defensivstrategie*: Verteidung der Marktanteile gegen Konkurrenten
+4. Sättigungsphase:
+    - sinkendes Wachstum / Gewinne
+    - => *Desinvestitionsstrategie*: Ausstieg vorbereiten, Geld rausziehen
+
+![22-02-06_11-21.png](../images/22-02-06_11-21.png)
+
+### generische Strategien nach Porter
  
+| Strategie          | Beschreibung                              | Beispiel |
+|--------------------|-------------------------------------------|----------|
+| Kostenführerschaft | durch niedrige Preise + hohes Volumen     | VW       |
+| Differenzierung    | durch besondere Produkte + hohe Margen    | Mercedes |
+| Nischenbesetzung   | Teilmarkt mit besonderem zufriedenstellen | Porsche  |
+
+![ generische Strategien](../images/22-02-06_11-29.png " generische Strategien")
+
+### Ansoff Matrix
+
+> **Ansoff-Matrix:** bexchreibt Wachstumstrategien in bestehendem + neuen Markt
+
+![22-02-06_11-33.png](../images/22-02-06_11-33.png)
+
+Arten der Diversifikation:
+
+- **horizontal**: Erweiterung der Produktpalette durch Nutzung Synergieffekte
+- **Vertikal**: Integration vor / nachgelagerter Tätigkeiten
+- **lateral**: in komplett neuen Bereich, risikoreich
+
+## Strategiebewertung mit Balanced Scorecard
+
+> **Balanced-Scorecard**: Methode zur Bewertung / Kontrolle von Unternehmensstrategien in 4 Bereichen, sowohl monetär als auch nicht-monetär
+
+Bereiche:
+- Kunden
+- Finanzen
+- interne Prozesse
+- Lernen / Entwicklung
+
+Schritte in jedem Bereich:
+1. Ursache Wirkung analysieren => **Ziele** definieren
+2. Messgrößen für Ziele => **Kennzahlen** festlegen
+3. Vorgaben zur Erreichung => **Zielwerte** bestimmen
+4. Handlungsanweisungen ableiten => **Maßnahmen**
+
+![22-02-06_11-43.png](../images/22-02-06_11-43.png)
+nach gewissen Zeitraum bewerten, ob Zielgrößen erreicht wurden und wenn nicht: **anpassen**
+
+# Betriebliche Prozesse
