@@ -107,5 +107,6 @@
     - [BalancedScore](VL_BWL/2021-12-16-BalancedScore.md)
     - [Leistungsprozesse](VL_BWL/2022-01-11-Leistungsprozesse.md)
     - [Finanzprozesse](VL_BWL/2022-01-18-Finanzprozesse.md)
+    - [ZUSAMMENFASSUNG](VL_BWL/2022-02-06-ZUSAMMENFASSUNG.md)
     - [Übersicht](VL_BWL/README.md)
 
