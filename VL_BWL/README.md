@@ -12,7 +12,11 @@
 
 keine Informationen bisher zu Art
 
-60 Minuten Multiple Choice
+60 Minuten Single Choice
+
+Link: https://exam.itz.uni-halle.de/goto.php?target=crs_12688&client_id=exam
+
+Fotodatei: Name, Vorname_Titel der Prüfung_Fotoauthentifizierung.jpg
 
 Vorbereitungstermin: 2.2.22
 
@@ -26,6 +30,10 @@ Ziel: Vertiefung der VL-Inhalte
 
 | [![bwl](../images/21-11-19_18-14.png)](https://drive.google.com/file/d/1wPdZ596cPwlVadX3A2Jb4MZmrEyYdYRv/view) |
 | ------------------------------------------------------------ |
+
+
+
+
 
 
 

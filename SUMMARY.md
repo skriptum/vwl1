@@ -82,6 +82,7 @@
     - [Übersicht](VL_Statistik1/README.md)
 
 - Wirtschaftsinfo :computer:
+    - [Zusammenfassung](VL_Wirtschaftsinformatik/2021-10-00-Zusammenfassung.md)
     - [Einfuehrung](VL_Wirtschaftsinformatik/2021-10-18-Einfuehrung.md)
     - [Datenbank](VL_Wirtschaftsinformatik/2021-10-25-Datenbank.md)
     - [ERM](VL_Wirtschaftsinformatik/2021-11-03-ERM.md)
@@ -94,7 +95,7 @@
     - [UML](VL_Wirtschaftsinformatik/2021-11-29-UML.md)
     - [UML2](VL_Wirtschaftsinformatik/2021-12-06-UML2.md)
     - [Übersicht](VL_Wirtschaftsinformatik/README.md)
-
+    
 - BWL :moneybag:
     - [Zusammenfassung](VL_BWL/2021-10-00-Zusammenfassung.md)
     - [Grundlagen](VL_BWL/2021-10-14-Grundlagen.md)
