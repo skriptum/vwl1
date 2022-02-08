@@ -10,7 +10,7 @@ Modelle: (alle möglicherweise prüfungsrelevant)
 
 ### Wasserfallmodell
 
-<img src="../images/22-02-08_14-02.png" alt="22-02-08_14-02" style="zoom:67%;" />
+![](../images/22-02-08_14-02.png)
 
 konstantes Rücktesten ob alles bishier funktioniert
 
@@ -18,7 +18,7 @@ konstantes Rücktesten ob alles bishier funktioniert
 
 wie Wasserfallmodell, nur stärker mit Tests integriert
 
-<img src="../images/22-02-08_14-03.png" alt="22-02-08_14-03" style="zoom:40%;" />
+![](../images/22-02-08_14-03.png)
 
 ### Spiralmodell
 
