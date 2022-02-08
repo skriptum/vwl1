@@ -6,13 +6,35 @@
 - bilden zeitlichen Rahmen für Projektentwicklung
 - erlauben organisiertes Vorgehen
 
-Beispiele:
+Modelle: (alle möglicherweise prüfungsrelevant)
 
-- Spiralmodell
-- Wasserfallmodell
-- ...
+### Wasserfallmodell
 
+<img src="../images/22-02-08_14-02.png" alt="22-02-08_14-02" style="zoom:67%;" />
 
+konstantes Rücktesten ob alles bishier funktioniert
+
+### V-Modell
+
+wie Wasserfallmodell, nur stärker mit Tests integriert
+
+<img src="../images/22-02-08_14-03.png" alt="22-02-08_14-03" style="zoom:40%;" />
+
+### Spiralmodell
+
+- schrittförmiges Vorgehen
+- erlaubt Prototyping
+- Abstand zum Mittelpunkt = kumulative Kosten
+
+![22-02-08_14-07](../images/22-02-08_14-07.png)
+
+### Zyklisches Modell
+
+- geht explizit von mehreren Zyklen aus
+- Erstellung immer neuer Versionen
+- aber nur linear und für Standardsoftware gut 
+
+<img src="../images/2022-02-08_14.19.13.jpg" alt="2022-02-08_14.19.13" style="zoom: 50%;" />
 
 ## Überlappendes Phasenmodell
 

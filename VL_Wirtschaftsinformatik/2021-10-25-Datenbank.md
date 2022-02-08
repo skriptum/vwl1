@@ -84,13 +84,23 @@ Vorteile:
 
 einfache Datenbanksprache
 
-Beispiel: alle Waren mit Warentyp T
-
-=\> *SELECT* *  *FROM* Ware *WHERE* Warentyp = 'T'
+- Beispiel: alle Waren mit Warentyp T
+- =\> *SELECT* *  *FROM* Ware *WHERE* Warentyp = 'T'
 
 **Syntax**: Befehle immer in CAPS
 
-Auch über mehrere Tabellennmit JOIN
+- Auch über mehrere Tabellennmit JOIN
+
+Beispiel:
+
+```
+SELECT Kunde.Vorname, Kunde."Name"
+FROM Bestellung, Kunde
+WHERE Bestellung.BestellNr>"4"
+AND Bestellung.KundenNr=Kunde.KundenNr
+```
+
+
 
 
 

@@ -11,6 +11,8 @@ Zeit: online, asynchron, hochgeladen als OpenCast
 
 Dauer: 90 Minuten
 
+Link: https://exam.itz.uni-halle.de/goto.php?target=crs_12839&client_id=exam
+
 Inhalt aus VL + Übungen
 
 Struktur: 
