@@ -119,3 +119,34 @@ Darstellung mit Nachfragekurve (hier auch aggregierte Nachfrage):
 
 > **Gesetz des Angebots:** positive Beziehung Preis <--> Menge
 
+Einflüsse:
+
+- Preis des Produktes im Markt
+- Preis verwandter Produkte
+- Herstellungskosten
+
+Darstellung mit Angebitskurve![22-02-11_22-53](../images/22-02-11_22-53.png)
+
+- immer rot
+- positive Steigung
+
+### Marktgleichgewicht
+
+> Zustand, in dem Angebot = Gleichgewicht
+
+- Überhangsnachfrage: Zustand, in dem nachgefragte Menge > Angebot übersteigt
+- Überhangsangebot: Zustand, in dem der angebotene Menge Nachfrage übersteigt
+- => beides führt zu Rekalibrierung => neuem Preis
+
+![21-11-12_17-22](../images/21-11-12_17-22.jpg)
+
+> **Preismechanismus:** Prozess der Anpassung des Preises in freien Märkten
+
+alternative Mechanismen der Verteilung:
+
+- *Preisobergrenze:*  führt zu Überhangnachfrage
+- *Schlangestehen:* => verlorene Lebenszeit, Schwarzmarkt
+- *Rationierung* => Mangel, Korruption
+
+## Wohlfahrt
+
