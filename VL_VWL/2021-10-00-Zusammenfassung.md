@@ -150,3 +150,39 @@ alternative Mechanismen der Verteilung:
 
 ## Wohlfahrt
 
+> **Wohlfahrt:** Nutzen aller Individuen in einem aggregierten Markt
+
+| Konsumentenrente                                             | Produzentenrente                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![21-11-12_17-53](../images/21-11-12_17-53.jpg)              | ![21-11-12_17-56](../images/21-11-12_17-56.jpg)              |
+| Differenz zwischen Höchstbetrag, den man bereit ist zu zahlen und Marktpreis | Different zwischen Produktionskosten und Marktpreis einer Firma |
+| Beispiel: ich würde 5€ für Döner zahlen, er kostet aber nur 3 = 2€ Rente (Profit) für mich | Döner kostet 3€, Produktion aber nur 2€ = 1€ Profit = Rente  |
+
+$Gesamtwohlfahrt = Konsumentenrente + Produzentenrente$
+
+![21-11-12_17-59](../images/21-11-12_17-59.jpg)
+
+Wohlfahrtsverlust: bei fehlendem Marktgleichgewicht wie bei *Preisgrenzen, Minimumpreisen*, etc
+
+![21-11-12_18-02](../images/21-11-12_18-02.jpg)
+
+### Haushalte
+
+jeden Tag treffen Haushalte Entscheidungen aufgrund von Budgetbeschränkungen 
+
+> **Budgetbeschränkung:** Grenzen, die den Entscheidungen eines Haushaltes gesetzt sind
+
+Notation: $P_X * X + P_Y * Y = I$
+
+- $P_X$ = Preis von Gut X
+- $X$ = Gut X
+- $I$ = Einkommen (Income)
+
+Menge aller für Haushalt möglichen Güterkombinationen = Opportunitätsmenge
+
+Auswirkungen einer Preissenkung:
+
+- Ausweitung der Opportunitätsmenge
+- andere Güter werden *"relativ"* billiger
+
+### Nutzen
