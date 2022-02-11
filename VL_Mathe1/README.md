@@ -13,6 +13,8 @@ Zeit:
 
 ### Themen
 
+Klausurlink: https://exam.itz.uni-halle.de/goto.php?target=crs_12848&client_id=exam
+
 #### Lineare Algebra:
 
 - Vektoren
@@ -73,4 +75,16 @@ Multiple-Choice-Klausur ,  online
 - Mathematik für Wirtschaftswissenschaften (UTB), Terveer
 
 
+
+### Links
+
+- [Fläche Dreieck](https://de.planetcalc.com/218/)
+- [Matrix Rechner alles mögliche](https://matrixcalc.org/de/)
+- [Determinante](https://rechneronline.de/lineare-algebra/determinanten.php)
+- [EW / EV](https://matrixcalc.org/de/vectors.html)
+- [Inverse](https://matrix.reshish.com/de/inverse.php)
+- [LGS](https://rechneronline.de/lineare-algebra/gleichungssysteme.php)
+- [Simplex](https://www.matopt.de/werkzeuge/lineare-optimierung/simplexalgorithmus.html)
+- [transport](http://reshmat.ru/transportation_problem_lp.html)
+- [exponentiell](https://matrix.reshish.com/de/power.php)
 

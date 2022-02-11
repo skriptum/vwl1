@@ -8,6 +8,8 @@ Zeiten: asynchron, online über ILIAS
 
 ### Inhalte
 
+Klasur Link; https://exam.itz.uni-halle.de/goto.php?target=crs_13333&client_id=exam
+
 - diese Vorlesung: **deskriptive Statistik**
 - Merkmale:
     - Unterscheidung **diskret / stetig**

@@ -10,6 +10,8 @@ Kontakt: gvwl@wiwi.uni-halle.de
 
 ### Klausurinhalte
 
+Link: https://exam.itz.uni-halle.de/goto.php?target=crs_12855&client_id=exam
+
 - **Rechnungen**
     - *Prozentrechnung*
         - Arbeitslosenquote
