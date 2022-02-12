@@ -2,7 +2,11 @@
 
 
 
-# Allgemein
+## Übersicht
+
+
+
+## Allgemein
 
 ### Unterbereiche
 
@@ -44,7 +48,7 @@
 2. Wie wird es produziert?
 3. Wer produziert es? 
 
-# Mikroökonomie
+# Mikroökonomik
 
 ## Vorteil
 
@@ -166,7 +170,7 @@ Wohlfahrtsverlust: bei fehlendem Marktgleichgewicht wie bei *Preisgrenzen, Minim
 
 ![21-11-12_18-02](../images/21-11-12_18-02.jpg)
 
-### Haushalte
+## Haushalte
 
 jeden Tag treffen Haushalte Entscheidungen aufgrund von Budgetbeschränkungen 
 
@@ -184,5 +188,148 @@ Auswirkungen einer Preissenkung:
 
 - Ausweitung der Opportunitätsmenge
 - andere Güter werden *"relativ"* billiger
+- ![21-11-17_11-31](../images/21-11-17_11-31.jpg)
 
 ### Nutzen
+
+> **Nutzen:** erzeugte Zufriedenheit bei Konsumenten durch ein Produkt
+
+es gilt das *Gesetz des abnehmenden Grenznutzens*
+
+> **Grenznutzen:** zusätzliche Zufriedenheit durch Konsum einer weiteren Einheit eines Produktes
+
+Haushalte agieren *nutzenmaximierend* => beste Streuung der Ausgaben für optimale Kombination
+
+| Gesamtnutzen                                    | Grenznutzen                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![21-11-17_11-38](../images/21-11-17_11-38.jpg) | ![21-11-17_11-37](../images/21-11-17_11-37.jpg) |
+| Gesamtnutzen steigt immer weiter                | der Grenznutzen nimmt aber ab!                  |
+
+### Effekte einer Preisänderung
+
+- ein Preisrückgang führt *ceteribus paribus* zu mehr Nutzen, da Haushalt "reicher"
+    - **Einkommenseffekt**
+- außerdem wird das Produkt in Relation zu anderen billiger und somit verlagert sich mehr Konsum auf dieses Produkt
+    - **Substitutionseffekt**
+
+
+
+Anwendung auf den Arbeitsmarkt: 
+
+- auf arbeitsmarkt Zielkonflikt für Haushalte: Freizeit vs. Arbeit
+    - Opportunitätspreis der Freizeit = Lohnsatz
+- Was passiert bei Lohnerhöhung?
+    - **Substitutionseffekt** => Freizeit wird "teurer" => *mehr Arbeit*
+    - **Einkommenseffekt** => Wir können uns mehr Freizeit leisten => *weniger Arbeit*
+    - reeller Effekt abhängig von Individ. Präferenzen
+
+
+
+![21-11-17_12-13](../images/21-11-17_12-13.jpg)
+
+### Güterarten
+
+Güter lassen sich in 3 Arten einteilen anhand der Effekte, die auf sie wirken
+
+- *Normales Gut*: steigendes Einkommen -> mehr gekauft
+- *Inferiores Gut:* steigendes Einkommen -> weniger gekauft
+    - *Giffen Good*: eigentlich inferior, aber wenn Einkommen **sinkt** -> mehr kaufen
+
+Auswirkungen einer Preissenkung:
+
+| Gut               | Einkommenseffekt EE | Substitutionseffekt SE      | Wirkrichtung      | Ergebnis                      |
+| ----------------- | ------------------- | --------------------------- | ----------------- | ----------------------------- |
+| *Normale Güter*   | mehr kaufen         | weniger kaufen              | $SE + EE \to$     | kaufen mehr                   |
+| *Inferiore Güter* | Mehr kaufen         | weniger kaufen              | $SE \to \gets EE$ | $SE > EE$ = weniger           |
+| *Giffen Güter*    | mehr kaufen         | **deutlich** weniger kaufen | $SE \to \gets EE$ | $SE >> EE$ = deutlich weniger |
+
+
+
+## Unternehmen
+
+> **Unternehmen:** Organisation, die Ressourcen (Inputs) zu Produkten (Outputs) umwandelt
+
+**Ziel**: maximale Gewinne:
+
+- bei perfektem Wettbewerb haben Unternehmen keinen Einfluss auf Preis / Nachfrage
+- kostenminimierendes und profitmaxierendes Verhalten
+
+Zeithorizonte eines Unternehmens:
+
+- **kurzfristig:** feste Produktionsgröße (bspw. Anzahl Maschinen) + keine Neueuntritte in Markt
+- **langfristig:** keine festen Produktionsfaktoren + Neueintritte
+
+### Technologiewahl
+
+Unternehmen suchen optimale Produktionsmethode für Kostenminimierung
+
+Arten der Technologie:
+
+- *Kapitalintensiv*: braucht viel Geld und wenig Arbeiter (Softwarefirmen)
+- *arbeitsintensiv:* viele Arbeiter und wenig Geld (Restaurants)
+
+Problem aller Technologien: *Gesetz des abnehmenden Ertrags*:
+
+> **Gesetz des abnehmenden Ertrags**: zusätzliche Einheiten variablen Inputs auf festen Input => sinkende Grenzproduktivität
+
+- Bsp.: 2 Köche und 2 Öfen = produktiv; 2 Köche und 10 Öfen = unproduktiv
+
+> **Grenzprodukt: (Marginal Product)** zusätzlicher Output, der durch Erhöhung eines Inputs realisert werden kann
+
+![21-11-25_10-40](../images/21-11-25_10-40.jpg)
+
+Durchschnittsprodukt = $\frac{Gesamtprodukt}{Anzahl \ Einheiten}$
+
+### Transaktionskosten
+
+> **Transaktionskosten:** fallen an, wenn ein Geschäft abgeschlossen wird. je unübersichtlicher der Markt, desto höher die Kosten
+
+- *ex-ante*: vor Abschluss, bspw. Maklerkosten
+- *ex-post*: nach Abschluss, bspw.  Transportkosten
+
+## Marktversagen/Externalitäten
+
+> **Externalitäten:** Handlung einer Partei, die zu Kosten / Nutzen anderer Parte führt
+
+- Bspw. Fabrik verpestet Fluss von Fischern
+    - *Problem*: Fluss ist ein *Allmendegut*
+    - *Lösungsansätze*: Verhandlungen (Fischer / Fabrik); Umweltgesetze, Steuern
+
+Arten von Gütern der Öffentlichkeit: ![22-02-12_18-35](../images/22-02-12_18-35.jpg)
+
+Probleme öffentlicher Güter: *Trittbrettfahrer* (warum zahlen, wenn du es mir nicht wegnehmen kannst?)
+
+
+
+# Makroökonomik
+
+befasst sich mit Determinanten des Volkseinkommens und aggregierten Preisen/ Verbrauch
+
+Bestandteile:
+
+- Unternehmen
+- Haushalte
+- Staat
+- Rest der Welt
+
+### Der Staat
+
+politische Möglichkeiten eines Staates:
+
+| Finanzpolitik                                                | Geldpolitik                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Mittel der **Regierung** zur Anpassung der Ausgaben / Steuern | Mittel der **Zentralbank** zur Steuerung der Geldmenge / Zinssätze |
+| Mittel: Verschulden + Investieren oder Sparen und Steuern senken | Mittel: Festsetzung der Zinssätze, Kauf + Verkauf Staatsanleihen |
+
+## Volkseinkommen
+
+Messung mit *BIP*
+
+> **Bruttoinlandsprodukt (BIP):** gesamter Marktwert der Endprodukte / Dienstleistungen, die in einer Periode in einem Land produziert werden
+
+- ermittelt vom statistischen Bundesamt
+- keine Transaktion, Spenden, Schwarzarbeit,...
+
+Darstelllung des Volkseinkommens über Zeit anhand des Konjunkturzyklus: ![21-12-07_10-21](../images/21-12-07_10-21.jpg)
+
+zur Berechnung siehe Formelsammlung
