@@ -1,5 +1,6 @@
 - [Startseite](README.md)
 - VWL :chart_with_upwards_trend:
+    - [Zusammenfassung](VL_VWL/2021-10-00-Zusammenfassung.md)
     - [Einfuehrung](VL_VWL/2021-10-18-Einfuehrung.md)
     - [Uebung1](VL_VWL/2021-10-18-Uebung1.md)
     - [Knappheit](VL_VWL/2021-10-27-Knappheit.md)
@@ -16,6 +17,7 @@
     - [Wachstum](VL_VWL/2022-01-21-Wachstum.md)
     - [Entwicklungsländer](VL_VWL/2022-01-24-Entwicklungsländer.md)
     - [Formelsammlung](VL_VWL/2022-02-03-Formelsammlung.md)
+    - [Uebung](VL_VWL/2022-02-12-Uebung.md)
     - [Übersicht](VL_VWL/README.md)
 
 - Mathe :triangular_ruler:
@@ -94,8 +96,9 @@
     - [AWS2-Integration](VL_Wirtschaftsinformatik/2021-11-25-AWS2-Integration.md)
     - [UML](VL_Wirtschaftsinformatik/2021-11-29-UML.md)
     - [UML2](VL_Wirtschaftsinformatik/2021-12-06-UML2.md)
+    - [SoftwareEntwicklung](VL_Wirtschaftsinformatik/2022-02-07-SoftwareEntwicklung.md)
     - [Übersicht](VL_Wirtschaftsinformatik/README.md)
-    
+
 - BWL :moneybag:
     - [Zusammenfassung](VL_BWL/2021-10-00-Zusammenfassung.md)
     - [Grundlagen](VL_BWL/2021-10-14-Grundlagen.md)
