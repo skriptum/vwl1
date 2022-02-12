@@ -1,10 +1,36 @@
 # Volkswirtschaftslehre Grundlagen
 
+## Überblick
 
-
-## Übersicht
-
-
+- [**Allgemein**](VL_VWL/2021-10-00-Zusammenfassung?id=allgemein)
+    - [Unterbereiche](VL_VWL/2021-10-00-Zusammenfassung?id=unterbereiche)
+    - [Methoden](VL_VWL/2021-10-00-Zusammenfassung?id=methoden)
+    - [Begriffe](VL_VWL/2021-10-00-Zusammenfassung?id=begriffe)
+    - [Grundfragen](VL_VWL/2021-10-00-Zusammenfassung?id=grundfragen)
+- [**Mikroökonomik**](VL_VWL/2021-10-00-Zusammenfassung?id=mikroökonomik)
+    - [Vorteil](VL_VWL/2021-10-00-Zusammenfassung?id=vorteil)
+    - [Produktionsmöglichkeitskurve](VL_VWL/2021-10-00-Zusammenfassung?id=produktionsmöglichkeitenkurve)
+    - [Märkte](VL_VWL/2021-10-00-Zusammenfassung?id=märkte)
+        - [Nachfrage](VL_VWL/2021-10-00-Zusammenfassung?id=nachfrage)
+        - [Angebot](VL_VWL/2021-10-00-Zusammenfassung?id=angebot)
+        - [Gleichgewicht](VL_VWL/2021-10-00-Zusammenfassung?id=marktgleichgewicht)
+    - [Wohlfahrt](VL_VWL/2021-10-00-Zusammenfassung?id=wohlfahrt)
+    - [Haushalte](VL_VWL/2021-10-00-Zusammenfassung?id=haushalte)
+        - [Nutzen](VL_VWL/2021-10-00-Zusammenfassung?id=nutzen)
+        - [Effekte](VL_VWL/2021-10-00-Zusammenfassung?id=effekte-einer-preisänderung)
+        - [Güterarten](VL_VWL/2021-10-00-Zusammenfassung?id=güterarten)
+    - [Unternehmen](VL_VWL/2021-10-00-Zusammenfassung?id=unternehmen)
+        - [Technologiewahl](VL_VWL/2021-10-00-Zusammenfassung?id=technologiewahl)
+        - [Transaktionskosten](VL_VWL/2021-10-00-Zusammenfassung?id=transaktionskosten)
+    - [Externalitäten/Marktversagen](VL_VWL/2021-10-00-Zusammenfassung?id=marktversagenexternalitäten)
+- [**Makroökonomik**](VL_VWL/2021-10-00-Zusammenfassung?id=makroökonomik)
+    - [Volkseinkommen](VL_VWL/2021-10-00-Zusammenfassung?id=volkseinkommen)
+    - [Arbeitslosigkeit](VL_VWL/2021-10-00-Zusammenfassung?id=arbeitslosigkeit)
+    - [Inflation](VL_VWL/2021-10-00-Zusammenfassung?id=inflation)
+    - [WIrtschaftswachstum](VL_VWL/2021-10-00-Zusammenfassung?id=wirtschaftswachstum)
+    - [Eintwicklungsländer](VL_VWL/2021-10-00-Zusammenfassung?id=entwicklungsländer)
+- [**Forschungstrends**](VL_VWL/2021-10-00-Zusammenfassung?id=forschungstrends)
+- [**Lesematerial**](VL_VWL/2021-10-00-Zusammenfassung?id=lesematerial)
 
 ## Allgemein
 
@@ -332,4 +358,118 @@ Messung mit *BIP*
 
 Darstelllung des Volkseinkommens über Zeit anhand des Konjunkturzyklus: ![21-12-07_10-21](../images/21-12-07_10-21.jpg)
 
-zur Berechnung siehe Formelsammlung
+## Arbeitslosigkeit
+
+> **arbeitslos:** Person, 16 Jahre oder älter und auf der Suche nach Arbeit
+
+Unterschied zwischen arbeitslos und nicht erwerbstätig! (*Rentner haben keine Arbeit, suchen aber auch keine = nicht erwerbstätig*)
+
+Kategorien:
+
+- natürliche Arbeitslosigkeit
+    - **friktionsbedingt:** zwischen zwei Jobs
+    - **strukturell:** aufgrund der Wirtschaftsstruktur fehlende Jobs
+- **konjunkturelle Arbeitslosigkeit:** aufgrund der aktuellen Wirtschaftslage
+
+## Inflation
+
+> **Inflation:** allgemeiner Anstieg des Preisniveaus über einen Zetraum, gemessen mit *CPI/VPI*
+
+- CPI = Consumer Price Index, Messung der Preise anhand eines repräsentativen Warenkorbs
+
+Folgen:
+
+- milde Inflation (~2%) = gut, führt zu Ausgabenfreude der Konsumenten
+- starke Inflation: schadet, insbesondere Arbeitnehmern und hilft Schuldnern 
+
+## Wirtschaftswachstum
+
+Geschichte:
+
+- Beginn um 1750 in England augrind industrieller Innovationen
+    - erstes Land mit Wandel von Agrargesellschaft zu städtischer Industriegesellschaft
+- Insb. im 20Jhd extremes Auseinanderentwickeln der Staaten
+    - *"The Great Divide"*
+
+Voraussetzungen für Wachstum:
+
+- investierfreudiges Kapital
+- stabile Institutionen
+- Vorhandensein von Technologie
+
+Quellen des Wachstums:
+
+- **Arbeit:** steigende Erwerbsrate + Bevölkerungswachstum
+- **Kapital:** steigende Ersparnisse + ausländische Investitionen
+- **Qualität der Arbeit**: bessere Bildung der Arbeitnehmer (universitär, etc)
+- **Qualität des Kapitals**: neue Technologien + Innovationen
+
+## Entwicklungsländer
+
+#### Probleme
+
+- *Kapitalflucht*: Gled fließt außerhalb des Landes
+- *Brain Drain*: gebildete verlassen Land und gehen in reichere Länder
+- *Korruption*: behindert freies Marktgeschehen
+- *fehlendes staatliches Gewaltmonopol:* 
+    - keine Rechtsgrundlage
+    - keine Durchsetzung von Verträgen
+
+#### Strategien
+
+| Importsubstitution                              | Exportförderung                              |
+| ----------------------------------------------- | -------------------------------------------- |
+| Ersetzen der Importe durch heimische Produktion | Steigerung der Exporte der Industrie         |
+| Durch Subventionen des industriellen Sektors    | durch Wettbewerbsmaßnahmen wie Steuersenkung |
+
+#### Armut
+
+- **relative Armut**: Haushaltseinkommen weniger als 60% des mittleren Einkommens (abhängig von Land)
+- **absolute Armut**: Haushaltseinkommen weniger als 3.10$ pro Tag (Weltbank legt fest)
+- **extreme Armut**: Haushaltseinkommen weniger als $2 pro Tag (Weltbank legt fest)
+
+aufgrund fehlender Startmöglichkeiten kann nie Wachstum indziert werden = Teufelskreis
+
+![22-02-12_20-25](../images/22-02-12_20-25.jpg)
+
+# Forschungstrends
+
+welche Forschungstrends gibts in der aktuellen Volkswirtschaftslehre?
+
+### Experimente
+
+- **natürliche Experimente**: die "Natur" entscheidet darüber, welche Gruppe man zugeteilt wird
+    - bspw. dein Wohnort in einem oder anderen Bundesland und dann wird zwischen Bundesländern unterschieden
+- **Randomisierte Kontrollstudie:** zufallsauswahl der Gruppenzuteilung
+
+=> Nobelpreis der letzten beiden Jahre
+
+# Lesematerial
+
+### Mindestlohn - IFO:[Link](https://www.ifo.de/DocDL/sd-2020-04-knabe-schoeb-thum-etal-mindestlohn-2020-04-15.pdf)
+
+- IFO-Institut: eher konservative monetaristische Ansichten aus München 
+- hatte vor Einführung prognostiziert, dass der MIndestlohn 1. Million Arbeitsplätze kostet
+    - komplett daneben mit Schätzung
+- Versucht mit Paper ("verzweifelt") Position zu erklären
+
+Mindestlohn ist schlecht, weil:
+
+- hat Arbeitsplätze gekostet (wenn auch nicht so viele wie vorausgesagt)
+- zwang Arbeitnhemer im Niedriglohnbereich zu Arbeitszeitreduktion
+    - das hat Jobverluste aufgefangen
+- er wird viel umgangen, deswegen ist nicht so viel passiert
+- Mindestlohn ersetzt nur Grundsicherung, führt nicht zu Einkommensteigerungen
+    - WTF: Was ist das bitte für nen Argument, ist doch wünschenswert dass Leute nen guten Lohn statt Hartz IV bekommen (meine Meinung)!
+
+### Mindestlohn - DIW : [Link](https://www.diw.de/de/diw_01.c.824335.de/nachrichten/ist_ein_mindestlohn_von_zwoelf_euro_sinnvoll.html)
+
+- DIW: eher progressives Institut aus Berlin
+
+Mindestlohn ist gut, weil:
+
+- erhöhte Löhne von mehr als 5 Millionen Arbeitnehmern (15% der AN)
+- Einkommens und Lebensqualitätssteigerung
+- insbesondere Ostdeutschland hat massiv profitiert
+- Reduzierung von Ungleichheit
+- gute Konjunkturpolitik 
