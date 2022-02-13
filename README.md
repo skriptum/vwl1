@@ -1,13 +1,25 @@
+![22-02-13_13-29](images/22-02-13_13-29.jpg)
+
+*99 Cent* by Andreas Gursky
+
 # Volkswirtschaftslehre
 
+> alle Notizen zu meinem Studium der Volkswirtschaftslehre in Halle
 
-### Definition
+## Module
 
-> Die **Volkswirtschaftslehre** (auch **Nationalökonomie** oder **wirtschaftliche Staatswissenschaften** kurz **VWL**) ist ein Teilgebiet der [Wirtschaftswissenschaft](https://de.wikipedia.org/wiki/Wirtschaftswissenschaft "Wirtschaftswissenschaft"). Sie untersucht Zusammenhänge bei der Erzeugung und Verteilung von [Gütern](https://de.wikipedia.org/wiki/Gut_(Wirtschaftswissenschaft) "Gut (Wirtschaftswissenschaft)") und [Produktionsfaktoren](https://de.wikipedia.org/wiki/Produktionsfaktor "Produktionsfaktor"). Die Volkswirtschaftslehre beschäftigt sich auch mit menschlichem Handeln unter ökonomischen Bedingungen, das heißt mit den Fragen, wie menschliches Handeln ökonomisch begründet werden kann und welches Handeln den größtmöglichen [Nutzen](https://de.wikipedia.org/wiki/Utilitarismus "Utilitarismus") für den Einzelnen oder eine Gemeinschaft bringt. Mit ihr wird nach Gesetzmäßigkeiten und Handlungsempfehlungen für die [Wirtschaftspolitik](https://de.wikipedia.org/wiki/Wirtschaftspolitik "Wirtschaftspolitik") gesucht; ferner werden einzelwirtschaftliche Vorgänge im Rahmen der [Mikroökonomie](https://de.wikipedia.org/wiki/Mikro%C3%B6konomie "Mikroökonomie") und gesamtwirtschaftliche im Rahmen der [Makroökonomie](https://de.wikipedia.org/wiki/Makro%C3%B6konomie "Makroökonomie") betrachtet.
+| Modul                 | Professor                | StudIP                                                       | Übersicht                                       | Zusammenfassung                                              |
+| --------------------- | ------------------------ | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
+| Buchführung           | Dr. Bernd Schuster       | [Link](https://studip.uni-halle.de/dispatch.php/course/overview?cid=947233852d97a6d1b73e10e284b0daa0) | [Übersicht](VL_Buchfuehrung/README.md)          |                                                              |
+| BWL                   | Prof. Dr. Julia Seeger   | [Link](https://studip.uni-halle.de/dispatch.php/course/overview?cid=113433db124a2ae1dd9c68650141c7ac) | [Übersicht](VL_BWL/README.md)                   | [Zusammenfassung](VL_BWL/2021-10-00-Zusammenfassung.md)      |
+| Mathematik I          | PD. Maren Hantke         | [Link](https://studip.uni-halle.de/dispatch.php/course/overview?cid=e40de35dc0052790d6339e9b1bdf7e0c) | [Übersicht](VL_Mathe1/README.md)                |                                                              |
+| Statistik I           | Prof. Dr. Claudia Decker | [Link](https://studip.uni-halle.de/dispatch.php/course/overview?cid=f69e6edd60aa482027bace682879a7bf) | [Übersicht](VL_Statistik1/README.md)            |                                                              |
+| VWL                   | Prof. Dr. Lars Börner    | [Link](https://studip.uni-halle.de/dispatch.php/course/overview?cid=cbc118b597a7b750d1503bfb3191295c) | [Übersicht](VL_VWL/README.md)                   | [Zusammenfassung](VL_VWL/2021-10-00-Zusammenfassung.md)      |
+| Wirtschaftsinformatik | Prof. Dr. Taieb Mellouli | [Link](https://studip.uni-halle.de/dispatch.php/course/overview?cid=df0f041ad274fc2c80bd4cb393912a92) | [Übersicht](VL_Wirtschaftsinformatik/README.md) | [Zusammenfassung](VL_Wirtschaftsinformatik/2021-10-00-Zusammenfassung.md) |
 
-*https://de.wikipedia.org/wiki/Volkswirtschaftslehre*
 
-### Bücher
+
+## Bücher
 
 | VWL                                                          | BWL                                                          | Mathe                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -15,20 +27,7 @@
 
 
 
-## Module
-
-| Modul                 | Professor                | Übersicht                                       |
-| --------------------- | ------------------------ | ----------------------------------------------- |
-| Buchführung           | Dr. Bernd Schuster       | [README.md](VL_Buchfuehrung/README.md)          |
-| BWL                   | Prof. Dr. Julia Seeger   | [README.md](VL_BWL/README.md)                   |
-| Mathematik I          | PD. Maren Hantke         | [README.md](VL_Mathe1/README.md)                |
-| Statistik I           | Prof. Dr. Claudia Decker | [README.md](VL_Statistik1/README.md)            |
-| VWL                   | Prof. Dr. Lars Börner    | [README.md](VL_VWL/README.md)                   |
-| Wirtschaftsinformatik | Prof. Dr. Taieb Mellouli | [README.md](VL_Wirtschaftsinformatik/README.md) |
-
-
-
-### Überblick
+## Überblick
 
 Wöchentliche Aufgaben in allen Modulen mit Links zur entsprechenden Seite in ILIAS/STUDIP/OPENCAST oder der Link zu den Meetings (Zeiten beachten)
 
@@ -50,5 +49,4 @@ Wöchentliche Aufgaben in allen Modulen mit Links zur entsprechenden Seite in IL
     - Übungsblätter [STUDIP](https://studip.uni-halle.de/dispatch.php/course/files/index/92d368b2368f95cb792fd7a09bdddf78?cid=e40de35dc0052790d6339e9b1bdf7e0c)
 - **Buchführung** 
     - Vorlesung [OPENCAST](https://studip.uni-halle.de/plugins.php/opencast/course/index?cid=9621ab9e6f480ff17e4a751b9ccc59d4)
-
 
