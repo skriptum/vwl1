@@ -1,0 +1,514 @@
+# Standardbuchungssätze
+
+
+
+## Roh / Hilf / Betriebstoffe
+
+### Einkauf (auf Ziel)
+
+```
+200 Rohstoffe (oder 202 oder 203)
+260 Vorsteuer
+an
+44 Verbindlichkeiten
+```
+
+mit Bezugskosten (Transport, Zoll, etc)
+
+1. buchung der bezugskosten
+    ```
+    2001 Bezugskosten Rohstoffe
+    260 Vorsteuer 
+    an 
+    44 Verbindlichkeiten
+    ```
+
+2. umbuchung auf hauptkonto zum abschluss
+
+    ```
+    200 Rohstoffe
+    an 2001 Bezugskosten 
+    ```
+
+### Verbrauch
+`
+```
+600 Aufwendung für Rohstoffe (oder 602 oder 603)
+an 200 Rohstoffe
+```
+
+### Verkauf (von Fertigerzeugnissen)
+
+```
+240 Forderungen
+an
+500 Umsatzerloese
+480 Umsatzsteuer
+```
+
+
+
+## Handelsware
+
+### Einkauf
+
+```
+228 Handelswaren
+260 Vorsteuern 
+an 
+44 Verbindlichkeiten / 280 Bank / ...
+```
+
+### Wareineinsatz (Entnahme aus Lager)
+
+```
+608 Aufwendungen Fuer Handelswaren
+an 
+228 Handelswaren
+```
+
+### Verkauf
+
+```
+240 Forderungen
+an
+510 Umsatzerloese Für Waren
+480 Umsatzsteuer
+```
+
+
+
+## Rücksendungen
+
+einfach nur Umdrehen des entgegengesetzten Buchungssatzes
+
+### an Lieferanten
+
+1) Einkauf von Lieferanten`
+```
+200 Rohstoffe
+260 Vorsteuer
+an
+44 Verbindlichkeiten
+```
+2) Rücksendung eines Teil`
+```
+44 Verbindlichkeiten
+an
+200 Rohstoffe
+260 Vorsteuer
+```
+
+### von Kunden
+
+1. Original Buchung
+
+    ```
+    240 Forderungen
+    an
+    500 Umsatzerloese
+    480 Umsatzsteuer
+    ```
+
+2. Rücksendung
+   
+   ```
+   500 Umsatzerloese
+   480 Umsatzsteuer
+   an
+   240 Forderungen
+   ```
+
+
+
+## Nachlässe
+
+### im Einkauf
+
+1. Einkaufsbuchung
+
+    ```
+    200 Rohstoffe
+    260 Vorsteuer
+    an
+    44 Verbindlichkeiten
+    ```
+    
+2. Nettobuchung des Nachlasses
+
+    ```
+    44 Verbindlichkeiten
+    an
+    2002 Nachlaesse Rohstoffe
+    260 Vorsteuer
+    ```
+    
+3. am Monatsende Umbuchung
+   
+    ```
+    2002 Nachlaesse Rohstoffe
+    an 
+    200 Rohstoffe
+    ```
+
+### im Verkauf
+
+1. Verkaufsbuchung
+
+    ```
+    240 Forderungen
+    an
+    500 Umsatzerloese
+    480 Umsatzsteuer
+    ```
+
+2. Nachlass buchen
+   
+   ```
+   5001 Erloesberichtigung
+   480 Umsatzsteuer
+   an
+   240 Forderungen
+   ```
+   
+3. Abschluss des Unterkontos
+
+    ```
+    500 Umsatzerloese
+    an 
+    5001 Erloesberichtigung
+    ```
+
+
+
+## Skonto
+
+### Lieferantenskonto
+
+= Minderung der Anschaffungskosten
+
+Buchung bei Zahlung
+
+```
+44 Verbindlichkeiten
+an
+2002 Nachlässe für Rohstoffe
+260 Vorsteuer
+280 Bank
+```
+
+### Kundenskonto
+
+= Schmälerung der Umsatzerlöse
+
+```
+280 Bank
+5001 Erloesberichtigung
+480 Umsatzsteuer
+an
+240 Forderungen
+```
+
+
+
+## Löhne
+
+Berechnung
+
+```
+Bruttolohn
+----------------------------------------
+- Lohnsteuer
+- Kirchensteuer
+- Solisteuer
+
+- Sozialversicherungsbeitrag des Arbeitnehmers (SV)
+========================================
+= Nettolohn
+```
+
+Buchung
+
+1. Lohnbuchung
+
+    ```
+    62 Löhne und Gehälter
+    an 
+    483 Verbindl. ggü Finanzamt (gesamte Steuern)
+    264 SV-Vorausszahlung (AN-Anteil)
+    280 Bank
+    ```
+
+2. Arbeitgeber-Anteil an der SV
+
+    ```
+    640 AG-Anteil SV
+    an
+    264 SV-Vorausszahlung
+    ```
+
+3. Zahlung der SV-Beiträge
+
+    ```
+    264 SV-Vorausszahlung
+    an 280 Bank
+    ```
+
+4. Steuerzahlung
+
+    ```
+    483 Verbindl. ggü Finanzamt
+    an 280 Bank
+    ```
+
+    
+
+## Anlagen
+
+### Anschaffung
+
+1: Buchung der Anschaffung
+
+```
+07 Maschinen / Fuhrpark / Anlagen
+260 Vorsteuer
+an 
+44 Verbindlichkeiten
+```
+
+2: Buchung Rechnungsausgleich
+
+```
+44 Verbindlichkeiten
+an
+07 Maschinen (nur für eventuelles Skonto)
+260 Vorsteuer (nur für eventuelles Skonto)
+280 Bank
+```
+
+### Abschreibung
+
+| Art       | Beschreibung                                        | Beispiel              |
+| --------- | --------------------------------------------------- | --------------------- |
+| linear    | $Buchwert/Nutzungsdauer$ : jedes Jahr fester Betrag | Maschine              |
+| degressiv | jedes Jahr abnehmender Betrag                       | aktuell nicht erlaubt |
+| leistung  | Entsprechend der Leistung, muss gemessen werden     | LKW nach km-anzahl    |
+| substanz  | entsprechend der entnommenen Substanz               | Kiesgrube nach Menge  |
+
+Buchung: (direkt)
+
+```
+652 Abschreibungen auf Sachanlagen
+an 07 Maschinen 
+```
+
+Maschinenkonto zeigt dann Restbuchwert, praktisch
+
+### Verkauf
+
+1. Buchung des Erlöses
+
+```
+280 Bank
+an
+541 Erlöse Anlagenverkäufe
+480 Umsatzsteuer
+```
+
+2. Buchung des Buchwertabganges
+
+```
+6979 Anlagenabgänge
+an 07 Maschinen
+```
+
+
+
+## Geringwertige Wirtschaftsgüter GWG
+
+### Anschaffung + Vollabschreibung
+
+1. Anschaffung
+
+```
+0890 GWG
+260 Vorsteuer
+an
+280 Bank
+```
+
+2. Vollabschreibung am Jahresende
+
+```
+6540 Abschreibungen auf GWG
+an 0890 GWG
+```
+
+### Anschaffung + Abschreibung über Nutzungsdauer
+
+1. Anschaffung
+
+```
+086 BGA (anderes Konto als oben!)
+260 Vorsteuer
+an
+280 Bank
+```
+
+2. Abschreibung jährlich (berechnen mit betriebsgewöhnlicher Nutzungsdauer)
+
+```
+652 Abschreibungen auf Sachanlagen
+an 086 BGA
+```
+
+
+
+## Innerbetriebliche Leistungen
+
+Leistungen, die nur von Betrieb genutzt werden und *nicht umsatzsteuerpflichtig* sind
+
+1. Buchung der Herstellungskosten einer Maschine
+
+```
+07 Maschinen
+an
+53 andere aktivierte Eigenleistungen
+```
+
+2. Abschluss
+
+```
+53 andere akt. Eigenleistungen
+an 802 GuV
+```
+
+
+
+## Steuern
+
+### Aktivierungspflichtige Steuern
+
+= Anschaffungsnebenkosten wie Grunderwerbssteuer / Zölle
+
+Beispiel: Kauf eines Grundstückes gegen Bankscheck für *100.000*, zzgl.
+
+- 5000€ Grunderwerbsteuer (5%), **umsatzsteuerfrei**
+- 1500€ Notarkosten
+- 1200€ Vermessungskosten
+- 300€ Grundbuchkosten . **umsatzsteuerfrei**
+
+
+
+gesamte Kosten:
+
+```
+Anschaffungspreis Grundstück        100.000
++ Anschaffungsnebenkosten             8.000
+  (davon Umsatzsteuerpflichtig 2.700)
+-------------------------------
+= Anschaffungskosten                108.000
+```
+
+Buchung:
+
+```
+05 Grundstücke       108.000
+260 Vorsteuer            270 (10% von 2700)
+an 280 Bank          108.270
+```
+
+### abzugsfähige Steuern
+
+```
+702 Grundssteuer / 703 Kfzsteuern / 708 Verbauchsteuern
+an 280 Bank
+```
+
+### Nichtabzugsfähige Steuern
+
+```
+770 Gewerbesteuer / 771 Körperschafsteuer / 772 Kapitalertragssteuer
+an 280 Bank
+```
+
+#### Privatsteuern
+
+nicht abzugsfähige Steuern wie Einkommensteuer, Solidaritätszuschlag, Kirchensteuer:
+
+```
+3001 Privat
+an 280 Bank
+```
+
+### Umsatzsteuer (durchlaufende Steuer)
+
+Schritte:
+
+- kleinere von USt. und Vorsteuers Saldo bilden und auf größeres überweisen
+- bei Größere Saldo bilden und Banküberweisung
+
+```
+480 Umsatzsteuer (meistens)
+an 280 Bank
+```
+
+
+
+### Steuernachzahlungen
+
+```
+7021 Grundsteuer-Vorjahre / 7701 Gewerbesteuer Vorjahre / ...
+an 280 Bank
+```
+
+### Steuererstattung
+
+wie Rückbuchung, nur andere Unterkonten
+
+```
+280 Bank
+an 
+7702 Gewerbesteuer-Steuererstattug / 7032 Kfz-Steuererstattung
+```
+
+### Steuerberatung
+
+1. Betrieblich
+
+```
+667 Rechts- und Beratungskosten
+an 280 Bank
+```
+
+2. Privat
+
+```
+3001 Privat
+an 280 Bank
+```
+
+
+
+## Abschlüsse
+
+```mermaid
+graph TD
+1(Zeitpunkt der Zahlung) --> 2(altes Jahr) & 3(neues Jahr)
+
+2 --> 2a(Erträge) --> PRA
+2 --> 2b(Aufwendungen) --> ARA
+
+3 --> 3a(Erträge) --> 3a1(sonst. Forderungen)
+3 --> 3b(Aufwendungen) --> 3b1(sonst. Verbindl.)
+```
+
+
+
+
+
+### aktive Rechnungsabgrenzung ARA
+
+
+
+### passive Rechnungsabgrenzung PRA

@@ -43,6 +43,7 @@
     - [Übersicht](VL_Mathe1/README.md)
 
 - Buchführung :books:
+    - [Buchungsaetze](VL_Buchfuehrung/2021-10-00-Buchungsaetze.md)
     - [Einfuehrung](VL_Buchfuehrung/2021-10-12-Einfuehrung.md)
     - [Geschaeftsfall](VL_Buchfuehrung/2021-10-14-Geschaeftsfall.md)
     - [Rechtliches](VL_Buchfuehrung/2021-10-19-Rechtliches.md)
@@ -70,6 +71,7 @@
     - [Übersicht](VL_Buchfuehrung/README.md)
 
 - Statistik :bar_chart:
+    - [Zusammenfassung](VL_Statistik1/2021-10-00-Zusammenfassung.md)
     - [Notizen](VL_Statistik1/2021-10-18-Notizen.md)
     - [Rechenregeln](VL_Statistik1/2021-10-18-Rechenregeln.md)
     - [Darstellungen](VL_Statistik1/2021-10-27-Darstellungen.md)
