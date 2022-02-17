@@ -1,5 +1,3 @@
-
-
 # Einführung in die VWL
 
 Dateien: [StudIP-Link](https://studip.uni-halle.de/dispatch.php/course/details?sem_id=cbc118b597a7b750d1503bfb3191295c)
