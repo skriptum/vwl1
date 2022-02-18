@@ -1,3 +1,18 @@
+# Industriekontenrahmen
+
+> **IKR:**  einheitliches übersichtliches Kontenordnungssystem, nicht gestzl. Verpflichtet
+
+Aufbau mit Beispielkonten
+
+| 0-2 Aktivkonten           | 3-4 Passivkonten           | 5 Ertragskonten           | 6-7 Aufwandskonten         | 8 Abschlusskonten |
+| ------------------------- | -------------------------- | ------------------------- | -------------------------- | ----------------- |
+| *05* Grundstücke          | *300* Eigenkapital         | *510* Umsatzerlöse        | *62* Löhne                 | *800* EBK         |
+| *088* BGA                 | *480* USt.                 | *540* Mieterträge         | *670* Mieten               | *801* SBK         |
+| *200* Rohstoffe           | *44* Verbindlichkeiten     | *571* Zinserträge         | *703* Kfz-Steuer           | *802* GuV         |
+| Aschluss mit **SBK-Soll** | Aschluss mit **SBK-Haben** | Aschluss mit **GuV-Soll** | Aschluss mit **GuV-Haben** |                   |
+
+
+
 # Standardbuchungssätze
 
 
@@ -490,7 +505,58 @@ an 280 Bank
 
 
 
-## Abschlüsse
+## Zinsen
+
+### Zinserhalt
+
+```
+280 Bank
+an 571 Zinsertrag
+```
+
+### Zinszahlung
+
+```
+751 Zinsaufwendungen
+an 280 Bank
+```
+
+
+
+## Privatkonto
+
+Entnahme auf Sollseite; Einlagen auf Habenseite
+
+### Entnahme von Konto
+
+```
+3001 Privat
+an 280 Bank
+```
+
+### Entnahme von Gegenständen/Leistungen
+
+sind umsatzsteuerpflichtig!
+
+```
+3001 Privat
+an 
+542 Entnahme von Gegenständen
+480 Umsatzsteuer
+```
+
+### Einlage von PKW
+
+```
+084 Fuhrpark
+an 3001 Privat
+```
+
+
+
+## Jahresabgrenzung
+
+wenn Zahlungen in einem Jahr getätigt werden, aber ganz / teilweise zu anderem Jahr gehören
 
 ```mermaid
 graph TD
@@ -509,6 +575,109 @@ graph TD
 
 ### aktive Rechnungsabgrenzung ARA
 
-
+```
+670 Mietaufwendungen / 680 büromaterial / ...
+290 ARA
+an
+280 Bank
+```
 
 ### passive Rechnungsabgrenzung PRA
+
+```
+280 Bank
+an
+540 Mieterträge / 571 Zinserträge / ...
+490 PRA
+```
+
+### Sonstige Verbindlichkeiten
+
+```
+670 Mietaufwand / ...
+an 480 übrige sonstige Forderungen
+```
+
+### Sonstige Forderungen
+
+```
+269 übrige sonstige Forderungen
+an 540 Mieterträge
+```
+
+
+
+## Jahresabschluss/eröffnung
+
+1. alle Unterkonten Saldo bilden
+2. an jeweiliges Überkonto umbuchen
+3. je nach Kontoart auf SBK oder GuV buchen
+
+### Eröffnungsbuchungen
+
+#### Aktivkonten
+
+```
+200 Rohstoffe / 280 Bank / ...
+an 800 Eröffnungsbilanzkonto EBK
+```
+
+#### Passivkonten
+
+```
+800 Eröffnungsbilanzkonto EBK
+an 44 Verbindlichkeiten / 300 Eigenkapital / ...
+```
+
+
+
+### Abschluss von Erfolgskonten
+
+#### Ertragskonten
+
+```
+571 Zinserträge / 51 Umsatzerlöse / ...
+an 802 Gewinn und Verlust GuV
+```
+
+#### Aufwandskonten
+
+```
+802 Gewinn und Verlust GuV
+an 670 Mietuafwand / ...
+```
+
+#### Abschluss des GuV
+
+Saldo bilden; bei Gewinn
+
+```
+802 GuV 
+an 300 Eigenkapital
+```
+
+bei Verlust
+
+```
+300 Eigenkapital
+an 802 GuV
+```
+
+
+
+### Schlussbilanzbuchungen
+
+#### Aktivkonten
+
+```
+801 Schlussbilanzkonto SBK
+an 07 Maschinen / 084 Fuhrpark / ...
+```
+
+#### Passivkonten
+
+```
+44 Verbindlichkeiten / 300 Eigenkapital / ...
+an 801 Schlussbilanzkonto SBK
+```
+
