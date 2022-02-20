@@ -2,12 +2,12 @@
 
 ## Überblick
 
-- [**Allgemein**](#allgemein)
+- [Allgemein](#allgemein)
     - [Unterbereiche](#unterbereiche)
     - [Methoden](#methoden)
     - [Begriffe](#begriffe)
     - [Grundfragen](#grundfragen)
-- [**Mikroökonomik**](#mikroökonomik)
+- [Mikroökonomik](#mikroökonomik)
     - [Vorteil](#vorteil)
     - [Produktionsmöglichkeitskurve](#produktionsmöglichkeitenkurve)
     - [Märkte](#märkte)
@@ -23,14 +23,14 @@
         - [Technologiewahl](#technologiewahl)
         - [Transaktionskosten](#transaktionskosten)
     - [Externalitäten/Marktversagen](#marktversagenexternalitäten)
-- [**Makroökonomik**](#makroökonomik)
+- [Makroökonomik](#makroökonomik)
     - [Volkseinkommen](#volkseinkommen)
     - [Arbeitslosigkeit](#arbeitslosigkeit)
     - [Inflation](#inflation)
     - [WIrtschaftswachstum](#wirtschaftswachstum)
     - [Eintwicklungsländer](#entwicklungsländer)
-- [**Forschungstrends**](#forschungstrends)
-- [**Lesematerial**](#lesematerial)
+- [Forschungstrends](#forschungstrends)
+- [Lesematerial](#lesematerial)
 
 ## Allgemein
 

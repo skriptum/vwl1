@@ -16,6 +16,7 @@
     - [Privatkonto](#privatkonto)
     - [Jahresabgrenzung](#jahresabgrenzung)
     - [Jahresabschluss/eröffnung](#jahresabschlusseröffnung)
+- [Buchführungspflicht](#buchführungspflicht)
 
 # Industriekontenrahmen
 
@@ -704,7 +705,7 @@ an 801 Schlussbilanzkonto SBK
 
 # Buchführungspflicht
 
-### Handelsrecht
+## Handelsrecht
 
 Buchführungspflicht laut Handelsgestzbuch HBG:
 
@@ -725,9 +726,9 @@ Nicht buchführungspflichtig:
     - im Einzelhandel Umsatz < 250k
     - im Großhandel Umsatz < 400k
 
-> **Freiberufler/Selbständige**: maßgeblich in eigener Person seinem Unternehmen Mitarbeiter (meist Akademisch)
+>**Freiberufler/Selbständige**: maßgeblich in eigener Person seinem Unternehmen Mitarbeiter (meist Akademisch)
 
-### nach Steuerrecht
+## Steuerrecht
 
 Buchführungspflicht nach Abgabenordnung AO
 
@@ -737,3 +738,4 @@ Buchführungspflicht nach Abgabenordnung AO
     - Gewinn > 60k
     - Land / Forstwirte mit Wirtschaftswert > 25k
     - Land / Forstwirte mit Gewinn > 60k
+
