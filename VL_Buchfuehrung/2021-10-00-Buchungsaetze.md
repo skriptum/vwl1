@@ -1,3 +1,22 @@
+### Übersicht
+
+- [Industriekontenrahmen](#industriekontenrahmen)
+- [Standardbuchungssätze](#standardbuchungssätze)
+    - [Roh / Hilf / Betriebsstoffe](#roh-hilf-betriebstoffe)
+    - [Handelsware](#handelsware)
+    - [Rücksendungen](#rücksendungen)
+    - [Nachlässe](#nachlässe)
+    - [Skonto](#skonto)
+    - [Löhne](#löhne)
+    - [Anlagen](#anlagen)
+    - [Geringwertige Güter GWG](#geringwertige-wirtschaftsgüter-gwg)
+    - [Innerbetriebliche Leistungen](#innerbetriebliche-leistungen)
+    - [Steuern](#steuern)
+    - [Zinsen](#zinsen)
+    - [Privatkonto](#privatkonto)
+    - [Jahresabgrenzung](#jahresabgrenzung)
+    - [Jahresabschluss/eröffnung](#jahresabschlusseröffnung)
+
 # Industriekontenrahmen
 
 > **IKR:**  einheitliches übersichtliches Kontenordnungssystem, nicht gestzl. Verpflichtet
@@ -282,7 +301,7 @@ Buchung
 
 ### Anschaffung
 
-1: Buchung der Anschaffung
+1: Buchung der Anschaffung (nebenkosten **nicht** gesondert)
 
 ```
 07 Maschinen / Fuhrpark / Anlagen
@@ -534,7 +553,7 @@ Entnahme auf Sollseite; Einlagen auf Habenseite
 an 280 Bank
 ```
 
-### Entnahme von Gegenständen/Leistungen
+### Entnahme von Waren/Leistungen
 
 sind umsatzsteuerpflichtig!
 
@@ -548,7 +567,7 @@ an
 ### Einlage von PKW
 
 ```
-084 Fuhrpark
+084 Fuhrpark / 07 Maschinen / ...
 an 3001 Privat
 ```
 
@@ -556,7 +575,7 @@ an 3001 Privat
 
 ## Jahresabgrenzung
 
-wenn Zahlungen in einem Jahr getätigt werden, aber ganz / teilweise zu anderem Jahr gehören
+wenn Zahlungen in einem Jahr getätigt/genommen werden, aber ganz / teilweise zu anderem Jahr gehören
 
 ```mermaid
 graph TD
@@ -681,3 +700,40 @@ an 07 Maschinen / 084 Fuhrpark / ...
 an 801 Schlussbilanzkonto SBK
 ```
 
+
+
+# Buchführungspflicht
+
+### Handelsrecht
+
+Buchführungspflicht laut Handelsgestzbuch HBG:
+
+1. *Ist-Kaufmensch (§1)*: Gewerbe mit kaufmännisch eingerichtetem Geschäftsbetrieb
+2. *Kann-Kaufmensch (§2):* Gewerbetreibender freiwillig im Handelsregister
+3. *Form-Kaufmensch (§4):* Handelsgesellschaften(OHG); Kapitalgesellschaften (GmbH, AG) oder Genossenschaften
+
+> **Gewerbe:** auf Dauer angelegte wirtschaftliche Tätigkeit mit Gewinnerzielungsabsicht
+
+> **Handelsregister:** öffentliches Verzeichnis eines Amtsgerichtes, Eintragung aller Kaufmänner und Situation (Geschäftsführer etc)
+
+Nicht buchführungspflichtig:
+
+- Freiberufler/Selbständige (**nie**)
+    - Ärzte / Rechtsanwälte / Steuerberater / Architekten / ...
+- Land / Forstwirte : können aber freiwillig als *Kann-Kaufmensch* nach §3
+- Kleingewerbe
+    - im Einzelhandel Umsatz < 250k
+    - im Großhandel Umsatz < 400k
+
+> **Freiberufler/Selbständige**: maßgeblich in eigener Person seinem Unternehmen Mitarbeiter (meist Akademisch)
+
+### nach Steuerrecht
+
+Buchführungspflicht nach Abgabenordnung AO
+
+- abgeleitete Buchführungspflicht: wer nach HGB, auch nach AO
+- originäre Buchführungspflicht: 
+    - Gesamtumsatz im Kalenderjahr > 600k
+    - Gewinn > 60k
+    - Land / Forstwirte mit Wirtschaftswert > 25k
+    - Land / Forstwirte mit Gewinn > 60k

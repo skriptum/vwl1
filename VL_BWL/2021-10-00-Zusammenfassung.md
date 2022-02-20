@@ -4,22 +4,22 @@ Zusammenfassung für das Wintersemester 2021 bei [Prof. Dr. Julia Müller-Seeger
 
 ## Übersicht
 
-1. [Allgemein](VL_BWL/2021-10-00-Zusammenfassung?id=allgemein)
-    - [1.1 Rechtsformen](VL_BWL/2021-10-00-Zusammenfassung?id=rechtsformen)
-    - [1.2 Gliederung der Unternehmen](VL_BWL/2021-10-00-Zusammenfassung?id=gliederung-der-unternehmen)
-3. [Management](VL_BWL/2021-10-00-Zusammenfassung?id=management) 
-    - [2.1 Managementsystem](VL_BWL/2021-10-00-Zusammenfassung?id=managementsystem) 
-    - [2.2 Führung](VL_BWL/2021-10-00-Zusammenfassung?id=führung)
-3. [Strategisches Management](VL_BWL/2021-10-00-Zusammenfassung?id=strategisches-management)
-    - [3.1 Strategische Prinzipien](VL_BWL/2021-10-00-Zusammenfassung?id=strategische-prinzipien)
-    - [3.2 Strategische Umweltanalyse](VL_BWL/2021-10-00-Zusammenfassung?id=strategische-umweltanalyse)
-    - [3.3 Strategische Unternehmensanalyse](VL_BWL/2021-10-00-Zusammenfassung?id=strategische-unternehmensanalyse)
-    - [3.4 SWOT](VL_BWL/2021-10-00-Zusammenfassung?id=swot)
-    - [3.5 Strategieformulierung](VL_BWL/2021-10-00-Zusammenfassung?id=strategieformulierung)
-    - [3.6 Strategiebewertung](VL_BWL/2021-10-00-Zusammenfassung?id=strategiebewertung-mit-balanced-scorecard)
-4. [betriebliche Prozesse](VL_BWL/2021-10-00-Zusammenfassung?id=betriebliche-prozesse)
-    - [4.1 Leistungsprozesse](VL_BWL/2021-10-00-Zusammenfassung?id=leistungsprozesse)
-    - [4.2 Finanzprozesse](VL_BWL/2021-10-00-Zusammenfassung?id=finanzprozesse)
+1. [Allgemein](#allgemein)
+    - [1.1 Rechtsformen](#rechtsformen)
+    - [1.2 Gliederung der Unternehmen](#gliederung-der-unternehmen)
+3. [Management](#management) 
+    - [2.1 Managementsystem](#managementsystem) 
+    - [2.2 Führung](#führung)
+3. [Strategisches Management](#strategisches-management)
+    - [3.1 Strategische Prinzipien](#strategische-prinzipien)
+    - [3.2 Strategische Umweltanalyse](#strategische-umweltanalyse)
+    - [3.3 Strategische Unternehmensanalyse](#strategische-unternehmensanalyse)
+    - [3.4 SWOT](#swot)
+    - [3.5 Strategieformulierung](#strategieformulierung)
+    - [3.6 Strategiebewertung](#strategiebewertung-mit-balanced-scorecard)
+4. [betriebliche Prozesse](#betriebliche-prozesse)
+    - [4.1 Leistungsprozesse](#leistungsprozesse)
+    - [4.2 Finanzprozesse](#finanzprozesse)
 
 # Allgemein
 
