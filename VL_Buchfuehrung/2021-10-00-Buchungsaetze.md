@@ -51,22 +51,21 @@ an
 mit Bezugskosten (Transport, Zoll, etc)
 
 1. buchung der bezugskosten
-    ```
-    2001 Bezugskosten Rohstoffe
-    260 Vorsteuer 
-    an 
-    44 Verbindlichkeiten
-    ```
+```
+2001 Bezugskosten Rohstoffe
+260 Vorsteuer 
+an 
+44 Verbindlichkeiten
+```
 
 2. umbuchung auf hauptkonto zum abschluss
 
-    ```
-    200 Rohstoffe
-    an 2001 Bezugskosten 
-    ```
+```
+200 Rohstoffe
+an 2001 Bezugskosten 
+```
 
 ### Verbrauch
-`
 ```
 600 Aufwendung für Rohstoffe (oder 602 oder 603)
 an 200 Rohstoffe
@@ -138,21 +137,21 @@ an
 
 1. Original Buchung
 
-    ```
-    240 Forderungen
-    an
-    500 Umsatzerloese
-    480 Umsatzsteuer
-    ```
+```
+240 Forderungen
+an
+500 Umsatzerloese
+480 Umsatzsteuer
+```
 
 2. Rücksendung
    
-   ```
-   500 Umsatzerloese
-   480 Umsatzsteuer
-   an
-   240 Forderungen
-   ```
+```
+500 Umsatzerloese
+480 Umsatzsteuer
+an
+240 Forderungen
+```
 
 
 
@@ -162,57 +161,57 @@ an
 
 1. Einkaufsbuchung
 
-    ```
-    200 Rohstoffe
-    260 Vorsteuer
-    an
-    44 Verbindlichkeiten
-    ```
-    
+```
+200 Rohstoffe
+260 Vorsteuer
+an
+44 Verbindlichkeiten
+```
+
 2. Nettobuchung des Nachlasses
 
-    ```
-    44 Verbindlichkeiten
-    an
-    2002 Nachlaesse Rohstoffe
-    260 Vorsteuer
-    ```
-    
+```
+44 Verbindlichkeiten
+an
+2002 Nachlaesse Rohstoffe
+260 Vorsteuer
+```
+
 3. am Monatsende Umbuchung
    
-    ```
-    2002 Nachlaesse Rohstoffe
-    an 
-    200 Rohstoffe
-    ```
+```
+2002 Nachlaesse Rohstoffe
+an 
+200 Rohstoffe
+```
 
 ### im Verkauf
 
 1. Verkaufsbuchung
 
-    ```
-    240 Forderungen
-    an
-    500 Umsatzerloese
-    480 Umsatzsteuer
-    ```
+```
+240 Forderungen
+an
+500 Umsatzerloese
+480 Umsatzsteuer
+```
 
 2. Nachlass buchen
    
-   ```
-   5001 Erloesberichtigung
-   480 Umsatzsteuer
-   an
-   240 Forderungen
-   ```
-   
+```
+5001 Erloesberichtigung
+480 Umsatzsteuer
+an
+240 Forderungen
+```
+
 3. Abschluss des Unterkontos
 
-    ```
-    500 Umsatzerloese
-    an 
-    5001 Erloesberichtigung
-    ```
+```
+500 Umsatzerloese
+an 
+5001 Erloesberichtigung
+```
 
 
 
@@ -266,37 +265,37 @@ Buchung
 
 1. Lohnbuchung
 
-    ```
-    62 Löhne und Gehälter
-    an 
-    483 Verbindl. ggü Finanzamt (gesamte Steuern)
-    264 SV-Vorausszahlung (AN-Anteil)
-    280 Bank
-    ```
+```
+62 Löhne und Gehälter
+an 
+483 Verbindl. ggü Finanzamt (gesamte Steuern)
+264 SV-Vorausszahlung (AN-Anteil)
+280 Bank
+```
 
 2. Arbeitgeber-Anteil an der SV
 
-    ```
-    640 AG-Anteil SV
-    an
-    264 SV-Vorausszahlung
-    ```
+```
+640 AG-Anteil SV
+an
+264 SV-Vorausszahlung
+```
 
 3. Zahlung der SV-Beiträge
 
-    ```
-    264 SV-Vorausszahlung
-    an 280 Bank
-    ```
+```
+264 SV-Vorausszahlung
+an 280 Bank
+```
 
 4. Steuerzahlung
 
-    ```
-    483 Verbindl. ggü Finanzamt
-    an 280 Bank
-    ```
+```
+483 Verbindl. ggü Finanzamt
+an 280 Bank
+```
 
-    
+
 
 ## Anlagen
 
@@ -330,11 +329,11 @@ an
 | leistung  | Entsprechend der Leistung, muss gemessen werden     | LKW nach km-anzahl    |
 | substanz  | entsprechend der entnommenen Substanz               | Kiesgrube nach Menge  |
 
-Buchung: (direkt)
+Buchung: (direkt, linear)
 
 ```
 652 Abschreibungen auf Sachanlagen
-an 07 Maschinen 
+an 07 Maschinen / ...
 ```
 
 Maschinenkonto zeigt dann Restbuchwert, praktisch
@@ -565,7 +564,7 @@ an
 480 Umsatzsteuer
 ```
 
-### Einlage von PKW
+### Einlage von Anlagen
 
 ```
 084 Fuhrpark / 07 Maschinen / ...
